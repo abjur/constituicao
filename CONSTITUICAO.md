@@ -330,7 +330,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
 
-  XXIX - ação, quando aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho;
+  XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho;
 
     _a)_ (Revogada).
 
@@ -978,7 +978,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _d)_ prestação de contas da administração pública, direta e indireta;
 
-    _e)_ aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
+    _e)_ aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde.
 
 **Art. 35.** O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando:
 
@@ -986,7 +986,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - não forem prestadas contas devidas, na forma da lei;
 
-  III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino;
+  III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde;
 
   IV - o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios indicados na Constituição estadual, ou para prover a execução de lei, de ordem ou de decisão judicial.
 
@@ -2058,11 +2058,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 100.** À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Federal, Estadual ou Municipal, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
 
- **§ 1º** É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos constantes de precatórios judiciários, apresentados até 1º de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.
+ **§ 1º** É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado, constantes de precatórios judiciários, apresentados até 1º de julho, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente.
 
- **§ 2º** As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhendo-se as importâncias respectivas à repartição competente, cabendo ao Presidente do tribunal que proferir a decisão exeqüenda determinar o pagamento, segundo as possibilidades do depósito, e autorizar, a requerimento do credor e exclusivamente para o caso de preterimento de seu direito de precedência, o seqüestro da quantia necessária à satisfação do débito.
+ **§ 1º-A** Os débitos de natureza alimentícia compreendem aqueles decorrentes de salários, vencimentos, proventos, pensões e suas complementações, benefícios previdenciários e indenizações por morte ou invalidez, fundadas na responsabilidade civil, em virtude de sentença transitada em julgado.
 
- **§ 3º** O disposto no caput deste artigo, relativamente à expedição de precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Federal, Estadual ou Municipal deva fazer em virtude de sentença judicial transitada em julgado.
+ **§ 2º** As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exeqüenda determinar o pagamento segundo as possibilidades do depósito, e autorizar, a requerimento do credor, e exclusivamente para o caso de preterimento de seu direito de precedência, o seqüestro da quantia necessária à satisfação do débito.
+
+ **§ 3º** O disposto no caput deste artigo, relativamente à expedição de precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Federal, Estadual, Distrital ou Municipal deva fazer em virtude de sentença judicial transitada em julgado.
+
+ **§ 4º** A lei poderá fixar valores distintos para o fim previsto no § 3º deste artigo, segundo as diferentes capacidades das entidades de direito público.
+
+ **§ 5º** O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatório incorrerá em crime de responsabilidade.
 
 #### Seção II: Do Supremo Tribunal Federal
 
@@ -2928,7 +2934,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - (Revogado).
 
- **§ 1º** O imposto previsto no inciso I poderá ser progressivo, nos termos de lei municipal, de forma a assegurar o cumprimento da função social da propriedade.
+ **§ 1º** Sem prejuízo da progressividade no tempo a que se refere o art. 182, § 4º, inciso II, o imposto previsto no inciso I poderá:
+
+  I - ser progressivo em razão do valor do imóvel; e
+
+  II - ter alíquotas diferentes de acordo com a localização e o uso do imóvel.
 
  **§ 2º** O imposto previsto no inciso II:
 
@@ -2988,7 +2998,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 160.** É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta Seção, aos Estados, ao Distrito Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos.
 
- **Parágrafo único.** A vedação prevista neste artigo não impede a União e os Estados de condicionarem a entrega de recursos ao pagamento de seus créditos, inclusive de suas autarquias.
+ **Parágrafo único.** A vedação prevista neste artigo não impede a União e os Estados de condicionarem a entrega de recursos:
+
+  I - ao pagamento de seus créditos, inclusive de suas autarquias;
+
+  II - ao cumprimento do disposto no art. 198, § 2º, incisos II e III.
 
 **Art. 161.** Cabe à lei complementar:
 
@@ -3116,7 +3130,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta;
 
-  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para manutenção e desenvolvimento do ensino, como determinado pelo art. 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem assim o disposto no § 4º deste artigo;
+  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde e para manutenção e desenvolvimento do ensino, como determinado, respectivamente, pelos arts. 198, § 2º, e 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;
 
   V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;
 
@@ -3488,7 +3502,25 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - participação da comunidade.
 
- **Parágrafo único.** O sistema único de saúde será financiado, nos termos do art. 195, com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes.
+ **§ 1º** O sistema único de saúde será financiado, nos termos do art. 195, com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes.
+
+ **§ 2º** A União, os Estados, o Distrito Federal e os Municípios aplicarão, anualmente, em ações e serviços públicos de saúde recursos mínimos derivados da aplicação de percentuais calculados sobre:
+
+  I - no caso da União, na forma definida nos termos da lei complementar prevista no § 3º;
+
+  II - no caso dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 157 e 159, inciso I, alínea a, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios;
+
+  III - no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se refere o art. 156 e dos recursos de que tratam os arts. 158 e 159, inciso I, alínea b e § 3º.
+
+ **§ 3º** Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá:
+
+  I - os percentuais de que trata o § 2º;
+
+  II - os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados a seus respectivos Municípios, objetivando a progressiva redução das disparidades regionais;
+
+  III - as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal;
+
+  IV - as normas de cálculo do montante a ser aplicado pela União.
 
 **Art. 199.** A assistência à saúde é livre à iniciativa privada.
 
@@ -4571,6 +4603,36 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 1º** O disposto no caput deste artigo não reduzirá a base de cálculo das transferências a Estados, Distrito Federal e Municípios na forma dos arts. 153, § 5º; 157,I; 158, I e II; e I, e 159, I, a e b, e II, da Constituição, bem como a base de cálculo das aplicações em programas de financiamento ao setor produtivo das regiões Norte, Nordeste e Centro Oeste a que se refere o art. 159, I, c, da Constituição.
 
  **§ 2º** Excetua-se da desvinculação de que trata o caput deste artigo a arrecadação da contribuição social do salário - educação a que se refere o art. 212, § 5º, da Constituição.
+
+**Art. 77.** Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes:
+
+  I - no caso da União:
+
+    _a)_ no ano 2000, o montante empenhado em ações e serviços públicos de saúde no exercício financeiro de 1999 acrescido de, no mínimo, cinco por cento;
+
+    _b)_ do ano 2001 ao ano 2004, o valor apurado no ano anterior, corrigido pela variação nominal do Produto Interno Bruto - PIB;
+
+  II - no caso dos Estados e do Distrito Federal, doze por cento do produto da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 157 e 159, inciso I, alínea a, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios; e
+
+  III - no caso dos Municípios e do Distrito Federal, quinze por cento do produto da arrecadação dos impostos a que se refere o art. 156 e dos recursos de que tratam os arts. 158 e 159, inciso I, alínea b e § 3º.
+
+ **§ 1º** Os Estados, o Distrito Federal e os Municípios que apliquem percentuais inferiores aos fixados nos incisos II e III deverão elevá-los gradualmente, até o exercício financeiro de 2004, reduzida a diferença à razão de, pelo menos, um quinto por ano, sendo que, a partir de 2000, a aplicação será de pelo menos sete por cento.
+
+ **§ 2º** Dos recursos da União apurados nos termos deste artigo, quinze por cento, no mínimo, serão aplicados nos Municípios, segundo o critério populacional, em ações e serviços básicos de saúde, na forma da lei.
+
+ **§ 3º** Os recursos dos Estados, do Distrito Federal e dos Municípios destinados às ações e serviços públicos de saúde e os transferidos pela União para a mesma finalidade serão aplicados por meio de Fundo de Saúde que será acompanhado e fiscalizado por Conselho de Saúde, sem prejuízo do disposto no art. 74 da Constituição Federal.
+
+ **§ 4º** Na ausência da lei complementar a que se refere o art. 198, § 3º, a partir do exercício financeiro de 2005, aplicar-se-á à União, aos Estados, ao Distrito Federal e aos Municípios o disposto neste artigo.
+
+**Art. 78.** Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposições Constitucionais Transitórias e suas complementações e os que já tiverem os seus respectivos recursos liberados ou depositados em juízo, os precatórios pendentes na data de promulgação desta Emenda e os que decorram de ações iniciais ajuizadas até 31 de dezembro de 1999 serão liquidados pelo seu valor real, em moeda corrente, acrescido de juros legais, em prestações anuais, iguais e sucessivas, no prazo máximo de dez anos, permitida a cessão dos créditos.
+
+ **§ 1º** É permitida a decomposição de parcelas, a critério do credor.
+
+ **§ 2º** As prestações anuais a que se refere o caput deste artigo terão, se não liquidadas até o final do exercício a que se referem, poder liberatório do pagamento de tributos da entidade devedora.
+
+ **§ 3º** O prazo referido no caput deste artigo fica reduzido para dois anos, nos casos de precatórios judiciais originários de desapropriação de imóvel residencial do credor, desde que comprovadamente único à época da imissão na posse.
+
+ **§ 4º** O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o seqüestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação.
 
 Brasília, 5 de outubro de 1988.
 
