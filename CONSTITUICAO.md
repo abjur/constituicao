@@ -804,7 +804,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** Será de quatro anos o mandato dos Deputados Estaduais, aplicando-se-lhes as regras desta Constituição sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas.
 
- **§ 2º** A remuneração dos Deputados Estaduais será fixada em cada legislatura, para a subseqüente, pela Assembléia Legislativa, observado o que dispõem os arts. 150, II, 153, III, e 153, § 2º, I.
+ **§ 2º** A remuneração dos Deputados Estaduais será fixada em cada legislatura, para a subseqüente, pela Assembléia Legislativa, observado o que dispõem os arts. 150, II; 153, III, e 153, § 2º, I, na razão de, no máximo, setenta e cinco por cento daquela estabelecida, em espécie, para os Deputados Federais.
 
  **§ 3º** Compete às Assembléias Legislativas dispor sobre seu regimento interno, polícia e serviços administrativos de sua secretaria, e prover os respectivos cargos.
 
@@ -834,19 +834,23 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - remuneração do Prefeito, do Vice-Prefeito e dos Vereadores fixada pela Câmara Municipal em cada legislatura, para a subseqüente, observado o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I;
 
-  VI - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município;
+  VI - a remuneração dos Vereadores corresponderá a, no máximo, setenta e cinco por cento daquela estabelecida, em espécie, para os Deputados Estaduais, ressalvado o que dispõe o art. 37, XI;
 
-  VII - proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e na Constituição do respectivo Estado para os membros da Assembléia Legislativa;
+  VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município;
 
-  VIII - julgamento do Prefeito perante o Tribunal de Justiça;
+  VIII - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município;
 
-  IX - organização das funções legislativas e fiscalizadoras da Câmara Municipal;
+  IX - proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e na Constituição do respectivo Estado para os membros da Assembléia Legislativa;
 
-  X - cooperação das associações representativas no planejamento municipal;
+  X - julgamento do Prefeito perante o Tribunal de Justiça;
 
-  XI - iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado;
+  XI - organização das funções legislativas e fiscalizadoras da Câmara Municipal;
 
-  XII - perda do mandato do Prefeito, nos termos do art. 28, parágrafo único.
+  XII - cooperação das associações representativas no planejamento municipal;
+
+  XIII - iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado;
+
+  XIV - perda do mandato do Prefeito, nos termos do art. 28, parágrafo único.
 
 **Art. 30.** Compete aos Municípios:
 
