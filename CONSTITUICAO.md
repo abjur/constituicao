@@ -3924,11 +3924,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - respeito aos valores éticos e sociais da pessoa e da família.
 
-**Art. 222.** A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, aos quais caberá a responsabilidade por sua administração e orientação intelectual.
+**Art. 222.** A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, ou de pessoas jurídicas constituídas sob as leis brasileiras e que tenham sede no País.
 
- **§ 1º** É vedada a participação de pessoa jurídica no capital social de empresa jornalística ou de radiodifusão, exceto a de partido político e de sociedades cujo capital pertença exclusiva e nominalmente a brasileiros.
+ **§ 1º** Em qualquer caso, pelo menos setenta por cento do capital total e do capital votante das empresas jornalísticas e de radiodifusão sonora e de sons e imagens deverá pertencer, direta ou indiretamente, a brasileiros natos ou naturalizados há mais de dez anos, que exercerão obrigatoriamente a gestão das atividades e estabelecerão o conteúdo da programação.
 
- **§ 2º** A participação referida no parágrafo anterior só se efetuará através de capital sem direito a voto e não poderá exceder a trinta por cento do capital social.
+ **§ 2º** A responsabilidade editorial e as atividades de seleção e direção da programação veiculada são privativas de brasileiros natos ou naturalizados há mais de dez anos, em qualquer meio de comunicação social.
+
+ **§ 3º** Os meios de comunicação social eletrônica, independentemente da tecnologia utilizada para a prestação do serviço, deverão observar os princípios enunciados no art. 221, na forma de lei específica, que também garantirá a prioridade de profissionais brasileiros na execução de produções nacionais.
+
+ **§ 4º** Lei disciplinará a participação de capital estrangeiro nas empresas de que trata o § 1º.
+
+ **§ 5º** As alterações de controle societário das empresas de que trata o § 1º serão comunicadas ao Congresso Nacional.
 
 **Art. 223.** Compete ao Poder Executivo outorgar e renovar concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado, público e estatal.
 
