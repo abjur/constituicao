@@ -270,7 +270,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 ### Capítulo II: Dos Direitos Sociais
 
-**Art. 6º** São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+**Art. 6º** São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
 
 **Art. 7º** São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
 
@@ -842,7 +842,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
-  VI - subsídio dos Vereadores fixado por lei de iniciativa da Câmara Municipal, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Estaduais, observado o que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I;
+  VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+
+    _a)_ em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais;
+
+    _b)_ em Municípios de dez mil e um a cinqüenta mil habitantes, o subsídio máximo dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados Estaduais;
+
+    _c)_ em Municípios de cinqüenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados Estaduais;
+
+    _d)_ em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a cinqüenta por cento do subsídio dos Deputados Estaduais;
+
+    _e)_ em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais;
+
+    _f)_ em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais;
 
   VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município;
 
@@ -859,6 +871,28 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   XIII - iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado;
 
   XIV - perda do mandato do Prefeito, nos termos do art. 28, parágrafo único.
+
+**Art. 29-A.** O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:
+
+  I - oito por cento para Municípios com população de até cem mil habitantes;
+
+  II - sete por cento para Municípios com população entre cem mil e um e trezentos mil habitantes;
+
+  III - seis por cento para Municípios com população entre trezentos mil e um e quinhentos mil habitantes;
+
+  IV - cinco por cento para Municípios com população acima de quinhentos mil habitantes.
+
+ **§ 1º** A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.
+
+ **§ 2º** Constitui crime de responsabilidade do Prefeito Municipal:
+
+  I - efetuar repasse que supere os limites definidos neste artigo;
+
+  II - não enviar o repasse até o dia vinte de cada mês; ou
+
+  III - enviá-lo a menor em relação à proporção fixada na Lei Orçamentária.
+
+ **§ 3º** Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § 1º deste artigo.
 
 **Art. 30.** Compete aos Municípios:
 
