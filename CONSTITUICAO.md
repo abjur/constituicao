@@ -604,11 +604,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   X - manter o serviço postal e o correio aéreo nacional;
 
-  XI - explorar, diretamente ou mediante concessão a empresas sob controle acionário estatal, os serviços telefônicos, telegráficos, de transmissão de dados e demais serviços públicos de telecomunicações, assegurada a prestação de serviços de informações por entidades de direito privado através da rede pública de telecomunicações explorada pela União;
+  XI - explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais;
 
   XII - explorar, diretamente ou mediante autorização, concessão ou permissão:
 
-    _a)_ os serviços de radiodifusão sonora, de sons e imagens e demais serviços de telecomunicações;
+    _a)_ os serviços de radiodifusão sonora e de sons e imagens;
 
     _b)_ os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos;
 
@@ -790,7 +790,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição.
 
- **§ 2º** Cabe aos Estados explorar diretamente, ou mediante concessão a empresa estatal, com exclusividade de distribuição, os serviços locais de gás canalizado.
+ **§ 2º** Cabe aos Estados explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida provisória para a sua regulamentação.
 
  **§ 3º** Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de Municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum.
 
@@ -3048,27 +3048,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - busca do pleno emprego;
 
-  IX - tratamento favorecido para as empresas brasileiras de capital nacional de pequeno porte.
+  IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
 
  **Parágrafo único.** É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei.
 
-**Art. 171.** São consideradas:
-
-  I - empresa brasileira a constituída sob as leis brasileiras e que tenha sua sede e administração no País;
-
-  II - empresa brasileira de capital nacional aquela cujo controle efetivo esteja em caráter permanente sob a titularidade direta ou indireta de pessoas físicas domiciliadas e residentes no País ou de entidades de direito público interno, entendendo-se por controle efetivo da empresa a titularidade da maioria de seu capital votante e o exercício, de fato e de direito, do poder decisório para gerir suas atividades.
-
- **§ 1º** A lei poderá, em relação à empresa brasileira de capital nacional:
-
-  I - conceder proteção e benefícios especiais temporários para desenvolver atividades consideradas estratégicas para a defesa nacional ou imprescindíveis ao desenvolvimento do País;
-
-  II - estabelecer, sempre que considerar um setor imprescindível ao desenvolvimento tecnológico nacional, entre outras condições e requisitos:
-
-    _a)_ a exigência de que o controle referido no inciso II do caput se estenda às atividades tecnológicas da empresa, assim entendido o exercício, de fato e de direito, do poder decisório para desenvolver ou absorver tecnologia;
-
-    _b)_ percentuais de participação, no capital, de pessoas físicas domiciliadas e residentes no País ou entidades de direito público interno.
-
- **§ 2º** Na aquisição de bens e serviços, o poder público dará tratamento preferencial, nos termos da lei, à empresa brasileira de capital nacional.
+**Art. 171.** (Revogado).
 
 **Art. 172.** A lei disciplinará, com base no interesse nacional, os investimentos de capital estrangeiro, incentivará os reinvestimentos e regulará a remessa de lucros.
 
@@ -3108,7 +3092,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 176.** As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de energia hidráulica constituem propriedade distinta da do solo, para efeito de exploração ou aproveitamento, e pertencem à União, garantida ao concessionário a propriedade do produto da lavra.
 
- **§ 1º** A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere o caput deste artigo somente poderão ser efetuados mediante autorização ou concessão da União, no interesse nacional, por brasileiros ou empresa brasileira de capital nacional, na forma da lei, que estabelecerá as condições específicas quando essas atividades se desenvolverem em faixa de fronteira ou terras indígenas.
+ **§ 1º** A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere o caput deste artigo somente poderão ser efetuados mediante autorização ou concessão da União, no interesse nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que tenha sua sede e administração no País, na forma da lei, que estabelecerá as condições específicas quando essas atividades se desenvolverem em faixa de fronteira ou terras indígenas.
 
  **§ 2º** É assegurada participação ao proprietário do solo nos resultados da lavra, na forma e no valor que dispuser a lei.
 
@@ -3132,21 +3116,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional.
 
-**Art. 178.** A lei disporá sobre:
+**Art. 178.** A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade.
 
-  I - a ordenação dos transportes aéreo, marítimo e terrestre;
-
-  II - a predominância dos armadores nacionais e navios de bandeira e registros brasileiros e do país exportador ou importador;
-
-  III - o transporte de granéis;
-
-  IV - a utilização de embarcações de pesca e outras.
-
- **§ 1º** A ordenação do transporte internacional cumprirá os acordos firmados pela União, atendido o princípio de reciprocidade.
-
- **§ 2º** Serão brasileiros os armadores, os proprietários, os comandantes e dois terços, pelo menos, dos tripulantes de embarcações nacionais.
-
- **§ 3º** A navegação de cabotagem e a interior são privativas de embarcações nacionais, salvo caso de necessidade pública, segundo dispuser a lei.
+ **Parágrafo único.** Na ordenação do transporte aquático, a lei estabelecerá as condições em que o transporte de mercadorias na cabotagem e a navegação interior poderão ser feitos por embarcações estrangeiras.
 
 **Art. 179.** A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.
 
@@ -3847,6 +3819,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 **Art. 244.** A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas portadoras de deficiência, conforme o disposto no art. 227, § 2º.
 
 **Art. 245.** A lei disporá sobre as hipóteses e condições em que o poder público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito.
+
+**Art. 246.** É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada a partir de 1995.
 
 ## Ato das Disposições Constitucionais Transitórias
 
