@@ -412,7 +412,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - da carreira diplomática;
 
-  VI - de oficial das Forças Armadas.
+  VI - de oficial das Forças Armadas;
+
+  VII - de Ministro de Estado da Defesa.
 
  **§ 4º** Será declarada a perda da nacionalidade do brasileiro que:
 
@@ -1306,7 +1308,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 52.** Compete privativamente ao Senado Federal:
 
-  I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade e os Ministros de Estado nos crimes da mesma natureza conexos com aqueles;
+  I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos com aqueles;
 
   II - processar e julgar os Ministros do Supremo Tribunal Federal, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade;
 
@@ -1754,7 +1756,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XII - conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei;
 
-  XIII - exercer o comando supremo das Forças Armadas, promover seus oficiais-generais e nomeá-los para os cargos que lhes são privativos;
+  XIII - exercer o comando supremo das Forças Armadas, nomear os Comandantes da Marinha, do Exército e da Aeronáutica, promover seus oficiais-generais e nomeá-los para os cargos que lhes são privativos;
 
   XIV - nomear, após aprovação pelo Senado Federal, os Ministros do Supremo Tribunal Federal e dos Tribunais Superiores, os Governadores de Territórios, o Procurador-Geral da República, o presidente e os diretores do Banco Central e outros servidores, quando determinado em lei;
 
@@ -1878,11 +1880,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - o Ministro da Justiça;
 
-  V - os Ministros militares;
+  V - o Ministro de Estado da Defesa;
 
   VI - o Ministro das Relações Exteriores;
 
-  VII - o Ministro do Planejamento.
+  VII - o Ministro do Planejamento;
+
+  VIII - os Comandantes da Marinha, do Exército e da Aeronáutica.
 
  **§ 1º** Compete ao Conselho de Defesa Nacional:
 
@@ -2040,7 +2044,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;
 
-    _c)_ nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado, ressalvado o disposto no art. 52, I, os membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão diplomática de caráter permanente;
+    _c)_ nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, ressalvado o disposto no art. 52, I, os membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão diplomática de caráter permanente;
 
     _d)_ o habeas corpus, sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal;
 
@@ -2130,9 +2134,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
 
-    _b)_ os mandados de segurança e os habeas data contra ato de Ministro de Estado ou do próprio Tribunal;
+    _b)_ os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;
 
-    _c)_ os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, quando coator for tribunal, sujeito à sua jurisdição, ou Ministro de Estado, ressalvada a competência da Justiça Eleitoral;
+    _c)_ os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;
 
     _d)_ os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, o, bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;
 
