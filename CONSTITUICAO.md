@@ -1270,9 +1270,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IX - organização administrativa, judiciária, do Ministério Público e da Defensoria Pública da União e dos Territórios e organização judiciária, do Ministério Público e da Defensoria Pública do Distrito Federal;
 
-  X - criação, transformação e extinção de cargos, empregos e funções públicas;
+  X - criação, transformação e extinção de cargos, empregos e funções públicas, observado o que estabelece o art. 84, VI, b;
 
-  XI - criação, estruturação e atribuições dos Ministérios e órgãos da administração pública;
+  XI - criação e extinção de Ministérios e órgãos da administração pública;
 
   XII - telecomunicações e radiodifusão;
 
@@ -1482,7 +1482,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal, ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante.
 
- **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, vedado o pagamento de parcela indenizatória em valor superior ao do subsídio mensal.
+ **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese do § 8º, vedado o pagamento de parcela indenizatória em valor superior ao subsídio mensal.
+
+ **§ 8º** Havendo medidas provisórias em vigor na data de convocação extraordinária do Congresso Nacional, serão elas automaticamente incluídas na pauta da convocação.
 
 #### Seção VII: Das Comissões
 
@@ -1576,15 +1578,53 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _d)_ organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;
 
-    _e)_ criação, estruturação e atribuições dos Ministérios e órgãos da administração pública.
+    _e)_ criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. 84, VI;
 
     _f)_ militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva.
 
  **§ 2º** A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.
 
-**Art. 62.** Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional, que, estando em recesso, será convocado extraordinariamente para se reunir no prazo de cinco dias.
+**Art. 62.** Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.
 
- **Parágrafo único.** As medidas provisórias perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de trinta dias, a partir de sua publicação, devendo o Congresso Nacional disciplinar as relações jurídicas delas decorrentes.
+ **§ 1º** É vedada a edição de medidas provisórias sobre matéria:
+
+  I - relativa a:
+
+    _a)_ nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;
+
+    _b)_ direito penal, processual penal e processual civil;
+
+    _c)_ organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;
+
+    _d)_ planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;
+
+  II - que vise a detenção ou seqüestro de bens, de poupança popular ou qualquer outro ativo financeiro;
+
+  III - reservada a lei complementar;
+
+  IV - já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou veto do Presidente da República.
+
+ **§ 2º** Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.
+
+ **§ 3º** As medidas provisórias, ressalvado o disposto nos §§ 11 e 12 perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável, nos termos do § 7º, uma vez por igual período, devendo o Congresso Nacional disciplinar, por decreto legislativo, as relações jurídicas delas decorrentes.
+
+ **§ 4º** O prazo a que se refere o § 3º contar-se-á da publicação da medida provisória, suspendendo-se durante os períodos de recesso do Congresso Nacional.
+
+ **§ 5º** A deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das medidas provisórias dependerá de juízo prévio sobre o atendimento de seus pressupostos constitucionais.
+
+ **§ 6º** Se a medida provisória não for apreciada em até quarenta e cinco dias contados de sua publicação, entrará em regime de urgência, subseqüentemente, em cada uma das Casas do Congresso Nacional, ficando sobrestadas, até que se ultime a votação, todas as demais deliberações legislativas da Casa em que estiver tramitando.
+
+ **§ 7º** Prorrogar-se-á uma única vez por igual período a vigência de medida provisória que, no prazo de sessenta dias, contado de sua publicação, não tiver a sua votação encerrada nas duas Casas do Congresso Nacional.
+
+ **§ 8º** As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
+
+ **§ 9º** Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das Casas do Congresso Nacional.
+
+ **§ 10.** É vedada a reedição, na mesma sessão legislativa, de medida provisória que tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo.
+
+ **§ 11.** Não editado o decreto legislativo a que se refere o § 3º até sessenta dias após a rejeição ou perda de eficácia de medida provisória, as relações jurídicas constituídas e decorrentes de atos praticados durante sua vigência conservar-se-ão por ela regidas.
+
+ **§ 12.** Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto.
 
 **Art. 63.** Não será admitido aumento da despesa prevista:
 
@@ -1596,7 +1636,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa.
 
- **§ 2º** Se, no caso do parágrafo anterior, a Câmara dos Deputados e o Senado Federal não se manifestarem, cada qual, sucessivamente, em até quarenta e cinco dias, sobre a proposição, será esta incluída na ordem do dia, sobrestando-se a deliberação quanto aos demais assuntos, para que se ultime a votação.
+ **§ 2º** Se, no caso do § 1º, a Câmara dos Deputados e o Senado Federal não se manifestarem sobre a proposição, cada qual sucessivamente, em até quarenta e cinco dias, sobrestar-se-ão todas as demais deliberações legislativas da respectiva Casa, com exceção das que tenham prazo constitucional determinado, até que se ultime a votação.
 
  **§ 3º** A apreciação das emendas do Senado Federal pela Câmara dos Deputados far-se-á no prazo de dez dias, observado quanto ao mais o disposto no parágrafo anterior.
 
@@ -1618,7 +1658,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 5º** Se o veto não for mantido, será o projeto enviado, para promulgação, ao Presidente da República.
 
- **§ 6º** Esgotado sem deliberação o prazo estabelecido no § 4º, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final, ressalvadas as matérias de que trata o art. 62, parágrafo único.
+ **§ 6º** Esgotado sem deliberação o prazo estabelecido no § 4º, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final.
 
  **§ 7º** Se a lei não for promulgada dentro de quarenta e oito horas pelo Presidente da República, nos casos dos §§ 3º e 5º, o Presidente do Senado a promulgará, e, se este não o fizer em igual prazo, caberá ao Vice-Presidente do Senado fazê-lo.
 
@@ -1776,7 +1816,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - vetar projetos de lei, total ou parcialmente;
 
-  VI - dispor sobre a organização e o funcionamento da administração federal, na forma da lei;
+  VI - dispor, mediante decreto, sobre:
+
+    _a)_ organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+    _b)_ extinção de funções ou cargos públicos, quando vagos;
 
   VII - manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos;
 
@@ -1870,7 +1914,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República.
 
-**Art. 88.** A lei disporá sobre a criação, estruturação e atribuições dos Ministérios.
+**Art. 88.** A lei disporá sobre a criação e extinção de Ministérios e órgãos da administração pública.
 
 #### Seção V: Do Conselho da República e do Conselho de Defesa Nacional
 
@@ -4036,7 +4080,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 245.** A lei disporá sobre as hipóteses e condições em que o poder público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito.
 
-**Art. 246.** É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada a partir de 1995.
+**Art. 246.** É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre 1º de janeiro de 1995 até a promulgação desta emenda, inclusive.
 
 **Art. 247.** As leis previstas no inciso III do § 1º do art. 41 e no § 7º do art. 169 estabelecerão critérios e garantias especiais para a perda do cargo pelo servidor público estável que, em decorrência das atribuições de seu cargo efetivo, desenvolva atividades exclusivas de Estado.
 
