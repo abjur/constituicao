@@ -2798,6 +2798,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
 
+**Art. 149-A.** Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública, observado o disposto no art. 150, I e III.
+
+ **Parágrafo único.** É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.
+
 #### Seção II: Das Limitações do Poder de Tributar
 
 **Art. 150.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
