@@ -3124,7 +3124,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - emissão e resgate de títulos da dívida pública;
 
-  V - fiscalização das instituições financeiras;
+  V - fiscalização financeira da administração pública direta e indireta;
 
   VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios;
 
@@ -3504,33 +3504,33 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 ### Capítulo IV: Do Sistema Financeiro Nacional
 
-**Art. 192.** O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade, será regulado em lei complementar, que disporá, inclusive, sobre:
+**Art. 192.** O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade, em todas as partes que o compõem, abrangendo as cooperativas de crédito, será regulado por leis complementares que disporão, inclusive, sobre a participação do capital estrangeiro nas instituições que o integram.
 
-  I - a autorização para o funcionamento das instituições financeiras, assegurado às instituições bancárias oficiais e privadas acesso a todos os instrumentos do mercado financeiro bancário, sendo vedada a essas instituições a participação em atividades não previstas na autorização de que trata este inciso;
+  I - (Revogado).
 
-  II - autorização e funcionamento dos estabelecimentos de seguro, resseguro, previdência e capitalização, bem como do órgão oficial fiscalizador;
+  II - (Revogado).
 
-  III - as condições para a participação do capital estrangeiro nas instituições a que se referem os incisos anteriores, tendo em vista, especialmente:
+  III - (Revogado).
 
-    _a)_ os interesses nacionais;
+    _a)_ (Revogado).
 
-    _b)_ os acordos internacionais;
+    _b)_ (Revogado).
 
-  IV - a organização, o funcionamento e as atribuições do Banco Central e demais instituições financeiras públicas e privadas;
+  IV - (Revogado).
 
-  V - os requisitos para a designação de membros da diretoria do Banco Central e demais instituições financeiras, bem como seus impedimentos após o exercício do cargo;
+  V - (Revogado).
 
-  VI - a criação de fundo ou seguro, com o objetivo de proteger a economia popular, garantindo créditos, aplicações e depósitos até determinado valor, vedada a participação de recursos da União;
+  VI - (Revogado).
 
-  VII - os critérios restritivos da transferência de poupança de regiões com renda inferior à média nacional para outras de maior desenvolvimento;
+  VII - (Revogado).
 
-  VIII - o funcionamento das cooperativas de crédito e os requisitos para que possam ter condições de operacionalidade e estruturação próprias das instituições financeiras.
+  VIII - (Revogado).
 
- **§ 1º** A autorização a que se referem os incisos I e II será inegociável e intransferível, permitida a transmissão do controle da pessoa jurídica titular, e concedida sem ônus, na forma da lei do sistema financeiro nacional, a pessoa jurídica cujos diretores tenham capacidade técnica e reputação ilibada, e que comprove capacidade econômica compatível com o empreendimento.
+ **§ 1º** (Revogado).
 
- **§ 2º** Os recursos financeiros relativos a programas e projetos de caráter regional, de responsabilidade da União, serão depositados em suas instituições regionais de crédito e por elas aplicados.
+ **§ 2º** (Revogado).
 
- **§ 3º** As taxas de juros reais, nelas incluídas comissões e quaisquer outras remunerações direta ou indiretamente referidas à concessão de crédito, não poderão ser superiores a doze por cento ao ano; a cobrança acima deste limite será conceituada como crime de usura, punido, em todas as suas modalidades, nos termos que a lei determinar.
+ **§ 3º** (Revogado).
 
 ## Título VIII: Da Ordem Social
 
@@ -4568,7 +4568,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Nas hipóteses previstas nos parágrafos anteriores, comprovada a ilegalidade, ou havendo interesse público, as terras reverterão ao patrimônio da União, dos Estados, do Distrito Federal ou dos Municípios.
 
-**Art. 52.** Até que sejam fixadas as condições a que se refere o art. 192, III, são vedados:
+**Art. 52.** Até que sejam fixadas as condições do art. 192, são vedados:
 
   I - a instalação, no País, de novas agências de instituições financeiras domiciliadas no exterior;
 
