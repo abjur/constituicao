@@ -264,9 +264,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   LXXVII - são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania.
 
+  LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+
  **§ 1º** As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.
 
  **§ 2º** Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.
+
+ **§ 3º** Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.
+
+ **§ 4º** O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão.
 
 ### Capítulo II: Dos Direitos Sociais
 
@@ -996,9 +1002,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - no caso de desobediência a ordem ou decisão judiciária, de requisição do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do Tribunal Superior Eleitoral;
 
-  III - de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral da República, na hipótese do art. 34, VII;
+  III - de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de recusa à execução de lei federal.
 
-  IV - de provimento, pelo Superior Tribunal de Justiça, de representação do Procurador-Geral da República, no caso de recusa à execução de lei federal.
+  IV - (Revogado).
 
  **§ 1º** O decreto de intervenção, que especificará a amplitude, o prazo e as condições de execução e que, se couber, nomeará o interventor, será submetido à apreciação do Congresso Nacional ou da Assembléia Legislativa do Estado, no prazo de vinte e quatro horas.
 
@@ -1358,7 +1364,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos com aqueles;
 
-  II - processar e julgar os Ministros do Supremo Tribunal Federal, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade;
+  II - processar e julgar os Ministros do Supremo Tribunal Federal, os membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade;
 
   III - aprovar previamente, por voto secreto, após argüição pública, a escolha de:
 
@@ -2004,6 +2010,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - o Supremo Tribunal Federal;
 
+  I-A - o Conselho Nacional de Justiça;
+
   II - o Superior Tribunal de Justiça;
 
   III - os Tribunais Regionais Federais e Juízes Federais;
@@ -2016,11 +2024,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VII - os Tribunais e Juízes dos Estados e do Distrito Federal e Territórios.
 
- **Parágrafo único.** O Supremo Tribunal Federal e os Tribunais Superiores têm sede na Capital Federal e jurisdição em todo o território nacional.
+ **§ 1º** O Supremo Tribunal Federal, o Conselho Nacional de Justiça e os Tribunais Superiores têm sede na Capital Federal.
+
+ **§ 2º** O Supremo Tribunal Federal e os Tribunais Superiores têm jurisdição em todo o território nacional.
 
 **Art. 93.** Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios:
 
-  I - ingresso na carreira, cujo cargo inicial será o de juiz substituto, através de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, obedecendo-se, nas nomeações, à ordem de classificação;
+  I - ingresso na carreira, cujo cargo inicial será o de juiz substituto, mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as fases, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e obedecendo-se, nas nomeações, à ordem de classificação;
 
   II - promoção de entrância para entrância, alternadamente, por antiguidade e merecimento, atendidas as seguintes normas:
 
@@ -2028,27 +2038,39 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o juiz a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago;
 
-    _c)_ aferição do merecimento pelos critérios da presteza e segurança no exercício da jurisdição e pela freqüência e aproveitamento em cursos reconhecidos de aperfeiçoamento;
+    _c)_ aferição do merecimento conforme o desempenho e pelos critérios objetivos de produtividade e presteza no exercício da jurisdição e pela freqüência e aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento;
 
-    _d)_ na apuração da antiguidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto de dois terços de seus membros, conforme procedimento próprio, repetindo-se a votação até fixar-se a indicação;
+    _d)_ na apuração de antigüidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto fundamentado de dois terços de seus membros, conforme procedimento próprio, e assegurada ampla defesa, repetindo-se a votação até fixar-se a indicação;
 
-  III - o acesso aos tribunais de segundo grau far-se-á por antiguidade e merecimento, alternadamente, apurados na última entrância ou, onde houver, no Tribunal de Alçada, quando se tratar de promoção para o Tribunal de Justiça, de acordo com o inciso II e a classe de origem;
+    _e)_ não será promovido o juiz que, injustificadamente, retiver autos em seu poder além do prazo legal, não podendo devolvê-los ao cartório sem o devido despacho ou decisão;
 
-  IV - previsão de cursos oficiais de preparação e aperfeiçoamento de magistrados como requisitos para ingresso e promoção na carreira;
+  III - o acesso aos tribunais de segundo grau far-se-á por antigüidade e merecimento, alternadamente, apurados na última ou única entrância;
+
+  IV - previsão de cursos oficiais de preparação, aperfeiçoamento e promoção de magistrados, constituindo etapa obrigatória do processo de vitaliciamento a participação em curso oficial ou reconhecido por escola nacional de formação e aperfeiçoamento de magistrados;
 
   V - o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, § 4º;
 
   VI - a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. 40;
 
-  VII - o juiz titular residirá na respectiva comarca;
+  VII - o juiz titular residirá na respectiva comarca, salvo autorização do tribunal;
 
-  VIII - o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse público, fundar-se-á em decisão por voto de dois terços do respectivo tribunal, assegurada ampla defesa;
+  VIII - o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse público, fundar-se-á em decisão por voto da maioria absoluta do respectivo tribunal ou do Conselho Nacional de Justiça, assegurada ampla defesa;
 
-  IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei, se o interesse público o exigir, limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes;
+  VIII-A - a remoção a pedido ou a permuta de magistrados de comarca de igual entrância atenderá, no que couber, ao disposto nas alíneas a, b, c e e do inciso II;
 
-  X - as decisões administrativas dos tribunais serão motivadas, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus membros;
+  IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes, em casos nos quais a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação;
 
-  XI - nos tribunais com número superior a vinte e cinco julgadores, poderá ser constituído órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições administrativas e jurisdicionais da competência do tribunal pleno.
+  X - as decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus membros;
+
+  XI - nos tribunais com número superior a vinte e cinco julgadores, poderá ser constituído órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno, provendo-se metade das vagas por antigüidade e a outra metade por eleição pelo tribunal pleno;
+
+  XII - a atividade jurisdicional será ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente;
+
+  XIII - o número de juízes na unidade jurisdicional será proporcional à efetiva demanda judicial e à respectiva população;
+
+  XIV - os servidores receberão delegação para a prática de atos de administração e atos de mero expediente sem caráter decisório;
+
+  XV - a distribuição de processos será imediata, em todos os graus de jurisdição.
 
 **Art. 94.** Um quinto dos lugares dos Tribunais Regionais Federais, dos tribunais dos Estados, e do Distrito Federal e Territórios será composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.
 
@@ -2068,7 +2090,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - receber, a qualquer título ou pretexto, custas ou participação em processo;
 
-  III - dedicar-se a atividade político-partidária.
+  III - dedicar-se a atividade político-partidária;
+
+  IV - receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei;
+
+  V - exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração.
 
 **Art. 96.** Compete privativamente:
 
@@ -2106,7 +2132,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação.
 
- **Parágrafo único.** Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal.
+ **§ 1º** Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal.
+
+ **§ 2º** As custas e emolumentos serão destinados exclusivamente ao custeio dos serviços afetos às atividades específicas da Justiça.
 
 **Art. 99.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira.
 
@@ -2117,6 +2145,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   I - no âmbito da União, aos Presidentes do Supremo Tribunal Federal e dos Tribunais Superiores, com a aprovação dos respectivos tribunais;
 
   II - no âmbito dos Estados e no do Distrito Federal e Territórios, aos Presidentes dos Tribunais de Justiça, com a aprovação dos respectivos tribunais.
+
+ **§ 3º** Se os órgãos referidos no § 2º não encaminharem as respectivas propostas orçamentárias dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § 1º deste artigo.
+
+ **§ 4º** Se as propostas orçamentárias de que trata este artigo forem encaminhadas em desacordo com os limites estipulados na forma do § 1º, o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual.
+
+ **§ 5º** Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais.
 
 **Art. 100.** À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Federal, Estadual ou Municipal, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
 
@@ -2158,7 +2192,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _g)_ a extradição solicitada por Estado estrangeiro;
 
-    _h)_ a homologação das sentenças estrangeiras e a concessão do exequatur às cartas rogatórias, que podem ser conferidas pelo regimento interno a seu Presidente;
+    _h)_ (Revogada).
 
     _i)_ o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;
 
@@ -2176,6 +2210,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _q)_ o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, da Mesa de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal;
 
+    _r)_ as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público;
+
   II - julgar, em recurso ordinário:
 
     _a)_ o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;
@@ -2190,11 +2226,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ julgar válida lei ou ato de governo local contestado em face desta Constituição.
 
+    _d)_ julgar válida lei local contestada em face de lei federal.
+
  **§ 1º** A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei.
 
- **§ 2º** As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações declaratórias de constitucionalidade de lei ou ato normativo federal, produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e ao Poder Executivo.
+ **§ 2º** As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal.
 
-**Art. 103.** Podem propor a ação de inconstitucionalidade:
+ **§ 3º** No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+
+**Art. 103.** Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:
 
   I - o Presidente da República;
 
@@ -2202,9 +2242,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - a Mesa da Câmara dos Deputados;
 
-  IV - a Mesa de Assembléia Legislativa;
+  IV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;
 
-  V - o Governador de Estado;
+  V - o Governador de Estado ou do Distrito Federal;
 
   VI - o Procurador-Geral da República;
 
@@ -2220,13 +2260,83 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
 
- **§ 4º** A ação declaratória de constitucionalidade poderá ser proposta pelo Presidente da República, pela Mesa do Senado Federal, pela Mesa da Câmara dos Deputados ou pelo Procurador-Geral da República.
+ **§ 4º** (Revogado).
+
+**Art. 103-A.** O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+
+ **§ 1º** A súmula terá por objetivo a validade, a interpretação e a eficácia de normas determinadas, acerca das quais haja controvérsia atual entre órgãos judiciários ou entre esses e a administração pública que acarrete grave insegurança jurídica e relevante multiplicação de processos sobre questão idêntica.
+
+ **§ 2º** Sem prejuízo do que vier a ser estabelecido em lei, a aprovação, revisão ou cancelamento de súmula poderá ser provocada por aqueles que podem propor a ação direta de inconstitucionalidade.
+
+ **§ 3º** Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+
+**Art. 103-B.** O Conselho Nacional de Justiça compõe-se de quinze membros com mais de trinta e cinco e menos de sessenta e seis anos de idade, com mandato de dois anos, admitida uma recondução, sendo:
+
+  I - um Ministro do Supremo Tribunal Federal, indicado pelo respectivo tribunal;
+
+  II - um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal;
+
+  III - um Ministro do Tribunal Superior do Trabalho, indicado pelo respectivo tribunal;
+
+  IV - um desembargador de Tribunal de Justiça, indicado pelo Supremo Tribunal Federal;
+
+  V - um juiz estadual, indicado pelo Supremo Tribunal Federal;
+
+  VI - um juiz federal de Tribunal Regional Federal, indicado pelo Superior Tribunal de Justiça;
+
+  VII - um juiz federal, indicado pelo Superior Tribunal de Justiça;
+
+  VIII - um juiz de Tribunal Regional do Trabalho, indicado pelo Tribunal Superior do Trabalho;
+
+  IX - um juiz do trabalho, indicado pelo Tribunal Superior do Trabalho;
+
+  X - um membro do Ministério Público da União, indicado pelo Procurador-Geral da República;
+
+  XI - um membro do Ministério Público estadual, escolhido pelo Procurador-Geral da República dentre os nomes indicados pelo órgão competente de cada instituição estadual;
+
+  XII - dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil;
+
+  XIII - dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
+
+ **§ 1º** O Conselho será presidido pelo Ministro do Supremo Tribunal Federal, que votará em caso de empate, ficando excluído da distribuição de processos naquele tribunal.
+
+ **§ 2º** Os membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
+
+ **§ 3º** Não efetuadas, no prazo legal, as indicações previstas neste artigo, caberá a escolha ao Supremo Tribunal Federal.
+
+ **§ 4º** Compete ao Conselho o controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes, cabendo-lhe, além de outras atribuições que lhe forem conferidas pelo Estatuto da Magistratura:
+
+  I - zelar pela autonomia do Poder Judiciário e pelo cumprimento do Estatuto da Magistratura, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências;
+
+  II - zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Poder Judiciário, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência do Tribunal de Contas da União;
+
+  III - receber e conhecer das reclamações contra membros ou órgãos do Poder Judiciário, inclusive contra seus serviços auxiliares, serventias e órgãos prestadores de serviços notariais e de registro que atuem por delegação do poder público ou oficializados, sem prejuízo da competência disciplinar e correicional dos tribunais, podendo avocar processos disciplinares em curso e determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa;
+
+  IV - representar ao Ministério Público, no caso de crime contra a administração pública ou de abuso de autoridade;
+
+  V - rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de tribunais julgados há menos de um ano;
+
+  VI - elaborar semestralmente relatório estatístico sobre processos e sentenças prolatadas, por unidade da Federação, nos diferentes órgãos do Poder Judiciário;
+
+  VII - elaborar relatório anual, propondo as providências que julgar necessárias, sobre a situação do Poder Judiciário no País e as atividades do Conselho, o qual deve integrar mensagem do Presidente do Supremo Tribunal Federal a ser remetida ao Congresso Nacional, por ocasião da abertura da sessão legislativa.
+
+ **§ 5º** O Ministro do Superior Tribunal de Justiça exercerá a função de Ministro-Corregedor e ficará excluído da distribuição de processos no Tribunal, competindo-lhe, além das atribuições que lhe forem conferidas pelo Estatuto da Magistratura, as seguintes:
+
+  I - receber as reclamações e denúncias, de qualquer interessado, relativas aos magistrados e aos serviços judiciários;
+
+  II - exercer funções executivas do Conselho, de inspeção e de correição geral;
+
+  III - requisitar e designar magistrados, delegando-lhes atribuições, e requisitar servidores de juízos ou tribunais, inclusive nos Estados, Distrito Federal e Territórios.
+
+ **§ 6º** Junto ao Conselho oficiarão o Procurador-Geral da República e o Presidente do Conselho Federal da Ordem dos Advogados do Brasil.
+
+ **§ 7º** A União, inclusive no Distrito Federal e nos Territórios, criará ouvidorias de justiça, competentes para receber reclamações e denúncias de qualquer interessado contra membros ou órgãos do Poder Judiciário, ou contra seus serviços auxiliares, representando diretamente ao Conselho Nacional de Justiça.
 
 #### Seção III: Do Superior Tribunal de Justiça
 
 **Art. 104.** O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três Ministros.
 
- **Parágrafo único.** Os Ministros do Superior Tribunal de Justiça serão nomeados pelo Presidente da República, dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, de notável saber jurídico e reputação ilibada, depois de aprovada a escolha pelo Senado Federal, sendo:
+ **Parágrafo único.** Os Ministros do Superior Tribunal de Justiça serão nomeados pelo Presidente da República, dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, de notável saber jurídico e reputação ilibada, depois de aprovada a escolha pela maioria absoluta do Senado Federal, sendo:
 
   I - um terço dentre juízes dos Tribunais Regionais Federais e um terço dentre desembargadores dos Tribunais de Justiça, indicados em lista tríplice elaborada pelo próprio Tribunal;
 
@@ -2252,6 +2362,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _h)_ o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;
 
+    _i)_ a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias;
+
   II - julgar, em recurso ordinário:
 
     _a)_ os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
@@ -2264,11 +2376,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ contrariar tratado ou lei federal, ou negar-lhes vigência;
 
-    _b)_ julgar válida lei ou ato de governo local contestado em face de lei federal;
+    _b)_ julgar válido ato de governo local contestado em face de lei federal;
 
     _c)_ der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
 
- **Parágrafo único.** Funcionará junto ao Superior Tribunal de Justiça o Conselho da Justiça Federal, cabendo-lhe, na forma da lei, exercer a supervisão administrativa e orçamentária da Justiça Federal de primeiro e segundo graus.
+ **Parágrafo único.** Funcionarão junto ao Superior Tribunal de Justiça:
+
+  I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados, cabendo-lhe, dentre outras funções, regulamentar os cursos oficiais para o ingresso e promoção na carreira;
+
+  II - o Conselho da Justiça Federal, cabendo-lhe exercer, na forma da lei, a supervisão administrativa e orçamentária da Justiça Federal de primeiro e segundo graus, como órgão central do sistema e com poderes correicionais, cujas decisões terão caráter vinculante.
 
 #### Seção IV: Dos Tribunais Regionais Federais e dos Juízes Federais
 
@@ -2284,7 +2400,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - os demais, mediante promoção de juízes federais com mais de cinco anos de exercício, por antiguidade e merecimento, alternadamente.
 
- **Parágrafo único.** A lei disciplinará a remoção ou a permuta de juízes dos Tribunais Regionais Federais e determinará sua jurisdição e sede.
+ **§ 1º** A lei disciplinará a remoção ou a permuta de juízes dos Tribunais Regionais Federais e determinará sua jurisdição e sede.
+
+ **§ 2º** Os Tribunais Regionais Federais instalarão a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários.
+
+ **§ 3º** Os Tribunais Regionais Federais poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo.
 
 **Art. 108.** Compete aos Tribunais Regionais Federais:
 
@@ -2314,6 +2434,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;
 
+  V-A - as causas relativas a direitos humanos a que se refere o § 5º deste artigo;
+
   VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira;
 
   VII - os habeas corpus, em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;
@@ -2334,6 +2456,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** Na hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau.
 
+ **§ 5º** Nas hipóteses de grave violação de direitos humanos, o Procurador-Geral da República, com a finalidade de assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte, poderá suscitar, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, incidente de deslocamento de competência para a Justiça Federal.
+
 **Art. 110.** Cada Estado, bem como o Distrito Federal, constituirá uma seção judiciária, que terá por sede a respectiva capital, e varas localizadas segundo o estabelecido em lei.
 
  **Parágrafo único.** Nos Territórios Federais, a jurisdição e as atribuições cometidas aos juízes federais caberão aos juízes da Justiça local, na forma da lei.
@@ -2348,37 +2472,65 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - Juízes do Trabalho.
 
- **§ 1º** O Tribunal Superior do Trabalho compor-se-á de dezessete Ministros, togados e vitalícios, escolhidos dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, nomeados pelo Presidente da República, após aprovação pelo Senado Federal, dos quais onze escolhidos dentre juízes dos Tribunais Regionais do Trabalho, integrantes da carreira da magistratura trabalhista, três dentre advogados e três dentre membros do Ministério Público do Trabalho.
+ **§ 1º** (Revogado).
 
-  I - (Revogado).
+ **§ 2º** (Revogado).
 
-  II - (Revogado).
+ **§ 3º** (Revogado).
 
- **§ 2º** O Tribunal encaminhará ao Presidente da República listas tríplices, observando-se, quanto às vagas destinadas aos advogados e aos membros do Ministério Público, o disposto no art. 94; as listas tríplices para o provimento de cargos destinados aos juízes da magistratura trabalhista de carreira deverão ser elaboradas pelos Ministros togados e vitalícios.
+**Art. 111-A.** O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo:
 
- **§ 3º** A lei disporá sobre a competência do Tribunal Superior do Trabalho.
+  I - um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o disposto no art. 94;
 
-**Art. 112.** Haverá pelo menos um Tribunal Regional do Trabalho em cada Estado e no Distrito Federal, e a lei instituirá as Varas do Trabalho, podendo, nas comarcas onde não forem instituídas, atribuir sua jurisdição aos juízes de direito.
+  II - os demais dentre juízes dos Tribunais Regionais do Trabalho, oriundos da magistratura da carreira, indicados pelo próprio Tribunal Superior.
+
+ **§ 1º** A lei disporá sobre a competência do Tribunal Superior do Trabalho.
+
+ **§ 2º** Funcionarão junto ao Tribunal Superior do Trabalho:
+
+  I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho, cabendo-lhe, dentre outras funções, regulamentar os cursos oficiais para o ingresso e promoção na carreira;
+
+  II - o Conselho Superior da Justiça do Trabalho, cabendo-lhe exercer, na forma da lei, a supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus, como órgão central do sistema, cujas decisões terão efeito vinculante.
+
+**Art. 112.** A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do Trabalho.
 
 **Art. 113.** A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho.
 
-**Art. 114.** Compete à Justiça do Trabalho conciliar e julgar os dissídios individuais e coletivos entre trabalhadores e empregadores, abrangidos os entes de direito público externo e da administração pública direta e indireta dos Municípios, do Distrito Federal, dos Estados e da União, e, na forma da lei, outras controvérsias decorrentes da relação de trabalho, bem como os litígios que tenham origem no cumprimento de suas próprias sentenças, inclusive coletivas.
+**Art. 114.** Compete à Justiça do Trabalho processar e julgar:
+
+  I - as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios;
+
+  II - as ações que envolvam exercício do direito de greve;
+
+  III - as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores;
+
+  IV - os mandados de segurança, habeas corpus e habeas data, quando o ato questionado envolver matéria sujeita à sua jurisdição;
+
+  V - os conflitos de competência entre órgãos com jurisdição trabalhista, ressalvado o disposto no art. 102, I, o;
+
+  VI - as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho;
+
+  VII - as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho;
+
+  VIII - a execução, de ofício, das contribuições sociais previstas no art. 195, I, a, e II, e seus acréscimos legais, decorrentes das sentenças que proferir;
+
+  IX - outras controvérsias decorrentes da relação de trabalho, na forma da lei.
 
  **§ 1º** Frustrada a negociação coletiva, as partes poderão eleger árbitros.
 
- **§ 2º** Recusando-se qualquer das partes à negociação ou à arbitragem, é facultado aos respectivos sindicatos ajuizar dissídio coletivo, podendo a Justiça do Trabalho estabelecer normas e condições, respeitadas as disposições convencionais e legais mínimas de proteção ao trabalho.
+ **§ 2º** Recusando-se qualquer das partes à negociação coletiva ou à arbitragem, é facultado às mesmas, de comum acordo, ajuizar dissídio coletivo de natureza econômica, podendo a Justiça do Trabalho decidir o conflito, respeitadas as disposições mínimas legais de proteção ao trabalho, bem como as convencionadas anteriormente.
 
- **§ 3º** Compete ainda à Justiça do Trabalho executar, de ofício, as contribuições sociais previstas no art. 195, I, a, e II, e seus acréscimos legais, decorrentes das sentenças que proferir.
+ **§ 3º** Em caso de greve em atividade essencial, com possibilidade de lesão do interesse público, o Ministério Público do Trabalho poderá ajuizar dissídio coletivo, competindo à Justiça do Trabalho decidir o conflito.
 
-**Art. 115.** Os Tribunais Regionais do Trabalho serão compostos de juízes nomeados pelo Presidente da República, observada a proporcionalidade estabelecida no § 2º do art. 111.
+**Art. 115.** Os Tribunais Regionais do Trabalho compõem-se de, no mínimo, sete juízes, recrutados, quando possível, na respectiva região, e nomeados pelo Presidente da República dentre brasileiros com mais de trinta e menos de sessenta e cinco anos, sendo:
 
- **Parágrafo único.** Os magistrados dos Tribunais Regionais do Trabalho serão:
+  I - um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o disposto no art. 94;
 
-  I - juízes do trabalho, escolhidos por promoção, alternadamente, por antiguidade e merecimento;
+  II - os demais, mediante promoção de juízes do trabalho por antigüidade e merecimento, alternadamente.
 
-  II - advogados e membros do Ministério Público do Trabalho, obedecido o disposto no art. 94;
+ **§ 1º** Os Tribunais Regionais do Trabalho instalarão a justiça itinerante, com a realização de audiências e demais funções de atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários.
 
-  III - (Revogado).
+ **§ 2º** Os Tribunais Regionais do Trabalho poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo.
 
 **Art. 116.** Nas Varas do Trabalho, a jurisdição será exercida por um juiz singular.
 
@@ -2474,11 +2626,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição estadual, vedada a atribuição da legitimação para agir a um único órgão.
 
- **§ 3º** A lei estadual poderá criar, mediante proposta do Tribunal de Justiça, a Justiça Militar estadual, constituída, em primeiro grau, pelos Conselhos de Justiça e, em segundo, pelo próprio Tribunal de Justiça, ou por Tribunal de Justiça Militar nos Estados em que o efetivo da polícia militar seja superior a vinte mil integrantes.
+ **§ 3º** A lei estadual poderá criar, mediante proposta do Tribunal de Justiça, a Justiça Militar estadual, constituída, em primeiro grau, pelos juízes de direito e pelos Conselhos de Justiça e, em segundo grau, pelo próprio Tribunal de Justiça, ou por Tribunal de Justiça Militar nos Estados em que o efetivo militar seja superior a vinte mil integrantes.
 
- **§ 4º** Compete à Justiça Militar estadual processar e julgar os policiais militares e bombeiros militares nos crimes militares definidos em lei, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.
+ **§ 4º** Compete à Justiça Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.
 
-**Art. 126.** Para dirimir conflitos fundiários, o Tribunal de Justiça designará juízes de entrância especial, com competência exclusiva para questões agrárias.
+ **§ 5º** Compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares.
+
+ **§ 6º** O Tribunal de Justiça poderá funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo.
+
+ **§ 7º** O Tribunal de Justiça instalará a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários.
+
+**Art. 126.** Para dirimir conflitos fundiários, o Tribunal de Justiça proporá a criação de varas especializadas, com competência exclusiva para questões agrárias.
 
  **Parágrafo único.** Sempre que necessário à eficiente prestação jurisdicional, o juiz far-se-á presente no local do litígio.
 
@@ -2493,6 +2651,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2º** Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento.
 
  **§ 3º** O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias.
+
+ **§ 4º** Se o Ministério Público não encaminhar a respectiva proposta orçamentária dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § 3º.
+
+ **§ 5º** Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § 3º, o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual.
+
+ **§ 6º** Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais.
 
 **Art. 128.** O Ministério Público abrange:
 
@@ -2522,7 +2686,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado;
 
-    _b)_ inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto de dois terços de seus membros, assegurada ampla defesa;
+    _b)_ inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa;
 
     _c)_ irredutibilidade de subsídio, fixado na forma do art. 39, § 4º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I;
 
@@ -2536,7 +2700,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _d)_ exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de magistério;
 
-    _e)_ exercer atividade político-partidária, salvo exceções previstas na lei.
+    _e)_ exercer atividade político-partidária;
+
+    _f)_ receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei.
+
+ **§ 6º** Aplica-se aos membros do Ministério Público o disposto no art. 95, parágrafo único, V.
 
 **Art. 129.** São funções institucionais do Ministério Público:
 
@@ -2560,13 +2728,55 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** A legitimação do Ministério Público para as ações civis previstas neste artigo não impede a de terceiros, nas mesmas hipóteses, segundo o disposto nesta Constituição e na lei.
 
- **§ 2º** As funções de Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação.
+ **§ 2º** As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação, salvo autorização do chefe da instituição.
 
- **§ 3º** O ingresso na carreira far-se-á mediante concurso público de provas e títulos, assegurada participação da Ordem dos Advogados do Brasil em sua realização, e observada, nas nomeações, a ordem de classificação.
+ **§ 3º** O ingresso na carreira do Ministério Público far-se-á mediante concurso público de provas e títulos, assegurada a participação da Ordem dos Advogados do Brasil em sua realização, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e observando-se, nas nomeações, a ordem de classificação.
 
- **§ 4º** Aplica-se ao Ministério Público, no que couber, o disposto no art. 93, II e VI.
+ **§ 4º** Aplica-se ao Ministério Público, no que couber, o disposto no art. 93.
+
+ **§ 5º** A distribuição de processos no Ministério Público será imediata.
 
 **Art. 130.** Aos membros do Ministério Público junto aos Tribunais de Contas aplicam-se as disposições desta Seção pertinentes a direitos, vedações e forma de investidura.
+
+**Art. 130-A.** O Conselho Nacional do Ministério Público compõe-se de quatorze membros nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal, para um mandato de dois anos, admitida uma recondução, sendo:
+
+  I - o Procurador-Geral da República, que o preside;
+
+  II - quatro membros do Ministério Público da União, assegurada a representação de cada uma de suas carreiras;
+
+  III - três membros do Ministério Público dos Estados;
+
+  IV - dois juízes, indicados um pelo Supremo Tribunal Federal e outro pelo Superior Tribunal de Justiça;
+
+  V - dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil;
+
+  VI - dois cidadãos de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
+
+ **§ 1º** Os membros do Conselho oriundos do Ministério Público serão indicados pelos respectivos Ministérios Públicos, na forma da lei.
+
+ **§ 2º** Compete ao Conselho Nacional do Ministério Público o controle da atuação administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de seus membros, cabendo-lhe:
+
+  I - zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências;
+
+  II - zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas;
+
+  III - receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa;
+
+  IV - rever, de ofício ou mediante provocação, os processos disciplinares de membros do Ministério Público da União ou dos Estados julgados há menos de um ano;
+
+  V - elaborar relatório anual, propondo as providências que julgar necessárias sobre a situação do Ministério Público no País e as atividades do Conselho, o qual deve integrar a mensagem prevista no art. 84, XI.
+
+ **§ 3º** O Conselho escolherá, em votação secreta, um Corregedor nacional, dentre os membros do Ministério Público que o integram, vedada a recondução, competindo-lhe, além das atribuições que lhe forem conferidas pela lei, as seguintes:
+
+  I - receber reclamações e denúncias, de qualquer interessado, relativas aos membros do Ministério Público e dos seus serviços auxiliares;
+
+  II - exercer funções executivas do Conselho, de inspeção e correição geral;
+
+  III - requisitar e designar membros do Ministério Público, delegando-lhes atribuições, e requisitar servidores de órgãos do Ministério Público.
+
+ **§ 4º** O Presidente do Conselho Federal da Ordem dos Advogados do Brasil oficiará junto ao Conselho.
+
+ **§ 5º** Leis da União e dos Estados criarão ouvidorias do Ministério Público, competentes para receber reclamações e denúncias de qualquer interessado contra membros ou órgãos do Ministério Público, inclusive contra seus serviços auxiliares, representando diretamente ao Conselho Nacional do Ministério Público.
 
 #### Seção II: Da Advocacia Pública
 
@@ -2588,7 +2798,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 134.** A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV.
 
- **Parágrafo único.** Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais.
+ **§ 1º** Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais.
+
+ **§ 2º** Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa, e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º.
 
 **Art. 135.** Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, § 4º.
 
@@ -3298,7 +3510,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** É permitida a vinculação de receitas próprias geradas pelos impostos a que se referem os arts. 155 e 156, e dos recursos de que tratam os arts. 157, 158 e 159, I, a e b, e II, para a prestação de garantia ou contragarantia à União e para pagamento de débitos para com esta.
 
-**Art. 168.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário e do Ministério Público, ser-lhes-ão entregues até o dia 20 de cada mês, na forma da lei complementar a que se refere o art. 165, § 9º.
+**Art. 168.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9º.
 
 **Art. 169.** A despesa com pessoal ativo e inativo da União, dos Estados, do Distrito Federal e dos Municípios não poderá exceder os limites estabelecidos em lei complementar.
 
