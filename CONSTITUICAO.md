@@ -4560,7 +4560,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Os incentivos concedidos por convênio entre Estados, celebrados nos termos do art. 23, § 6º, da Constituição de 1967, com a redação da Emenda nº 1, de 17 de outubro de 1969, também deverão ser reavaliados e reconfirmados nos prazos deste artigo.
 
-**Art. 42.** Durante quinze anos, a União aplicará, dos recursos destinados à irrigação:
+**Art. 42.** Durante 25 (vinte e cinco) anos, a União aplicará, dos recursos destinados à irrigação:
 
   I - vinte por cento na Região Centro-Oeste;
 
