@@ -1076,6 +1076,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 5º** O benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido, até o limite estabelecido em lei, observado o disposto no parágrafo anterior.
 
+ **§ 6º** As aposentadorias e pensões dos servidores públicos federais serão custeadas com recursos provenientes da União e das contribuições dos servidores, na forma da lei.
+
 **Art. 41.** São estáveis, após dois anos de efetivo exercício, os servidores nomeados em virtude de concurso público.
 
  **§ 1º** O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante processo administrativo em que lhe seja assegurada ampla defesa.
@@ -1106,7 +1108,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 9º** A lei disporá sobre os limites de idade, a estabilidade e outras condições de transferência do servidor militar para a inatividade.
 
- **§ 10.** Aplica-se aos servidores a que se refere este artigo, e a seus pensionistas, o disposto no art. 40, §§ 4º e 5º.
+ **§ 10.** Aplica-se aos servidores a que se refere este artigo, e a seus pensionistas, o disposto no art. 40, §§ 4º, 5º e 6º.
 
  **§ 11.** Aplica-se aos servidores a que se refere este artigo o disposto no art. 7º, VIII, XII, XVII, XVIII e XIX.
 
@@ -1972,7 +1974,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - processar e julgar, originariamente:
 
-    _a)_ a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual;
+    _a)_ a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal;
 
     _b)_ nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;
 
@@ -2018,7 +2020,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ julgar válida lei ou ato de governo local contestado em face desta Constituição.
 
- **Parágrafo único.** A argüição de descumprimento de preceito fundamental decorrente desta Constituição será apreciada pelo Supremo Tribunal Federal, na forma da lei.
+ **§ 1º** A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei.
+
+ **§ 2º** As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações declaratórias de constitucionalidade de lei ou ato normativo federal, produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e ao Poder Executivo.
 
 **Art. 103.** Podem propor a ação de inconstitucionalidade:
 
@@ -2045,6 +2049,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2º** Declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma constitucional, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.
 
  **§ 3º** Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
+
+ **§ 4º** A ação declaratória de constitucionalidade poderá ser proposta pelo Presidente da República, pela Mesa do Senado Federal, pela Mesa da Câmara dos Deputados ou pelo Procurador-Geral da República.
 
 #### Seção III: Do Superior Tribunal de Justiça
 
@@ -2634,7 +2640,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 5º** A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços.
 
- **§ 6º** Qualquer anistia ou remissão que envolva matéria tributária ou previdenciária só poderá ser concedida através de lei específica, federal, estadual ou municipal.
+ **§ 6º** Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. 155, § 2º, XII, g.
+
+ **§ 7º** A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.
 
 **Art. 151.** É vedado à União:
 
@@ -2696,19 +2704,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção IV: Dos Impostos dos Estados e do Distrito Federal
 
-**Art. 155.** Compete aos Estados e ao Distrito Federal instituir:
+**Art. 155.** Compete aos Estados e ao Distrito Federal instituir impostos sobre:
 
-  I - impostos sobre:
+  I - transmissão causa mortis e doação, de quaisquer bens ou direitos;
 
-    _a)_ transmissão causa mortis e doação, de quaisquer bens ou direitos;
+  II - operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior;
 
-    _b)_ operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior;
+  III - propriedade de veículos automotores.
 
-    _c)_ propriedade de veículos automotores;
-
-  II - adicional de até cinco por cento do que for pago à União por pessoas físicas ou jurídicas domiciliadas nos respectivos territórios, a título do imposto previsto no art. 153, III, incidente sobre lucros, ganhos e rendimentos de capital.
-
- **§ 1º** O imposto previsto no inciso I, a:
+ **§ 1º** O imposto previsto no inciso I:
 
   I - relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal;
 
@@ -2722,7 +2726,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - terá suas alíquotas máximas fixadas pelo Senado Federal.
 
- **§ 2º** O imposto previsto no inciso I, b, atenderá ao seguinte:
+ **§ 2º** O imposto previsto no inciso II atenderá ao seguinte:
 
   I - será não cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal;
 
@@ -2784,7 +2788,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _g)_ regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
- **§ 3º** À exceção dos impostos de que tratam o inciso I, b, do caput deste artigo e os arts. 153, I e II, e 156, III, nenhum outro tributo incidirá sobre operações relativas a energia elétrica, combustíveis líquidos e gasosos, lubrificantes e minerais do País.
+ **§ 3º** À exceção dos impostos de que tratam o inciso II do caput deste artigo e o art. 153, I e II, nenhum outro tributo poderá incidir sobre operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.
 
 #### Seção V: Dos Impostos dos Municípios
 
@@ -2794,9 +2798,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição;
 
-  III - vendas a varejo de combustíveis líquidos e gasosos, exceto óleo diesel;
+  III - serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar.
 
-  IV - serviços de qualquer natureza, não compreendidos no art. 155, I, b, definidos em lei complementar.
+  IV - (Revogado).
 
  **§ 1º** O imposto previsto no inciso I poderá ser progressivo, nos termos de lei municipal, de forma a assegurar o cumprimento da função social da propriedade.
 
@@ -2806,13 +2810,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - compete ao Município da situação do bem.
 
- **§ 3º** O imposto previsto no inciso III não exclui a incidência do imposto estadual previsto no art. 155, I, b, sobre a mesma operação.
+ **§ 3º** Em relação ao imposto previsto no inciso III, cabe à lei complementar:
 
- **§ 4º** Cabe à lei complementar:
+  I - fixar as suas alíquotas máximas;
 
-  I - fixar as alíquotas máximas dos impostos previstos nos incisos III e IV;
+  II - excluir da sua incidência exportações de serviços para o exterior.
 
-  II - excluir da incidência do imposto previsto no inciso IV exportações de serviços para o exterior.
+ **§ 4º** (Revogado).
 
 #### Seção VI: Da Repartição das Receitas Tributárias
 
@@ -2858,7 +2862,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 160.** É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta Seção, aos Estados, ao Distrito Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos.
 
- **Parágrafo único.** Essa vedação não impede a União de condicionar a entrega de recursos ao pagamento de seus créditos.
+ **Parágrafo único.** A vedação prevista neste artigo não impede a União e os Estados de condicionarem a entrega de recursos ao pagamento de seus créditos, inclusive de suas autarquias.
 
 **Art. 161.** Cabe à lei complementar:
 
@@ -2986,7 +2990,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta;
 
-  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para manutenção e desenvolvimento do ensino, como determinado pelo art. 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º;
+  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para manutenção e desenvolvimento do ensino, como determinado pelo art. 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem assim o disposto no § 4º deste artigo;
 
   V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;
 
@@ -3003,6 +3007,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2º** Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente.
 
  **§ 3º** A abertura de crédito extraordinário somente será admitida para atender a despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna ou calamidade pública, observado o disposto no art. 62.
+
+ **§ 4º** É permitida a vinculação de receitas próprias geradas pelos impostos a que se referem os arts. 155 e 156, e dos recursos de que tratam os arts. 157, 158 e 159, I, a e b, e II, para a prestação de garantia ou contragarantia à União e para pagamento de débitos para com esta.
 
 **Art. 168.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário e do Ministério Público, ser-lhes-ão entregues até o dia 20 de cada mês, na forma da lei complementar a que se refere o art. 165, § 9º.
 
