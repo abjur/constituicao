@@ -4316,37 +4316,37 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 70.** Fica mantida a atual competência dos tribunais estaduais até que a mesma seja definida na Constituição do Estado, nos termos do art. 125, § 1º, da Constituição.
 
-**Art. 71.** Fica instituído, nos exercícios financeiros de 1994 e 1995, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados no custeio das ações dos sistemas de saúde e educação, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e outros programas de relevante interesse econômico e social.
+**Art. 71.** Fica instituído, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1° de janeiro de 1996 a 30 de junho de 1997, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse econômico e social.
 
- **Parágrafo único.** Ao fundo criado por este artigo não se aplica, no exercício financeiro de 1994, o disposto na parte final do inciso II do § 9º do art. 165 da Constituição.
+ **§ 1º** Ao Fundo criado por este artigo não se aplica o disposto na parte final do inciso II do § 9° do art. 165 da Constituição.
+
+ **§ 2º** O Fundo criado por este artigo passa a ser denominado Fundo de Estabilização Fiscal a partir do início do exercício financeiro de 1996.
+
+ **§ 3º** O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo.
 
 **Art. 72.** Integram o Fundo Social de Emergência:
 
   I - o produto da arrecadação do imposto sobre renda e proventos de qualquer natureza incidente na fonte sobre pagamentos efetuados, a qualquer título, pela União, inclusive suas autarquias e fundações;
 
-  II - a parcela do produto da arrecadação do imposto sobre propriedade territorial rural, do imposto sobre renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários, decorrente das alterações produzidas pela Medida Provisória nº 419 e pelas Leis nºs 8.847, 8.849, e 8.848, todas de 28 de janeiro de 1994, estendendo-se a vigência da última delas até 31 de dezembro de 1995;
+  II - a parcela do produto da arrecadação do imposto sobre renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos e valores mobiliários, decorrente das alterações produzidas pela Lei nº 8.894, de 21 de junho de 1994, e pelas Leis nºs 8.849 e 8.848, ambas de 28 de janeiro de 1994, e modificações posteriores;
 
-  III - a parcela do produto da arrecadação resultante da elevação da alíquota da contribuição social sobre o lucro dos contribuintes a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, a qual, nos exercícios financeiros de 1994 e 1995, passa a ser de trinta por cento, mantidas as demais normas da Lei nº 7.689, de 15 de dezembro de 1988;
+  III - a parcela do produto da arrecadação resultante da elevação da alíquota da contribuição social sobre o lucro dos contribuintes a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, a qual, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, passa a ser de trinta por cento, sujeita a alteração por lei ordinária, mantidas as demais normas da Lei nº 7.689, de 15 de dezembro de 1988;
 
-  IV - vinte por cento do produto da arrecadação de todos os impostos e contribuições da União, excetuado o previsto nos incisos I, II e III;
+  IV - vinte por cento do produto da arrecadação de todos os impostos e contribuições da União, já instituídos ou a serem criados, excetuado o previsto nos incisos I, II e III, observado o disposto nos §§ 3º e 4º;
 
-  V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar nº 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qual será calculada, nos exercícios financeiros de 1994 e 1995, mediante a aplicação da alíquota de setenta e cinco centésimos por cento sobre a receita bruta operacional, como definida na legislação do imposto sobre renda e proventos de qualquer natureza;
+  V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar nº 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qual será calculada, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, mediante a aplicação da alíquota de setenta e cinco centésimos por cento, sujeita a alteração por lei ordinária, sobre a receita bruta operacional, como definida na legislação do imposto sobre renda e proventos de qualquer natureza; e
 
   VI - outras receitas previstas em lei específica.
 
  **§ 1º** As alíquotas e a base de cálculo previstas nos incisos III e V aplicar-se-ão a partir do primeiro dia do mês seguinte aos noventa dias posteriores à promulgação desta emenda.
 
- **§ 2º** As parcelas de que tratam os incisos I, II, III e V serão previamente deduzidas da base de cálculo de qualquer vinculação ou participação constitucional ou legal, não se lhes aplicando o disposto nos arts. 158, II, 159, 212 e 239 da Constituição.
+ **§ 2º** As parcelas de que tratam os incisos I, II, III e V serão previamente deduzidas da base de cálculo de qualquer vinculação ou participação constitucional ou legal, não se lhes aplicando o disposto nos arts. 159, 212 e 239 da Constituição.
 
- **§ 3º** A parcela de que trata o inciso IV será previamente deduzida da base de cálculo das vinculações ou participações constitucionais previstas nos arts. 153, § 5º, 157, II, 158, II, 212 e 239 da Constituição.
+ **§ 3º** A parcela de que trata o inciso IV será previamente deduzida da base de cálculo das vinculações ou participações constitucionais previstas nos arts. 153, § 5º, 157, II, 212 e 239 da Constituição.
 
- **§ 4º** O disposto no parágrafo anterior não se aplica aos recursos previstos no art. 159 da Constituição.
+ **§ 4º** O disposto no parágrafo anterior não se aplica aos recursos previstos nos arts. 158, II, e 159 da Constituição.
 
- **§ 5º** A parcela dos recursos provenientes do imposto sobre propriedade territorial rural e do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do inciso II deste artigo, não poderá exceder:
-
-  I - no caso do imposto sobre propriedade territorial rural, a oitenta e seis inteiros e dois décimos por cento do total do produto da sua arrecadação;
-
-  II - no caso do imposto sobre renda e proventos de qualquer natureza, a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação.
+ **§ 5º** A parcela dos recursos provenientes do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do incisos II deste artigo, não poderá exceder a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação.
 
 **Art. 73.** Na regulação do Fundo Social de Emergência não poderá ser utilizado instrumento previsto no inciso V do art. 59 da Constituição.
 
