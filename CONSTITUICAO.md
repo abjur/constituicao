@@ -2112,9 +2112,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** O disposto no caput deste artigo, relativamente à expedição de precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Federal, Estadual, Distrital ou Municipal deva fazer em virtude de sentença judicial transitada em julgado.
 
- **§ 4º** A lei poderá fixar valores distintos para o fim previsto no § 3º deste artigo, segundo as diferentes capacidades das entidades de direito público.
+ **§ 4º** São vedados a expedição de precatório complementar ou suplementar de valor pago, bem como fracionamento, repartição ou quebra do valor da execução, a fim de que seu pagamento não se faça, em parte, na forma estabelecida no § 3º deste artigo e, em parte, mediante expedição de precatório.
 
- **§ 5º** O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatório incorrerá em crime de responsabilidade.
+ **§ 5º** A lei poderá fixar valores distintos para o fim previsto no § 3º deste artigo, segundo as diferentes capacidades das entidades de direito público.
+
+ **§ 6º** O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatório incorrerá em crime de responsabilidade.
 
 #### Seção II: Do Supremo Tribunal Federal
 
@@ -3030,11 +3032,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - compete ao Município da situação do bem.
 
- **§ 3º** Em relação ao imposto previsto no inciso III, cabe à lei complementar:
+ **§ 3º** Em relação ao imposto previsto no inciso III do caput deste artigo, cabe à lei complementar:
 
-  I - fixar as suas alíquotas máximas;
+  I - fixar as suas alíquotas máximas e mínimas;
 
-  II - excluir da sua incidência exportações de serviços para o exterior.
+  II - excluir da sua incidência exportações de serviços para o exterior;
+
+  III - regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
  **§ 4º** (Revogado).
 
@@ -4777,6 +4781,80 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2º** Para o financiamento dos Fundos Municipais, poderá ser criado adicional de até meio ponto percentual na alíquota do Imposto sobre Serviços ou do imposto que vier a substituí-lo, sobre serviços supérfluos.
 
 **Art. 83.** Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, inciso II, e 82, §§ 1º e 2º.
+
+**Art. 84.** A contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira, prevista nos arts. 74, 75 e 80, I, deste Ato das Disposições Constitucionais Transitórias, será cobrada até 31 de dezembro de 2004.
+
+ **§ 1º** Fica prorrogada, até a data referida no caput deste artigo, a vigência da Lei nº 9.311, de 24 de outubro de 1996, e suas alterações.
+
+ **§ 2º** Do produto da arrecadação da contribuição social de que trata este artigo será destinada a parcela correspondente à alíquota de:
+
+  I - vinte centésimos por cento ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde;
+
+  II - dez centésimos por cento ao custeio da previdência social;
+
+  III - oito centésimos por cento ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias.
+
+ **§ 3º** A alíquota da contribuição de que trata este artigo será de:
+
+  I - trinta e oito centésimos por cento, nos exercícios financeiros de 2002 e 2003;
+
+  II - oito centésimos por cento, no exercício financeiro de 2004, quando será integralmente destinada ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias.
+
+**Art. 85.** A contribuição a que se refere o art. 84 deste Ato das Disposições Constitucionais Transitórias não incidirá, a partir do trigésimo dia da data de publicação desta Emenda Constitucional, nos lançamentos:
+
+  I - em contas correntes de depósito especialmente abertas e exclusivamente utilizadas para operações de:
+
+    _a)_ câmaras e prestadoras de serviços de compensação e de liquidação de que trata o parágrafo único do art. 2º da Lei nº 10.214, de 27 de março de 2001;
+
+    _b)_ companhias securitizadoras de que trata a Lei nº 9.514, de 20 de novembro de 1997;
+
+    _c)_ sociedades anônimas que tenham por objeto exclusivo a aquisição de créditos oriundos de operações praticadas no mercado financeiro;
+
+  II - em contas correntes de depósito, relativos a:
+
+    _a)_ operações de compra e venda de ações, realizadas em recintos ou sistemas de negociação de bolsas de valores e no mercado de balcão organizado;
+
+    _b)_ contratos referenciados em ações ou índices de ações, em suas diversas modalidades, negociados em bolsas de valores, de mercadorias e de futuros;
+
+  III - em contas de investidores estrangeiros, relativos a entradas no País e a remessas para o exterior de recursos financeiros empregados, exclusivamente, em operações e contratos referidos no inciso II deste artigo.
+
+ **§ 1º** O Poder Executivo disciplinará o disposto neste artigo no prazo de trinta dias da data de publicação desta Emenda Constitucional.
+
+ **§ 2º** O disposto no inciso I deste artigo aplica-se somente às operações relacionadas em ato do Poder Executivo, dentre aquelas que constituam o objeto social das referidas entidades.
+
+ **§ 3º** O disposto no inciso II deste artigo aplica-se somente a operações e contratos efetuados por intermédio de instituições financeiras, sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários e sociedades corretoras de mercadorias.
+
+**Art. 86.** Serão pagos conforme disposto no art. 100 da Constituição Federal, não se lhes aplicando a regra de parcelamento estabelecida no caput do art. 78 deste Ato das Disposições Constitucionais Transitórias, os débitos da Fazenda Federal, Estadual, Distrital ou Municipal oriundos de sentenças transitadas em julgado, que preencham, cumulativamente, as seguintes condições:
+
+  I - ter sido objeto de emissão de precatórios judiciários;
+
+  II - ter sido definidos como de pequeno valor pela lei de que trata o § 3º do art. 100 da Constituição Federal ou pelo art. 87 deste Ato das Disposições Constitucionais Transitórias;
+
+  III - estar, total ou parcialmente, pendentes de pagamento na data da publicação desta Emenda Constitucional.
+
+ **§ 1º** Os débitos a que se refere o caput deste artigo, ou os respectivos saldos, serão pagos na ordem cronológica de apresentação dos respectivos precatórios, com precedência sobre os de maior valor.
+
+ **§ 2º** Os débitos a que se refere o caput deste artigo, se ainda não tiverem sido objeto de pagamento parcial, nos termos do art. 78 deste Ato das Disposições Constitucionais Transitórias, poderão ser pagos em duas parcelas anuais, se assim dispuser a lei.
+
+ **§ 3º** Observada a ordem cronológica de sua apresentação, os débitos de natureza alimentícia previstos neste artigo terão precedência para pagamento sobre todos os demais.
+
+**Art. 87.** Para efeito do que dispõem o § 3º do art. 100 da Constituição Federal e o art. 78 deste Ato das Disposições Constitucionais Transitórias serão considerados de pequeno valor, até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, observado o disposto no § 4º do art. 100 da Constituição Federal, os débitos ou obrigações consignados em precatório judiciário, que tenham valor igual ou inferior a:
+
+  I - quarenta salários-mínimos, perante a Fazenda dos Estados e do Distrito Federal;
+
+  II - trinta salários-mínimos, perante a Fazenda dos Municípios.
+
+ **Parágrafo único.** Se o valor da execução ultrapassar o estabelecido neste artigo, o pagamento far-se-á, sempre, por meio de precatório, sendo facultada à parte exeqüente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório, da forma prevista no § 3º do art. 100.
+
+**Art. 88.** Enquanto lei complementar não disciplinar o disposto nos incisos I e III do § 3º do art. 156 da Constituição Federal, o imposto a que se refere o inciso III do caput do mesmo artigo:
+
+  I - terá alíquota mínima de dois por cento, exceto para os serviços a que se referem os itens 32, 33 e 34 da Lista de Serviços anexa ao Decreto-Lei nº 406, de 31 de dezembro de 1968;
+
+  II - não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.
+
+**Art. 89.** Os integrantes da carreira policial militar do ex-Território Federal de Rondônia, que comprovadamente se encontravam no exercício regular de suas funções prestando serviços àquele ex-Território na data em que foi transformado em Estado, bem como os Policiais Militares admitidos por força de lei federal, custeados pela União, constituirão quadro em extinção da administração federal, assegurados os direitos e vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias, bem como ressarcimentos ou indenizações de qualquer espécie, anteriores à promulgação desta Emenda.
+
+ **Parágrafo único.** Os servidores da carreira policial militar continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, submetidos às disposições legais e regulamentares a que estão sujeitas as corporações da respectiva Polícia Militar, observadas as atribuições de função compatíveis com seu grau hierárquico.
 
 Brasília, 5 de outubro de 1988.
 
