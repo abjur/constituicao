@@ -296,7 +296,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;
 
-  XII - salário-família para os seus dependentes;
+  XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei;
 
   XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;
 
@@ -342,7 +342,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;
 
-  XXXIII - proibição de trabalho noturno, perigoso ou insalubre aos menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz;
+  XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos;
 
   XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.
 
@@ -1056,6 +1056,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 9º** O disposto no inciso XI aplica-se às empresas públicas e às sociedades de economia mista e suas subsidiárias, que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral.
 
+ **§ 10.** É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.
+
 **Art. 38.** Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições:
 
   I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função;
@@ -1094,33 +1096,49 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 8º** A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § 4º.
 
-**Art. 40.** O servidor será aposentado:
+**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
 
-  I - por invalidez permanente, sendo os proventos integrais quando decorrentes de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificadas em lei, e proporcionais nos demais casos;
+ **§ 1º** Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma do § 3º:
 
-  II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de serviço;
+  I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificada em lei;
 
-  III - voluntariamente:
+  II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição;
 
-    _a)_ aos trinta e cinco anos de serviço, se homem, e aos trinta, se mulher, com proventos integrais;
+  III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
 
-    _b)_ aos trinta anos de efetivo exercício em funções de magistério, se professor, e vinte e cinco, se professora, com proventos integrais;
+    _a)_ sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinqüenta e cinco anos de idade e trinta de contribuição, se mulher;
 
-    _c)_ aos trinta anos de serviço, se homem, e aos vinte e cinco, se mulher, com proventos proporcionais a esse tempo;
+    _b)_ sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição.
 
-    _d)_ aos sessenta e cinco anos de idade, se homem, e aos sessenta, se mulher, com proventos proporcionais ao tempo de serviço.
+ **§ 2º** Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
 
- **§ 1º** Lei complementar poderá estabelecer exceções ao disposto no inciso III, a e c, no caso de exercício de atividades consideradas penosas, insalubres ou perigosas.
+ **§ 3º** Os proventos de aposentadoria, por ocasião da sua concessão, serão calculados com base na remuneração do servidor no cargo efetivo em que se der a aposentadoria e, na forma da lei, corresponderão à totalidade da remuneração.
 
- **§ 2º** A lei disporá sobre a aposentadoria em cargos ou empregos temporários.
+ **§ 4º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar.
 
- **§ 3º** O tempo de serviço público federal, estadual ou municipal será computado integralmente para os efeitos de aposentadoria e de disponibilidade.
+ **§ 5º** Os requisitos de idade e de tempo de contribuição serão reduzidos em cinco anos, em relação ao disposto no § 1º, III, a, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
 
- **§ 4º** Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos inativos quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei.
+ **§ 6º** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta do regime de previdência previsto neste artigo.
 
- **§ 5º** O benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido, até o limite estabelecido em lei, observado o disposto no parágrafo anterior.
+ **§ 7º** Lei disporá sobre a concessão do benefício da pensão por morte, que será igual ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento, observado o disposto no § 3º.
 
- **§ 6º** As aposentadorias e pensões dos servidores públicos federais serão custeadas com recursos provenientes da União e das contribuições dos servidores, na forma da lei.
+ **§ 8º** Observado o disposto no art. 37, XI, os proventos de aposentadoria e as pensões serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+
+ **§ 9º** O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente para efeito de disponibilidade.
+
+ **§ 10.** A lei não poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício.
+
+ **§ 11.** Aplica-se o limite fixado no art. 37, XI, à soma total dos proventos de inatividade, inclusive quando decorrentes da acumulação de cargos ou empregos públicos, bem como de outras atividades sujeitas a contribuição para o regime geral de previdência social, e ao montante resultante da adição de proventos de inatividade com remuneração de cargo acumulável na forma desta Constituição, cargo em comissão declarado em lei de livre nomeação e exoneração, e de cargo eletivo.
+
+ **§ 12.** Além do disposto neste artigo, o regime de previdência dos servidores públicos titulares de cargo efetivo observará, no que couber, os requisitos e critérios fixados para o regime geral de previdência social.
+
+ **§ 13.** Ao servidor ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração bem como de outro cargo temporário ou de emprego público, aplica-se o regime geral de previdência social.
+
+ **§ 14.** A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime de previdência complementar para os seus respectivos servidores titulares de cargo efetivo, poderão fixar, para o valor das aposentadorias e pensões a serem concedidas pelo regime de que trata este artigo, o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201.
+
+ **§ 15.** Observado o disposto no art. 202, lei complementar disporá sobre as normas gerais para a instituição de regime de previdência complementar pela União, Estados, Distrito Federal e Municípios, para atender aos seus respectivos servidores titulares de cargo efetivo.
+
+ **§ 16.** Somente mediante sua prévia e expressa opção, o disposto nos §§ 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição do correspondente regime de previdência complementar.
 
 **Art. 41.** São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
 
@@ -1142,9 +1160,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 42.** Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios.
 
- **§ 1º** Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. 14, § 8º; do art. 40, § 3º; e do art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, 3º, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos Governadores.
+ **§ 1º** Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. 14, § 8º; do art. 40, § 9º; e do art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, § 3º, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos governadores.
 
- **§ 2º** Aos militares dos Estados, do Distrito Federal e dos Territórios e a seus pensionistas aplica-se o disposto no art. 40, §§ 4º e 5º; e aos militares do Distrito Federal e dos Territórios, o disposto no art. 40, § 6º.
+ **§ 2º** Aos militares dos Estados, do Distrito Federal e dos Territórios e a seus pensionistas, aplica-se o disposto no art. 40, §§ 7º e 8º.
 
 #### Seção IV: Das Regiões
 
@@ -1648,7 +1666,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - dois terços pelo Congresso Nacional.
 
- **§ 3º** Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior Tribunal de Justiça e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos.
+ **§ 3º** Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior Tribunal de Justiça, aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. 40.
 
  **§ 4º** O auditor, quando em substituição a Ministro, terá as mesmas garantias e impedimentos do titular e, quando no exercício das demais atribuições da judicatura, as de juiz de Tribunal Regional Federal.
 
@@ -1920,7 +1938,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, § 4º;
 
-  VI - a aposentadoria com proventos integrais é compulsória por invalidez ou aos setenta anos de idade, e facultativa aos trinta anos de serviço, após cinco anos de exercício efetivo na judicatura;
+  VI - a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. 40;
 
   VII - o juiz titular residirá na respectiva comarca;
 
@@ -2003,6 +2021,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 1º** É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos constantes de precatórios judiciários, apresentados até 1º de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.
 
  **§ 2º** As dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhendo-se as importâncias respectivas à repartição competente, cabendo ao Presidente do tribunal que proferir a decisão exeqüenda determinar o pagamento, segundo as possibilidades do depósito, e autorizar, a requerimento do credor e exclusivamente para o caso de preterimento de seu direito de precedência, o seqüestro da quantia necessária à satisfação do débito.
+
+ **§ 3º** O disposto no caput deste artigo, relativamente à expedição de precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Federal, Estadual ou Municipal deva fazer em virtude de sentença judicial transitada em julgado.
 
 #### Seção II: Do Supremo Tribunal Federal
 
@@ -2237,6 +2257,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 1º** Frustrada a negociação coletiva, as partes poderão eleger árbitros.
 
  **§ 2º** Recusando-se qualquer das partes à negociação ou à arbitragem, é facultado aos respectivos sindicatos ajuizar dissídio coletivo, podendo a Justiça do Trabalho estabelecer normas e condições, respeitadas as disposições convencionais e legais mínimas de proteção ao trabalho.
+
+ **§ 3º** Compete ainda à Justiça do Trabalho executar, de ofício, as contribuições sociais previstas no art. 195, I, a, e II, e seus acréscimos legais, decorrentes das sentenças que proferir.
 
 **Art. 115.** Os Tribunais Regionais do Trabalho serão compostos de juízes nomeados pelo Presidente da República, sendo dois terços de juízes togados vitalícios e um terço de juízes classistas temporários, observada, entre os juízes togados, a proporcionalidade estabelecida no art. 111, § 1º, I.
 
@@ -2572,7 +2594,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV;
 
-  IX - aplica-se aos militares e a seus pensionistas o disposto no art. 40, §§ 4º, 5º e 6º;
+  IX - aplica-se aos militares e a seus pensionistas o disposto no art. 40, §§ 7º e 8º;
 
   X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra.
 
@@ -2744,7 +2766,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei;
 
-  II - não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho.
+  II - (Revogado).
 
  **§ 3º** O imposto previsto no inciso IV:
 
@@ -3068,7 +3090,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa;
 
-  X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos Municípios.
+  X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos Municípios;
+
+  XI - a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201.
 
  **§ 1º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade.
 
@@ -3374,13 +3398,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VI - diversidade da base de financiamento;
 
-  VII - caráter democrático e descentralizado da gestão administrativa, com a participação da comunidade, em especial de trabalhadores, empresários e aposentados.
+  VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados.
 
 **Art. 195.** A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
 
-  I - dos empregadores, incidente sobre a folha de salários, o faturamento e o lucro;
+  I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre:
 
-  II - dos trabalhadores;
+    _a)_ a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;
+
+    _b)_ a receita ou o faturamento;
+
+    _c)_ o lucro;
+
+  II - do trabalhador e dos demais segurados da previdência social, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201;
 
   III - sobre a receita de concursos de prognósticos.
 
@@ -3398,7 +3428,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 7º** São isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei.
 
- **§ 8º** O produtor, o parceiro, o meeiro e o arrendatário rurais, o garimpeiro e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei.
+ **§ 8º** O produtor, o parceiro, o meeiro e o arrendatário rurais e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei.
+
+ **§ 9º** As contribuições sociais previstas no inciso I deste artigo poderão ter alíquotas ou bases de cálculo diferenciadas, em razão da atividade econômica ou da utilização intensiva de mão-de-obra.
+
+ **§ 10.** A lei definirá os critérios de transferência de recursos para o sistema único de saúde e ações de assistência social da União para os Estados, o Distrito Federal e os Municípios, e dos Estados para os Municípios, observada a respectiva contrapartida de recursos.
+
+ **§ 11.** É vedada a concessão de remissão ou anistia das contribuições sociais de que tratam os incisos I, a, e II deste artigo, para débitos em montante superior ao fixado em lei complementar.
 
 #### Seção II: Da Saúde
 
@@ -3446,45 +3482,57 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção III: Da Previdência Social
 
-**Art. 201.** Os planos de previdência social, mediante contribuição, atenderão, nos termos da lei, a:
+**Art. 201.** A previdência social será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
 
-  I - cobertura dos eventos de doença, invalidez, morte, incluídos os resultantes de acidentes do trabalho, velhice e reclusão;
+  I - cobertura dos eventos de doença, invalidez, morte e idade avançada;
 
-  II - ajuda à manutenção dos dependentes dos segurados de baixa renda;
+  II - proteção à maternidade, especialmente à gestante;
 
-  III - proteção à maternidade, especialmente à gestante;
+  III - proteção ao trabalhador em situação de desemprego involuntário;
 
-  IV - proteção ao trabalhador em situação de desemprego involuntário;
+  IV - salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda;
 
-  V - pensão por morte de segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, obedecido o disposto no § 5º e no art. 202.
+  V - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º.
 
- **§ 1º** Qualquer pessoa poderá participar dos benefícios da previdência social, mediante contribuição na forma dos planos previdenciários.
+ **§ 1º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar.
 
- **§ 2º** É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei.
+ **§ 2º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.
 
- **§ 3º** Todos os salários de contribuição considerados no cálculo de benefício serão corrigidos monetariamente.
+ **§ 3º** Todos os salários de contribuição considerados para o cálculo de benefício serão devidamente atualizados, na forma da lei.
 
- **§ 4º** Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.
+ **§ 4º** É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei.
 
- **§ 5º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.
+ **§ 5º** É vedada a filiação ao regime geral de previdência social, na qualidade de segurado facultativo, de pessoa participante de regime próprio de previdência.
 
  **§ 6º** A gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano.
 
- **§ 7º** A previdência social manterá seguro coletivo, de caráter complementar e facultativo, custeado por contribuições adicionais.
+ **§ 7º** É assegurada aposentadoria no regime geral de previdência social, nos termos da lei, obedecidas as seguintes condições:
 
- **§ 8º** É vedado subvenção ou auxílio do poder público às entidades de previdência privada com fins lucrativos.
+  I - trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
 
-**Art. 202.** É assegurada aposentadoria, nos termos da lei, calculando-se o benefício sobre a média dos trinta e seis últimos salários de contribuição, corrigidos monetariamente mês a mês, e comprovada a regularidade dos reajustes dos salários de contribuição de modo a preservar seus valores reais e obedecidas as seguintes condições:
+  II - sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.
 
-  I - aos sessenta e cinco anos de idade, para o homem, e aos sessenta, para a mulher, reduzido em cinco anos o limite de idade para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, neste incluídos o produtor rural, o garimpeiro e o pescador artesanal;
+ **§ 8º** Os requisitos a que se refere o inciso I do parágrafo anterior serão reduzidos em cinco anos, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
 
-  II - após trinta e cinco anos de trabalho, ao homem, e, após trinta, à mulher, ou em tempo inferior, se sujeitos a trabalho sob condições especiais, que prejudiquem a saúde ou a integridade física, definidas em lei;
+ **§ 9º** Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
 
-  III - após trinta anos, ao professor, e após vinte e cinco, à professora, por efetivo exercício de função de magistério.
+ **§ 10.** Lei disciplinará a cobertura do risco de acidente do trabalho, a ser atendida concorrentemente pelo regime geral de previdência social e pelo setor privado.
 
- **§ 1º** É facultada aposentadoria proporcional, após trinta anos de trabalho, ao homem, e após vinte e cinco, à mulher.
+ **§ 11.** Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.
 
- **§ 2º** Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos sistemas de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
+**Art. 202.** O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar.
+
+ **§ 1º** A lei complementar de que trata este artigo assegurará ao participante de planos de benefícios de entidades de previdência privada o pleno acesso às informações relativas à gestão de seus respectivos planos.
+
+ **§ 2º** As contribuições do empregador, os benefícios e as condições contratuais previstas nos estatutos, regulamentos e planos de benefícios das entidades de previdência privada não integram o contrato de trabalho dos participantes, assim como, à exceção dos benefícios concedidos, não integram a remuneração dos participantes, nos termos da lei.
+
+ **§ 3º** É vedado o aporte de recursos a entidade de previdência privada pela União, Estados, Distrito Federal e Municípios, suas autarquias, fundações, empresas públicas, sociedades de economia mista e outras entidades públicas, salvo na qualidade de patrocinador, situação na qual, em hipótese alguma, sua contribuição normal poderá exceder a do segurado.
+
+ **§ 4º** Lei complementar disciplinará a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadoras de entidades fechadas de previdência privada, e suas respectivas entidades fechadas de previdência privada.
+
+ **§ 5º** A lei complementar de que trata o parágrafo anterior aplicar-se-á, no que couber, às empresas privadas permissionárias ou concessionárias de prestação de serviços públicos, quando patrocinadoras de entidades fechadas de previdência privada.
+
+ **§ 6º** A lei complementar a que se refere o § 4º deste artigo estabelecerá os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência privada e disciplinará a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação.
 
 #### Seção IV: Da Assistência Social
 
@@ -3929,6 +3977,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 **Art. 247.** As leis previstas no inciso III do § 1º do art. 41 e no § 7º do art. 169 estabelecerão critérios e garantias especiais para a perda do cargo pelo servidor público estável que, em decorrência das atribuições de seu cargo efetivo, desenvolva atividades exclusivas de Estado.
 
  **Parágrafo único.** Na hipótese de insuficiência de desempenho, a perda do cargo somente ocorrerá mediante processo administrativo em que lhe sejam assegurados o contraditório e a ampla defesa.
+
+**Art. 248.** Os benefícios pagos, a qualquer título, pelo órgão responsável pelo regime geral de previdência social, ainda que à conta do Tesouro Nacional, e os não sujeitos ao limite máximo de valor fixado para os benefícios concedidos por esse regime observarão os limites fixados no art. 37, XI.
+
+**Art. 249.** Com o objetivo de assegurar recursos para o pagamento de proventos de aposentadoria e pensões concedidas aos respectivos servidores e seus dependentes, em adição aos recursos dos respectivos tesouros, a União, os Estados, o Distrito Federal e os Municípios poderão constituir fundos integrados pelos recursos provenientes de contribuições e por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e a administração desses fundos.
+
+**Art. 250.** Com o objetivo de assegurar recursos para o pagamento dos benefícios concedidos pelo regime geral de previdência social, em adição aos recursos de sua arrecadação, a União poderá constituir fundo integrado por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e administração desse fundo.
 
 ## Ato das Disposições Constitucionais Transitórias
 
