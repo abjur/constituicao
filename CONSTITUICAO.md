@@ -330,11 +330,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
 
-  XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de:
+  XXIX - ação, quando aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho;
 
-    _a)_ cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato;
+    _a)_ (Revogada).
 
-    _b)_ até dois anos após a extinção do contrato, para o trabalhador rural;
+    _b)_ (Revogada).
 
   XXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;
 
@@ -3928,13 +3928,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 ## Título IX: Das Disposições Constitucionais Gerais
 
-**Art. 233.** Para efeito do art. 7º, XXIX, o empregador rural comprovará, de cinco em cinco anos, perante a Justiça do Trabalho, o cumprimento das suas obrigações trabalhistas para com o empregado rural, na presença deste e de seu representante sindical.
-
- **§ 1º** Uma vez comprovado o cumprimento das obrigações mencionadas neste artigo, fica o empregador isento de qualquer ônus decorrente daquelas obrigações no período respectivo. Caso o empregado e seu representante não concordem com a comprovação do empregador, caberá à Justiça do Trabalho a solução da controvérsia.
-
- **§ 2º** Fica ressalvado ao empregado, em qualquer hipótese, o direito de postular, judicialmente, os créditos que entender existir, relativamente aos últimos cinco anos.
-
- **§ 3º** A comprovação mencionada neste artigo poderá ser feita em prazo inferior a cinco anos, a critério do empregador.
+**Art. 233.** (Revogado).
 
 **Art. 234.** É vedado à União, direta ou indiretamente, assumir, em decorrência da criação de Estado, encargos referentes a despesas com pessoal inativo e com encargos e amortizações da dívida interna ou externa da administração pública, inclusive da indireta.
 
