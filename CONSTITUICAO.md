@@ -2242,21 +2242,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - os Tribunais Regionais do Trabalho;
 
-  III - as Juntas de Conciliação e Julgamento.
+  III - Juízes do Trabalho.
 
- **§ 1º** O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, nomeados pelo Presidente da República após aprovação pelo Senado Federal, sendo:
+ **§ 1º** O Tribunal Superior do Trabalho compor-se-á de dezessete Ministros, togados e vitalícios, escolhidos dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, nomeados pelo Presidente da República, após aprovação pelo Senado Federal, dos quais onze escolhidos dentre juízes dos Tribunais Regionais do Trabalho, integrantes da carreira da magistratura trabalhista, três dentre advogados e três dentre membros do Ministério Público do Trabalho.
 
-  I - dezessete togados e vitalícios, dos quais onze escolhidos dentre juízes de carreira da magistratura trabalhista, três dentre advogados e três dentre membros do Ministério Público do Trabalho;
+  I - (Revogado).
 
-  II - dez classistas temporários, com representação paritária dos trabalhadores e empregadores.
+  II - (Revogado).
 
- **§ 2º** O Tribunal encaminhará ao Presidente da República listas tríplices, observando-se, quanto às vagas destinadas aos advogados e aos membros do Ministério Público, o disposto no art. 94, e, para as de classistas, o resultado de indicação de colégio eleitoral integrado pelas diretorias das confederações nacionais de trabalhadores ou empregadores, conforme o caso; as listas tríplices para o provimento de cargos destinados aos juízes da magistratura trabalhista de carreira deverão ser elaboradas pelos Ministros togados e vitalícios.
+ **§ 2º** O Tribunal encaminhará ao Presidente da República listas tríplices, observando-se, quanto às vagas destinadas aos advogados e aos membros do Ministério Público, o disposto no art. 94; as listas tríplices para o provimento de cargos destinados aos juízes da magistratura trabalhista de carreira deverão ser elaboradas pelos Ministros togados e vitalícios.
 
  **§ 3º** A lei disporá sobre a competência do Tribunal Superior do Trabalho.
 
-**Art. 112.** Haverá pelo menos um Tribunal Regional do Trabalho em cada Estado e no Distrito Federal, e a lei instituirá as Juntas de Conciliação e Julgamento, podendo, nas comarcas onde não forem instituídas, atribuir sua jurisdição aos juízes de direito.
+**Art. 112.** Haverá pelo menos um Tribunal Regional do Trabalho em cada Estado e no Distrito Federal, e a lei instituirá as Varas do Trabalho, podendo, nas comarcas onde não forem instituídas, atribuir sua jurisdição aos juízes de direito.
 
-**Art. 113.** A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho, assegurada a paridade de representação de trabalhadores e empregadores.
+**Art. 113.** A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho.
 
 **Art. 114.** Compete à Justiça do Trabalho conciliar e julgar os dissídios individuais e coletivos entre trabalhadores e empregadores, abrangidos os entes de direito público externo e da administração pública direta e indireta dos Municípios, do Distrito Federal, dos Estados e da União, e, na forma da lei, outras controvérsias decorrentes da relação de trabalho, bem como os litígios que tenham origem no cumprimento de suas próprias sentenças, inclusive coletivas.
 
@@ -2266,7 +2266,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Compete ainda à Justiça do Trabalho executar, de ofício, as contribuições sociais previstas no art. 195, I, a, e II, e seus acréscimos legais, decorrentes das sentenças que proferir.
 
-**Art. 115.** Os Tribunais Regionais do Trabalho serão compostos de juízes nomeados pelo Presidente da República, sendo dois terços de juízes togados vitalícios e um terço de juízes classistas temporários, observada, entre os juízes togados, a proporcionalidade estabelecida no art. 111, § 1º, I.
+**Art. 115.** Os Tribunais Regionais do Trabalho serão compostos de juízes nomeados pelo Presidente da República, observada a proporcionalidade estabelecida no § 2º do art. 111.
 
  **Parágrafo único.** Os magistrados dos Tribunais Regionais do Trabalho serão:
 
@@ -2274,15 +2274,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - advogados e membros do Ministério Público do Trabalho, obedecido o disposto no art. 94;
 
-  III - classistas indicados em listas tríplices pelas diretorias das federações e dos sindicatos com base territorial na região.
+  III - (Revogado).
 
-**Art. 116.** A Junta de Conciliação e Julgamento será composta de um juiz do trabalho, que a presidirá, e dois juízes classistas temporários, representantes dos empregados e dos empregadores.
+**Art. 116.** Nas Varas do Trabalho, a jurisdição será exercida por um juiz singular.
 
- **Parágrafo único.** Os juízes classistas das Juntas de Conciliação e Julgamento serão nomeados pelo Presidente do Tribunal Regional do Trabalho, na forma da lei, permitida uma recondução.
+ **Parágrafo único.** (Revogado).
 
-**Art. 117.** O mandato dos representantes classistas, em todas as instâncias, é de três anos.
-
- **Parágrafo único.** Os representantes classistas terão suplentes.
+**Art. 117.** (Revogado).
 
 #### Seção VI: Dos Tribunais e Juízes Eleitorais
 
