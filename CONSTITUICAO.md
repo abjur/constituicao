@@ -3236,7 +3236,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - a autorização para o funcionamento das instituições financeiras, assegurado às instituições bancárias oficiais e privadas acesso a todos os instrumentos do mercado financeiro bancário, sendo vedada a essas instituições a participação em atividades não previstas na autorização de que trata este inciso;
 
-  II - autorização e funcionamento dos estabelecimentos de seguro, previdência e capitalização, bem como do órgão oficial fiscalizador e do órgão oficial ressegurador;
+  II - autorização e funcionamento dos estabelecimentos de seguro, resseguro, previdência e capitalização, bem como do órgão oficial fiscalizador;
 
   III - as condições para a participação do capital estrangeiro nas instituições a que se referem os incisos anteriores, tendo em vista, especialmente:
 
