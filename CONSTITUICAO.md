@@ -388,15 +388,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;
 
-    _c)_ os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam registrados em repartição brasileira competente, ou venham a residir na República Federativa do Brasil antes da maioridade e, alcançada esta, optem em qualquer tempo pela nacionalidade brasileira;
+    _c)_ os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que venham a residir na República Federativa do Brasil e optem, em qualquer tempo, pela nacionalidade brasileira;
 
   II - naturalizados:
 
     _a)_ os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;
 
-    _b)_ os estrangeiros de qualquer nacionalidade residentes na República Federativa do Brasil há mais de trinta anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.
+    _b)_ os estrangeiros de qualquer nacionalidade residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.
 
- **§ 1º** Aos portugueses com residência permanente no País, se houver reciprocidade em favor dos brasileiros, serão atribuídos os direitos inerentes ao brasileiro nato, salvo os casos previstos nesta Constituição.
+ **§ 1º** Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição.
 
  **§ 2º** A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição.
 
@@ -418,7 +418,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional;
 
-  II - adquirir outra nacionalidade por naturalização voluntária.
+  II - adquirir outra nacionalidade, salvo nos casos:
+
+    _a)_ de reconhecimento de nacionalidade originária pela lei estrangeira;
+
+    _b)_ de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis.
 
 **Art. 13.** A língua portuguesa é o idioma oficial da República Federativa do Brasil.
 
@@ -486,7 +490,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.
 
- **§ 9º** Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta.
+ **§ 9º** Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para o exercício do mandato, considerada a vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta.
 
  **§ 10.** O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
 
@@ -1228,11 +1232,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XVII - aprovar, previamente, a alienação ou concessão de terras públicas com área superior a dois mil e quinhentos hectares.
 
-**Art. 50.** A Câmara dos Deputados e o Senado Federal, ou qualquer de suas comissões, poderão convocar Ministro de Estado para prestar, pessoalmente, informações sobre assunto previamente determinado, importando crime de responsabilidade a ausência sem justificação adequada.
+**Art. 50.** A Câmara dos Deputados e o Senado Federal, ou qualquer de suas comissões, poderão convocar Ministro de Estado ou quaisquer titulares de órgãos diretamente subordinados à Presidência da República para prestarem, pessoalmente, informações sobre assunto previamente determinado, importando em crime de responsabilidade a ausência sem justificação adequada.
 
  **§ 1º** Os Ministros de Estado poderão comparecer ao Senado Federal, à Câmara dos Deputados ou a qualquer de suas comissões, por sua iniciativa e mediante entendimentos com a Mesa respectiva, para expor assunto de relevância de seu Ministério.
 
- **§ 2º** As Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escritos de informação aos Ministros de Estado, importando crime de responsabilidade a recusa, ou o não-atendimento no prazo de trinta dias, bem como a prestação de informações falsas.
+ **§ 2º** As Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escritos de informação a Ministros de Estado ou a qualquer das pessoas referidas no caput deste artigo, importando em crime de responsabilidade a recusa, ou o não-atendimento, no prazo de trinta dias, bem como a prestação de informações falsas.
 
 #### Seção III: Da Câmara dos Deputados
 
@@ -1349,6 +1353,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2º** Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Câmara dos Deputados ou pelo Senado Federal, por voto secreto e maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
 
  **§ 3º** Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
+
+ **§ 4º** A renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato, nos termos deste artigo, terá seus efeitos suspensos até as deliberações finais de que tratam os §§ 2º e 3º.
 
 **Art. 56.** Não perderá o mandato o Deputado ou Senador:
 
@@ -1664,7 +1670,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
 
-**Art. 82.** O mandato do Presidente da República é de cinco anos, vedada a reeleição para o período subseqüente, e terá início em 1º de janeiro do ano seguinte ao da sua eleição.
+**Art. 82.** O mandato do Presidente da República é de quatro anos, vedada a reeleição para o período subseqüente, e terá início em 1º de janeiro do ano seguinte ao da sua eleição.
 
 **Art. 83.** O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo.
 
