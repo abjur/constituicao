@@ -622,7 +622,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIII - organizar e manter o Poder Judiciário, o Ministério Público e a Defensoria Pública do Distrito Federal e dos Territórios;
 
-  XIV - organizar e manter a polícia federal, a polícia rodoviária e a ferroviária federais, bem como a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal e dos Territórios;
+  XIV - organizar e manter a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio;
 
   XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;
 
@@ -638,7 +638,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXI - estabelecer princípios e diretrizes para o sistema nacional de viação;
 
-  XXII - executar os serviços de polícia marítima, aérea e de fronteira;
+  XXII - executar os serviços de polícia marítima, aeroportuária e de fronteiras;
 
   XXIII - explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:
 
@@ -706,7 +706,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXVI - atividades nucleares de qualquer natureza;
 
-  XXVII - normas gerais de licitação e contratação, em todas as modalidades, para a administração pública, direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público, nas diversas esferas de governo, e empresas sob seu controle;
+  XXVII - normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, Estados, Distrito Federal e Municípios, obedecido o disposto no art. 37, XXI, e para as empresas públicas e sociedades de economia mista, nos termos do art. 173, § 1º, III;
 
   XXVIII - defesa territorial, defesa aeroespacial, defesa marítima, defesa civil e mobilização nacional;
 
@@ -808,7 +808,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** Será de quatro anos o mandato dos Deputados Estaduais, aplicando-se-lhes as regras desta Constituição sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas.
 
- **§ 2º** A remuneração dos Deputados Estaduais será fixada em cada legislatura, para a subseqüente, pela Assembléia Legislativa, observado o que dispõem os arts. 150, II; 153, III, e 153, § 2º, I, na razão de, no máximo, setenta e cinco por cento daquela estabelecida, em espécie, para os Deputados Federais.
+ **§ 2º** O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembléia Legislativa, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Federais, observado o que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I.
 
  **§ 3º** Compete às Assembléias Legislativas dispor sobre seu regimento interno, polícia e serviços administrativos de sua secretaria, e prover os respectivos cargos.
 
@@ -816,7 +816,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 28.** A eleição do Governador e do Vice-Governador de Estado, para mandato de quatro anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em primeiro de janeiro do ano subseqüente, observado, quanto ao mais, o disposto no art. 77.
 
- **Parágrafo único.** Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. 38, I, IV e V.
+ **§ 1º** Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. 38, I, IV e V.
+
+ **§ 2º** Os subsídios do Governador, do Vice-Governador e dos Secretários de Estado serão fixados por lei de iniciativa da Assembléia Legislativa, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.
 
 ### Capítulo IV: Dos Municípios
 
@@ -836,9 +838,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ mínimo de quarenta e dois e máximo de cinqüenta e cinco nos Municípios de mais de cinco milhões de habitantes;
 
-  V - remuneração do Prefeito, do Vice-Prefeito e dos Vereadores fixada pela Câmara Municipal em cada legislatura, para a subseqüente, observado o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I;
+  V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
-  VI - a remuneração dos Vereadores corresponderá a, no máximo, setenta e cinco por cento daquela estabelecida, em espécie, para os Deputados Estaduais, ressalvado o que dispõe o art. 37, XI;
+  VI - subsídio dos Vereadores fixado por lei de iniciativa da Câmara Municipal, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Estaduais, observado o que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I;
 
   VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município;
 
@@ -974,51 +976,51 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção I: Disposições Gerais
 
-**Art. 37.** A administração pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e, também, ao seguinte:
+**Art. 37.** A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
 
-  I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei;
+  I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;
 
-  II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração;
+  II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração;
 
   III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período;
 
   IV - durante o prazo improrrogável previsto no edital de convocação, aquele aprovado em concurso público de provas ou de provas e títulos será convocado com prioridade sobre novos concursados para assumir cargo ou emprego, na carreira;
 
-  V - os cargos em comissão e as funções de confiança serão exercidos, preferencialmente, por servidores ocupantes de cargo de carreira técnica ou profissional, nos casos e condições previstos em lei;
+  V - as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento;
 
   VI - é garantido ao servidor público civil o direito à livre associação sindical;
 
-  VII - o direito de greve será exercido nos termos e nos limites definidos em lei complementar;
+  VII - o direito de greve será exercido nos termos e nos limites definidos em lei específica;
 
   VIII - a lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão;
 
   IX - a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público;
 
-  X - a revisão geral da remuneração dos servidores públicos, sem distinção de índices entre servidores públicos civis e militares, far-se-á sempre na mesma data;
+  X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;
 
-  XI - a lei fixará o limite máximo e a relação de valores entre a maior e a menor remuneração dos servidores públicos, observados, como limites máximos e no âmbito dos respectivos Poderes, os valores percebidos como remuneração, em espécie, a qualquer título, por membros do Congresso Nacional, Ministros de Estado e Ministros do Supremo Tribunal Federal e seus correspondentes nos Estados, no Distrito Federal e nos Territórios, e, nos Municípios, os valores percebidos como remuneração, em espécie, pelo Prefeito;
+  XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal;
 
   XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;
 
-  XIII - é vedada a vinculação ou equiparação de vencimentos, para o efeito de remuneração de pessoal do serviço público, ressalvado o disposto no inciso anterior e no art. 39, § 1º;
+  XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público;
 
-  XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento;
+  XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores;
 
-  XV - os vencimentos dos servidores públicos são irredutíveis, e a remuneração observará o que dispõem os arts. 37, XI e XII, 150, ll, 153, III e § 2º, I;
+  XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
-  XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários:
+  XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI:
 
     _a)_ a de dois cargos de professor;
 
-    _b)_ a de um cargo de professor com outro técnico ou científico;
+    _b)_ a de um cargo de professor com outro, técnico ou científico;
 
     _c)_ a de dois cargos privativos de médico;
 
-  XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações mantidas pelo poder público;
+  XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;
 
   XVIII - a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei;
 
-  XIX - somente por lei específica poderão ser criadas empresa pública, sociedade de economia mista, autarquia ou fundação pública;
+  XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação;
 
   XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;
 
@@ -1028,7 +1030,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** A não-observância do disposto nos incisos II e III implicará a nulidade do ato e a punição da autoridade responsável, nos termos da lei.
 
- **§ 3º** As reclamações relativas à prestação de serviços públicos serão disciplinadas em lei.
+ **§ 3º** A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente:
+
+  I - as reclamações relativas à prestação dos serviços públicos em geral, asseguradas a manutenção de serviços de atendimento ao usuário e a avaliação periódica, externa e interna, da qualidade dos serviços;
+
+  II - o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no art. 5º, X e XXXIII;
+
+  III - a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública.
 
  **§ 4º** Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.
 
@@ -1036,7 +1044,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
 
-**Art. 38.** Ao servidor público em exercício de mandato eletivo aplicam-se as seguintes disposições:
+ **§ 7º** A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas.
+
+ **§ 8º** A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre:
+
+  I - o prazo de duração do contrato;
+
+  II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;
+
+  III - a remuneração do pessoal.
+
+ **§ 9º** O disposto no inciso XI aplica-se às empresas públicas e às sociedades de economia mista e suas subsidiárias, que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral.
+
+**Art. 38.** Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições:
 
   I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função;
 
@@ -1050,11 +1070,29 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção II: Dos Servidores Públicos
 
-**Art. 39.** A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+**Art. 39.** A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.
 
- **§ 1º** A lei assegurará, aos servidores da administração direta, isonomia de vencimentos para cargos de atribuições iguais ou assemelhados do mesmo Poder ou entre servidores dos Poderes Executivo, Legislativo e Judiciário, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.
+ **§ 1º** A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará:
 
- **§ 2º** Aplica-se a esses servidores o disposto no art. 7º, IV, VI, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII e XXX.
+  I - a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira;
+
+  II - os requisitos para a investidura;
+
+  III - as peculiaridades dos cargos.
+
+ **§ 2º** A União, os Estados e o Distrito Federal manterão escolas de governo para a formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para a promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados.
+
+ **§ 3º** Aplica-se aos servidores ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX, podendo a lei estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir.
+
+ **§ 4º** O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. 37, X e XI.
+
+ **§ 5º** Lei da União, dos Estados, do Distrito Federal e dos Municípios poderá estabelecer a relação entre a maior e a menor remuneração dos servidores públicos, obedecido, em qualquer caso, o disposto no art. 37, XI.
+
+ **§ 6º** Os Poderes Executivo, Legislativo e Judiciário publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos.
+
+ **§ 7º** Lei da União, dos Estados, do Distrito Federal e dos Municípios disciplinará a aplicação de recursos orçamentários provenientes da economia com despesas correntes em cada órgão, autarquia e fundação, para aplicação no desenvolvimento de programas de qualidade e produtividade, treinamento e desenvolvimento, modernização, reaparelhamento e racionalização do serviço público, inclusive sob a forma de adicional ou prêmio de produtividade.
+
+ **§ 8º** A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § 4º.
 
 **Art. 40.** O servidor será aposentado:
 
@@ -1084,13 +1122,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** As aposentadorias e pensões dos servidores públicos federais serão custeadas com recursos provenientes da União e das contribuições dos servidores, na forma da lei.
 
-**Art. 41.** São estáveis, após dois anos de efetivo exercício, os servidores nomeados em virtude de concurso público.
+**Art. 41.** São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
 
- **§ 1º** O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante processo administrativo em que lhe seja assegurada ampla defesa.
+ **§ 1º** O servidor público estável só perderá o cargo:
 
- **§ 2º** Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade.
+  I - em virtude de sentença judicial transitada em julgado;
 
- **§ 3º** Extinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em disponibilidade remunerada, até seu adequado aproveitamento em outro cargo.
+  II - mediante processo administrativo em que lhe seja assegurada ampla defesa;
+
+  III - mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa.
+
+ **§ 2º** Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
+
+ **§ 3º** Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.
+
+ **§ 4º** Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.
 
 #### Seção III: Dos Militares dos Estados, do Distrito Federal e dos Territórios
 
@@ -1178,7 +1224,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIII - matéria financeira, cambial e monetária, instituições financeiras e suas operações;
 
-  XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal.
+  XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal;
+
+  XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, por lei de iniciativa conjunta dos Presidentes da República, da Câmara dos Deputados, do Senado Federal e do Supremo Tribunal Federal, observado o que dispõem os arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I.
 
 **Art. 49.** É da competência exclusiva do Congresso Nacional:
 
@@ -1194,9 +1242,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VI - mudar temporariamente sua sede;
 
-  VII - fixar idêntica remuneração para os Deputados Federais e os Senadores, em cada legislatura, para a subseqüente, observado o que dispõem os arts. 150, II, 153, III, e 153, § 2º, I;
+  VII - fixar idêntico subsídio para os Deputados Federais e os Senadores, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
-  VIII - fixar para cada exercício financeiro a remuneração do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. 150, II, 153, III, e 153, § 2º, I;
+  VIII - fixar os subsídios do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
   IX - julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo;
 
@@ -1232,7 +1280,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - elaborar seu regimento interno;
 
-  IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
+  IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
 
   V - eleger membros do Conselho da República, nos termos do art. 89, VII.
 
@@ -1276,7 +1324,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XII - elaborar seu regimento interno;
 
-  XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
+  XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
 
   XIV - eleger membros do Conselho da República, nos termos do art. 89, VII.
 
@@ -1380,7 +1428,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal, ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante.
 
- **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado.
+ **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, vedado o pagamento de parcela indenizatória em valor superior ao do subsídio mensal.
 
 #### Seção VII: Das Comissões
 
@@ -1542,7 +1590,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 70.** A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
 
- **Parágrafo único.** Prestará contas qualquer pessoa física ou entidade pública que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
+ **Parágrafo único.** Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
 
 **Art. 71.** O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete:
 
@@ -1870,7 +1918,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - previsão de cursos oficiais de preparação e aperfeiçoamento de magistrados como requisitos para ingresso e promoção na carreira;
 
-  V - os vencimentos dos magistrados serão fixados com diferença não superior a dez por cento de uma para outra das categorias da carreira, não podendo, a título nenhum, exceder os dos Ministros do Supremo Tribunal Federal;
+  V - o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, § 4º;
 
   VI - a aposentadoria com proventos integrais é compulsória por invalidez ou aos setenta anos de idade, e facultativa aos trinta anos de serviço, após cinco anos de exercício efetivo na judicatura;
 
@@ -1894,7 +1942,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - inamovibilidade, salvo por motivo de interesse público, na forma do art. 93, VIII;
 
-  III - irredutibilidade de vencimentos, observado, quanto à remuneração, o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I.
+  III - irredutibilidade de subsídio, ressalvado o disposto nos arts. 37, X e XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.
 
  **Parágrafo único.** Aos juízes é vedado:
 
@@ -1924,7 +1972,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ a alteração do número de membros dos tribunais inferiores;
 
-    _b)_ a criação e a extinção de cargos e a fixação de vencimentos de seus membros, dos juízes, inclusive dos tribunais inferiores, onde houver, dos serviços auxiliares e os dos juízos que lhes forem vinculados;
+    _b)_ a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos tribunais inferiores, onde houver, ressalvado o disposto no art. 48, XV;
 
     _c)_ a criação ou extinção dos tribunais inferiores;
 
@@ -2312,7 +2360,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional.
 
- **§ 2º** Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas e de provas e títulos; a lei disporá sobre sua organização e funcionamento.
+ **§ 2º** Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento.
 
  **§ 3º** O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias.
 
@@ -2346,7 +2394,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto de dois terços de seus membros, assegurada ampla defesa;
 
-    _c)_ irredutibilidade de vencimentos, observado, quanto à remuneração, o que dispõem os arts. 37, XI, 150, II, 153, III, 153, § 2º, I;
+    _c)_ irredutibilidade de subsídio, fixado na forma do art. 39, § 4º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I;
 
   II - as seguintes vedações:
 
@@ -2390,7 +2438,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 130.** Aos membros do Ministério Público junto aos Tribunais de Contas aplicam-se as disposições desta Seção pertinentes a direitos, vedações e forma de investidura.
 
-#### Seção II: Da Advocacia-Geral da União
+#### Seção II: Da Advocacia Pública
 
 **Art. 131.** A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do Poder Executivo.
 
@@ -2400,7 +2448,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Na execução da dívida ativa de natureza tributária, a representação da União cabe à Procuradoria-Geral da Fazenda Nacional, observado o disposto em lei.
 
-**Art. 132.** Os Procuradores dos Estados e do Distrito Federal exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, observado o disposto no art. 135.
+**Art. 132.** Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas.
+
+ **Parágrafo único.** Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias.
 
 #### Seção III: Da Advocacia e da Defensoria Pública
 
@@ -2410,7 +2460,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais.
 
-**Art. 135.** Às carreiras disciplinadas neste Título aplicam-se o princípio do art. 37, XII, e o art. 39, § 1º.
+**Art. 135.** Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, § 4º.
 
 ## Título V: Da Defesa do Estado e das Instituições Democráticas
 
@@ -2510,7 +2560,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - o militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei;
 
-  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antigüidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não transferido para a reserva, nos termos da lei;
+  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antigüidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não, transferidos para a reserva, nos termos da lei;
 
   IV - ao militar são proibidas a sindicalização e a greve;
 
@@ -2546,19 +2596,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - polícias militares e corpos de bombeiros militares.
 
- **§ 1º** A polícia federal, instituída por lei como órgão permanente, estruturado em carreira, destina-se a:
+ **§ 1º** A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a:
 
   I - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão uniforme, segundo se dispuser em lei;
 
   II - prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem prejuízo da ação fazendária e de outros órgãos públicos nas respectivas áreas de competência;
 
-  III - exercer as funções de polícia marítima, aérea e de fronteiras;
+  III - exercer as funções de polícia marítima, aeroportuária e de fronteiras;
 
   IV - exercer, com exclusividade, as funções de polícia judiciária da União.
 
- **§ 2º** A polícia rodoviária federal, órgão permanente, estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias federais.
+ **§ 2º** A polícia rodoviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias federais.
 
- **§ 3º** A polícia ferroviária federal, órgão permanente, estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das ferrovias federais.
+ **§ 3º** A polícia ferroviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das ferrovias federais.
 
  **§ 4º** Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.
 
@@ -2569,6 +2619,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 7º** A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades.
 
  **§ 8º** Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.
+
+ **§ 9º** A remuneração dos servidores policiais integrantes dos órgãos relacionados neste artigo será fixada na forma do § 4º do art. 39.
 
 ## Título VI: Da Tributação e do Orçamento
 
@@ -3014,7 +3066,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos, inclusive dos mencionados no art. 165, § 5º;
 
-  IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa.
+  IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa;
+
+  X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos Municípios.
 
  **§ 1º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade.
 
@@ -3028,11 +3082,27 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 169.** A despesa com pessoal ativo e inativo da União, dos Estados, do Distrito Federal e dos Municípios não poderá exceder os limites estabelecidos em lei complementar.
 
- **Parágrafo único.** A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos ou alteração de estrutura de carreiras, bem como a admissão de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas:
+ **§ 1º** A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas:
 
   I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes;
 
   II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista.
+
+ **§ 2º** Decorrido o prazo estabelecido na lei complementar referida neste artigo para a adaptação aos parâmetros ali previstos, serão imediatamente suspensos todos os repasses de verbas federais ou estaduais aos Estados, ao Distrito Federal e aos Municípios que não observarem os referidos limites.
+
+ **§ 3º** Para o cumprimento dos limites estabelecidos com base neste artigo, durante o prazo fixado na lei complementar referida no caput , a União, os Estados, o Distrito Federal e os Municípios adotarão as seguintes providências:
+
+  I - redução em pelo menos vinte por cento das despesas com cargos em comissão e funções de confiança;
+
+  II - exoneração dos servidores não estáveis.
+
+ **§ 4º** Se as medidas adotadas com base no parágrafo anterior não forem suficientes para assegurar o cumprimento da determinação da lei complementar referida neste artigo, o servidor estável poderá perder o cargo, desde que ato normativo motivado de cada um dos Poderes especifique a atividade funcional, o órgão ou unidade administrativa objeto da redução de pessoal.
+
+ **§ 5º** O servidor que perder o cargo na forma do parágrafo anterior fará jus a indenização correspondente a um mês de remuneração por ano de serviço.
+
+ **§ 6º** O cargo objeto da redução prevista nos parágrafos anteriores será considerado extinto, vedada a criação de cargo, emprego ou função com atribuições iguais ou assemelhadas pelo prazo de quatro anos.
+
+ **§ 7º** Lei federal disporá sobre as normas gerais a serem obedecidas na efetivação do disposto no § 4º.
 
 ## Título VII: Da Ordem Econômica e Financeira
 
@@ -3066,7 +3136,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 173.** Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.
 
- **§ 1º** A empresa pública, a sociedade de economia mista e outras entidades que explorem atividade econômica sujeitam-se ao regime jurídico próprio das empresas privadas, inclusive quanto às obrigações trabalhistas e tributárias.
+ **§ 1º** A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre:
+
+  I - sua função social e formas de fiscalização pelo Estado e pela sociedade;
+
+  II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários;
+
+  III - licitação e contratação de obras, serviços, compras e alienações, observados os princípios da administração pública;
+
+  IV - a constituição e o funcionamento dos conselhos de administração e fiscal, com a participação de acionistas minoritários;
+
+  V - os mandatos, a avaliação de desempenho e a responsabilidade dos administradores.
 
  **§ 2º** As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado.
 
@@ -3442,7 +3522,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - gratuidade do ensino público em estabelecimentos oficiais;
 
-  V - valorização dos profissionais do ensino, garantido, na forma da lei, plano de carreira para o magistério público, com piso salarial profissional e ingresso exclusivamente por concurso público de provas e títulos, assegurado regime jurídico único para todas as instituições mantidas pela União;
+  V - valorização dos profissionais do ensino, garantidos, na forma da lei, planos de carreira para o magistério público, com piso salarial profissional e ingresso exclusivamente por concurso público de provas e títulos;
 
   VI - gestão democrática do ensino público, na forma da lei;
 
@@ -3828,7 +3908,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 240.** Ficam ressalvadas do disposto no art. 195 as atuais contribuições compulsórias dos empregadores sobre a folha de salários, destinadas às entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical.
 
-**Art. 241.** Aos delegados de polícia de carreira aplica-se o princípio do art. 39, § 1º, correspondente às carreiras disciplinadas no art. 135 desta Constituição.
+**Art. 241.** A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos.
 
 **Art. 242.** O princípio do art. 206, IV, não se aplica às instituições educacionais oficiais criadas por lei estadual ou municipal e existentes na data da promulgação desta Constituição, que não sejam total ou preponderantemente mantidas com recursos públicos.
 
@@ -3845,6 +3925,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 **Art. 245.** A lei disporá sobre as hipóteses e condições em que o poder público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito.
 
 **Art. 246.** É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada a partir de 1995.
+
+**Art. 247.** As leis previstas no inciso III do § 1º do art. 41 e no § 7º do art. 169 estabelecerão critérios e garantias especiais para a perda do cargo pelo servidor público estável que, em decorrência das atribuições de seu cargo efetivo, desenvolva atividades exclusivas de Estado.
+
+ **Parágrafo único.** Na hipótese de insuficiência de desempenho, a perda do cargo somente ocorrerá mediante processo administrativo em que lhe sejam assegurados o contraditório e a ampla defesa.
 
 ## Ato das Disposições Constitucionais Transitórias
 
