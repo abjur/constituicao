@@ -1004,7 +1004,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento;
 
-  XV - os vencimentos dos servidores públicos, civis e militares, são irredutíveis e a remuneração observará o que dispõem os arts. 37, XI, XII, 150, II, 153, III, e 153, § 2º, I;
+  XV - os vencimentos dos servidores públicos são irredutíveis, e a remuneração observará o que dispõem os arts. 37, XI e XII, 150, ll, 153, III e § 2º, I;
 
   XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários:
 
@@ -1048,7 +1048,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.
 
-#### Seção II: Dos Servidores Públicos Civis
+#### Seção II: Dos Servidores Públicos
 
 **Art. 39.** A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
 
@@ -1092,31 +1092,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Extinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em disponibilidade remunerada, até seu adequado aproveitamento em outro cargo.
 
-#### Seção III: Dos Servidores Públicos Militares
+#### Seção III: Dos Militares dos Estados, do Distrito Federal e dos Territórios
 
-**Art. 42.** São servidores militares federais os integrantes das Forças Armadas e servidores militares dos Estados, Territórios e Distrito Federal os integrantes de suas polícias militares e de seus corpos de bombeiros militares.
+**Art. 42.** Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios.
 
- **§ 1º** As patentes, com prerrogativas, direitos e deveres a elas inerentes, são asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados das Forças Armadas, das polícias militares e dos corpos de bombeiros militares dos Estados, dos Territórios e do Distrito Federal, sendo-lhes privativos os títulos, postos e uniformes militares.
+ **§ 1º** Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. 14, § 8º; do art. 40, § 3º; e do art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, 3º, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos Governadores.
 
- **§ 2º** As patentes dos oficiais das Forças Armadas são conferidas pelo Presidente da República, e as dos oficiais das polícias militares e corpos de bombeiros militares dos Estados, Territórios e Distrito Federal, pelos respectivos Governadores.
-
- **§ 3º** O militar em atividade que aceitar cargo público civil permanente será transferido para a reserva.
-
- **§ 4º** O militar da ativa que aceitar cargo, emprego ou função pública temporária, não eletiva, ainda que da administração indireta, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antiguidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não, transferido para a inatividade.
-
- **§ 5º** Ao militar são proibidas a sindicalização e a greve.
-
- **§ 6º** O militar, enquanto em efetivo serviço, não pode estar filiado a partidos políticos.
-
- **§ 7º** O oficial das Forças Armadas só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível, por decisão de tribunal militar de caráter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra.
-
- **§ 8º** O oficial condenado na justiça comum ou militar a pena privativa de liberdade superior a dois anos, por sentença transitada em julgado, será submetido ao julgamento previsto no parágrafo anterior.
-
- **§ 9º** A lei disporá sobre os limites de idade, a estabilidade e outras condições de transferência do servidor militar para a inatividade.
-
- **§ 10.** Aplica-se aos servidores a que se refere este artigo, e a seus pensionistas, o disposto no art. 40, §§ 4º, 5º e 6º.
-
- **§ 11.** Aplica-se aos servidores a que se refere este artigo o disposto no art. 7º, VIII, XII, XVII, XVIII e XIX.
+ **§ 2º** Aos militares dos Estados, do Distrito Federal e dos Territórios e a seus pensionistas aplica-se o disposto no art. 40, §§ 4º e 5º; e aos militares do Distrito Federal e dos Territórios, o disposto no art. 40, § 6º.
 
 #### Seção IV: Das Regiões
 
@@ -1488,11 +1470,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios;
 
-    _c)_ servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria de civis, reforma e transferência de militares para a inatividade;
+    _c)_ servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;
 
     _d)_ organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;
 
     _e)_ criação, estruturação e atribuições dos Ministérios e órgãos da administração pública.
+
+    _f)_ militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva.
 
  **§ 2º** A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.
 
@@ -2519,6 +2503,28 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 1º** Lei complementar estabelecerá as normas gerais a serem adotadas na organização, no preparo e no emprego das Forças Armadas.
 
  **§ 2º** Não caberá habeas corpus em relação a punições disciplinares militares.
+
+ **§ 3º** Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas em lei, as seguintes disposições:
+
+  I - as patentes, com prerrogativas, direitos e deveres a elas inerentes, são conferidas pelo Presidente da República e asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados, sendo-lhes privativos os títulos e postos militares e, juntamente com os demais membros, o uso dos uniformes das Forças Armadas;
+
+  II - o militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei;
+
+  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antigüidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não transferido para a reserva, nos termos da lei;
+
+  IV - ao militar são proibidas a sindicalização e a greve;
+
+  V - o militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos;
+
+  VI - o oficial só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível, por decisão de tribunal militar de caráter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra;
+
+  VII - o oficial condenado na justiça comum ou militar à pena privativa de liberdade superior a dois anos, por sentença transitada em julgado, será submetido ao julgamento previsto no inciso anterior;
+
+  VIII - aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV;
+
+  IX - aplica-se aos militares e a seus pensionistas o disposto no art. 40, §§ 4º, 5º e 6º;
+
+  X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra.
 
 **Art. 143.** O serviço militar é obrigatório nos termos da lei.
 
