@@ -2776,7 +2776,23 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 149.** Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
 
- **Parágrafo único.** Os Estados, o Distrito Federal e os Municípios poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência e assistência social.
+ **§ 1º** Os Estados, o Distrito Federal e os Municípios poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência e assistência social.
+
+ **§ 2º** As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
+
+  I - não incidirão sobre as receitas decorrentes de exportação;
+
+  II - poderão incidir sobre a importação de petróleo e seus derivados, gás natural e seus derivados e álcool combustível;
+
+  III - poderão ter alíquotas:
+
+    _a)_ ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;
+
+    _b)_ específica, tendo por base a unidade de medida adotada.
+
+ **§ 3º** A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei.
+
+ **§ 4º** A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
 
 #### Seção II: Das Limitações do Poder de Tributar
 
@@ -2934,7 +2950,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IX - incidirá também:
 
-    _a)_ sobre a entrada de mercadoria importada do exterior, ainda quando se tratar de bem destinado a consumo ou ativo fixo do estabelecimento, assim como sobre serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o estabelecimento destinatário da mercadoria ou do serviço;
+    _a)_ sobre a entrada de bem ou mercadoria importados do exterior por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, assim como sobre o serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria, bem ou serviço;
 
     _b)_ sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;
 
@@ -2964,7 +2980,29 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _g)_ regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
- **§ 3º** À exceção dos impostos de que tratam o inciso II do caput deste artigo e o art. 153, I e II, nenhum outro tributo poderá incidir sobre operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.
+    _h)_ definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, b;
+
+    _i)_ fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.
+
+ **§ 3º** À exceção dos impostos de que tratam o inciso II do caput deste artigo e o art. 153, I e II, nenhum outro imposto poderá incidir sobre operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.
+
+ **§ 4º** Na hipótese do inciso XII, h, observar-se-á o seguinte:
+
+  I - nas operações com os lubrificantes e combustíveis derivados de petróleo, o imposto caberá ao Estado onde ocorrer o consumo;
+
+  II - nas operações interestaduais, entre contribuintes, com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso I deste parágrafo, o imposto será repartido entre os Estados de origem e de destino, mantendo-se a mesma proporcionalidade que ocorre nas operações com as demais mercadorias;
+
+  III - nas operações interestaduais com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso I deste parágrafo, destinadas a não contribuinte, o imposto caberá ao Estado de origem;
+
+  IV - as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do § 2º, XII, g, observando-se o seguinte:
+
+    _a)_ serão uniformes em todo o território nacional, podendo ser diferenciadas por produto;
+
+    _b)_ poderão ser específicas, por unidade de medida adotada, ou ad valorem, incidindo sobre o valor da operação ou sobre o preço que o produto ou seu similar alcançaria em uma venda em condições de livre concorrência;
+
+    _c)_ poderão ser reduzidas e restabelecidas, não se lhes aplicando o disposto no art. 150, III, b.
+
+ **§ 5º** As regras necessárias à aplicação do disposto no § 4º, inclusive as relativas à apuração e à destinação do imposto, serão estabelecidas mediante deliberação dos Estados e do Distrito Federal, nos termos do § 2º, XII, g.
 
 #### Seção V: Dos Impostos dos Municípios
 
@@ -3331,6 +3369,22 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   III - a estrutura e atribuições do órgão regulador do monopólio da União.
 
  **§ 3º** A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional.
+
+ **§ 4º** A lei que instituir contribuição de intervenção no domínio econômico relativa às atividades de importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool combustível deverá atender aos seguintes requisitos:
+
+  I - a alíquota da contribuição poderá ser:
+
+    _a)_ diferenciada por produto ou uso;
+
+    _b)_ reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150,III, b;
+
+  II - os recursos arrecadados serão destinados:
+
+    _a)_ ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus derivados e derivados de petróleo;
+
+    _b)_ ao financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás;
+
+    _c)_ ao financiamento de programas de infra-estrutura de transportes.
 
 **Art. 178.** A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade.
 
