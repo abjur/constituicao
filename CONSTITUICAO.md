@@ -3840,7 +3840,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 1º** O Presidente da República, o Presidente do Supremo Tribunal Federal e os membros do Congresso Nacional prestarão o compromisso de manter, defender e cumprir a Constituição, no ato e na data de sua promulgação.
 
-**Art. 2º** No dia 7 de setembro de 1993 o eleitorado definirá, através de plebiscito, a forma e o sistema de governo que devem vigorar no País.
+**Art. 2º** No dia 21 de abril de 1993 o eleitorado definirá, através de plebiscito, a forma e o sistema de governo que devem vigorar no País.
 
  **§ 1º** Será assegurada gratuidade na livre divulgação dessas formas e sistemas, através dos meios de comunicação de massa cessionários de serviço público.
 
