@@ -1034,7 +1034,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;
 
-  XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal;
+  XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos;
 
   XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;
 
@@ -1061,6 +1061,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;
 
   XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.
+
+  XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio.
 
  **§ 1º** A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos.
 
@@ -1132,11 +1134,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 8º** A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § 4º.
 
-**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
 
- **§ 1º** Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma do § 3º:
+ **§ 1º** Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17:
 
-  I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificada em lei;
+  I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;
 
   II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição;
 
@@ -1148,7 +1150,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
 
- **§ 3º** Os proventos de aposentadoria, por ocasião da sua concessão, serão calculados com base na remuneração do servidor no cargo efetivo em que se der a aposentadoria e, na forma da lei, corresponderão à totalidade da remuneração.
+ **§ 3º** Para o cálculo dos proventos de aposentadoria, por ocasião da sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.
 
  **§ 4º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar.
 
@@ -1156,9 +1158,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta do regime de previdência previsto neste artigo.
 
- **§ 7º** Lei disporá sobre a concessão do benefício da pensão por morte, que será igual ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento, observado o disposto no § 3º.
+ **§ 7º** Lei disporá sobre a concessão do benefício de pensão por morte, que será igual:
 
- **§ 8º** Observado o disposto no art. 37, XI, os proventos de aposentadoria e as pensões serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+  I - ao valor da totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso aposentado à data do óbito; ou
+
+  II - ao valor da totalidade da remuneração do servidor no cargo efetivo em que se deu o falecimento, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso em atividade na data do óbito.
+
+ **§ 8º** É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei.
 
  **§ 9º** O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente para efeito de disponibilidade.
 
@@ -1172,9 +1178,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 14.** A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime de previdência complementar para os seus respectivos servidores titulares de cargo efetivo, poderão fixar, para o valor das aposentadorias e pensões a serem concedidas pelo regime de que trata este artigo, o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201.
 
- **§ 15.** Observado o disposto no art. 202, lei complementar disporá sobre as normas gerais para a instituição de regime de previdência complementar pela União, Estados, Distrito Federal e Municípios, para atender aos seus respectivos servidores titulares de cargo efetivo.
+ **§ 15.** O regime de previdência complementar de que trata o § 14 será instituído por lei de iniciativa do respectivo Poder Executivo, observado o disposto no art. 202 e seus parágrafos, no que couber, por intermédio de entidades fechadas de previdência complementar, de natureza pública, que oferecerão aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida.
 
  **§ 16.** Somente mediante sua prévia e expressa opção, o disposto nos §§ 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição do correspondente regime de previdência complementar.
+
+ **§ 17.** Todos os valores de remuneração considerados para o cálculo do benefício previsto no § 3° serão devidamente atualizados, na forma da lei.
+
+ **§ 18.** Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo regime de que trata este artigo que superem o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
+
+ **§ 19.** O servidor de que trata este artigo que tenha completado as exigências para aposentadoria voluntária estabelecidas no § 1º, III, a, e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no § 1º, II.
+
+ **§ 20.** Fica vedada a existência de mais de um regime próprio de previdência social para os servidores titulares de cargos efetivos, e de mais de uma unidade gestora do respectivo regime em cada ente estatal, ressalvado o disposto no art. 142, § 3º, X.
 
 **Art. 41.** São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
 
@@ -1198,7 +1212,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. 14, § 8º; do art. 40, § 9º; e do art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, § 3º, inciso X, sendo as patentes dos oficiais conferidas pelos respectivos governadores.
 
- **§ 2º** Aos militares dos Estados, do Distrito Federal e dos Territórios e a seus pensionistas, aplica-se o disposto no art. 40, §§ 7º e 8º.
+ **§ 2º** Aos pensionistas dos militares dos Estados, do Distrito Federal e dos Territórios aplica-se o que for fixado em lei específica do respectivo ente estatal.
 
 #### Seção IV: Das Regiões
 
@@ -1280,7 +1294,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal;
 
-  XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, por lei de iniciativa conjunta dos Presidentes da República, da Câmara dos Deputados, do Senado Federal e do Supremo Tribunal Federal, observado o que dispõem os arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I.
+  XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. 39, § 4º; 150, II; 153, III; e 153, § 2º, I.
 
 **Art. 49.** É da competência exclusiva do Congresso Nacional:
 
@@ -1381,6 +1395,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
 
   XIV - eleger membros do Conselho da República, nos termos do art. 89, VII.
+
+  XV - avaliar periodicamente a funcionalidade do Sistema Tributário Nacional, em sua estrutura e seus componentes, e o desempenho das administrações tributárias da União, dos Estados e do Distrito Federal e dos Municípios.
 
  **Parágrafo único.** Nos casos previstos nos incisos I e II, funcionará como Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que somente será proferida por dois terços dos votos do Senado Federal, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis.
 
@@ -2074,7 +2090,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ a alteração do número de membros dos tribunais inferiores;
 
-    _b)_ a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos tribunais inferiores, onde houver, ressalvado o disposto no art. 48, XV;
+    _b)_ a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos tribunais inferiores, onde houver;
 
     _c)_ a criação ou extinção dos tribunais inferiores;
 
@@ -2686,7 +2702,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV;
 
-  IX - aplica-se aos militares e a seus pensionistas o disposto no art. 40, §§ 7º e 8º;
+  IX - (Revogado).
 
   X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra.
 
@@ -2768,6 +2784,20 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas.
 
+    _d)_ definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso do imposto previsto no art. 155, II, das contribuições previstas no art. 195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.
+
+ **Parágrafo único.** A lei complementar de que trata o inciso III, d, também poderá instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, observado que:
+
+  I - será opcional para o contribuinte;
+
+  II - poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
+
+  III - o recolhimento será unificado e centralizado e a distribuição da parcela de recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou condicionamento;
+
+  IV - a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes federados, adotado cadastro nacional único de contribuintes.
+
+**Art. 146-A.** Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo.
+
 **Art. 147.** Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
 
 **Art. 148.** A União, mediante lei complementar, poderá instituir empréstimos compulsórios:
@@ -2780,13 +2810,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 149.** Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
 
- **§ 1º** Os Estados, o Distrito Federal e os Municípios poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência e assistência social.
+ **§ 1º** Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
 
  **§ 2º** As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
 
   I - não incidirão sobre as receitas decorrentes de exportação;
 
-  II - poderão incidir sobre a importação de petróleo e seus derivados, gás natural e seus derivados e álcool combustível;
+  II - incidirão também sobre a importação de produtos estrangeiros ou serviços;
 
   III - poderão ter alíquotas:
 
@@ -2816,6 +2846,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
 
+    _c)_ antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b;
+
   IV - utilizar tributo com efeito de confisco;
 
   V - estabelecer limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo poder público;
@@ -2830,7 +2862,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _d)_ livros, jornais, periódicos e o papel destinado a sua impressão.
 
- **§ 1º** A vedação do inciso III, b, não se aplica aos impostos previstos nos arts. 153, I, II, IV e V, e 154, II.
+ **§ 1º** A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.
 
  **§ 2º** A vedação do inciso VI, a, é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
 
@@ -2888,7 +2920,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - não incidirá sobre produtos industrializados destinados ao exterior.
 
- **§ 4º** O imposto previsto no inciso VI terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas e não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore, só ou com sua família, o proprietário que não possua outro imóvel.
+  IV - terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na forma da lei.
+
+ **§ 4º** O imposto previsto no inciso VI do caput:
+
+  I - será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas;
+
+  II - não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel;
+
+  III - será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fiscal.
 
  **§ 5º** O ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente à incidência do imposto de que trata o inciso V do caput deste artigo, devido na operação de origem; a alíquota mínima será de um por cento, assegurada a transferência do montante da arrecadação nos seguintes termos:
 
@@ -2964,11 +3004,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   X - não incidirá:
 
-    _a)_ sobre operações que destinem ao exterior produtos industrializados, excluídos os semi-elaborados definidos em lei complementar;
+    _a)_ sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do montante do imposto cobrado nas operações e prestações anteriores;
 
     _b)_ sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;
 
     _c)_ sobre o ouro, nas hipóteses definidas no art. 153, § 5º;
+
+    _d)_ nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita;
 
   XI - não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos;
 
@@ -3011,6 +3053,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
     _c)_ poderão ser reduzidas e restabelecidas, não se lhes aplicando o disposto no art. 150, III, b.
 
  **§ 5º** As regras necessárias à aplicação do disposto no § 4º, inclusive as relativas à apuração e à destinação do imposto, serão estabelecidas mediante deliberação dos Estados e do Distrito Federal, nos termos do § 2º, XII, g.
+
+ **§ 6º** O imposto previsto no inciso III:
+
+  I - terá alíquotas mínimas fixadas pelo Senado Federal;
+
+  II - poderá ter alíquotas diferenciadas em função do tipo e utilização.
 
 #### Seção V: Dos Impostos dos Municípios
 
@@ -3058,7 +3106,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
 
-  II - cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados;
+  II - cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere o art. 153, § 4º, III;
 
   III - cinqüenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores licenciados em seus territórios;
 
@@ -3082,11 +3130,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
+  III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, vinte e cinco por cento para os Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação a que refere o inciso II, c, do referido parágrafo.
+
  **§ 1º** Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
 
  **§ 2º** A nenhuma unidade federada poderá ser destinada parcela superior a vinte por cento do montante a que se refere o inciso II, devendo o eventual excedente ser distribuído entre os demais participantes, mantido, em relação a esses, o critério de partilha nele estabelecido.
 
  **§ 3º** Os Estados entregarão aos respectivos Municípios vinte e cinco por cento dos recursos que receberem nos termos do inciso II, observados os critérios estabelecidos no art. 158, parágrafo único, I e II.
+
+ **§ 4º** Do montante de recursos de que trata o inciso III que cabe a cada Estado, vinte e cinco por cento serão destinados aos seus Municípios, na forma da lei a que se refere o mencionado inciso.
 
 **Art. 160.** É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta Seção, aos Estados, ao Distrito Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos.
 
@@ -3222,7 +3274,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta;
 
-  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde e para manutenção e desenvolvimento do ensino, como determinado, respectivamente, pelos arts. 198, § 2º, e 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;
+  IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;
 
   V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;
 
@@ -3288,7 +3340,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - defesa do consumidor;
 
-  VI - defesa do meio ambiente;
+  VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação;
 
   VII - redução das desigualdades regionais e sociais;
 
@@ -3574,6 +3626,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - sobre a receita de concursos de prognósticos.
 
+  IV - do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.
+
  **§ 1º** As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos, não integrando o orçamento da União.
 
  **§ 2º** A proposta de orçamento da seguridade social será elaborada de forma integrada pelos órgãos responsáveis pela saúde, previdência social e assistência social, tendo em vista as metas e prioridades estabelecidas na lei de diretrizes orçamentárias, assegurada a cada área a gestão de seus recursos.
@@ -3595,6 +3649,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 10.** A lei definirá os critérios de transferência de recursos para o sistema único de saúde e ações de assistência social da União para os Estados, o Distrito Federal e os Municípios, e dos Estados para os Municípios, observada a respectiva contrapartida de recursos.
 
  **§ 11.** É vedada a concessão de remissão ou anistia das contribuições sociais de que tratam os incisos I, a, e II deste artigo, para débitos em montante superior ao fixado em lei complementar.
+
+ **§ 12.** A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do caput, serão não-cumulativas.
+
+ **§ 13.** Aplica-se o disposto no § 12 inclusive na hipótese de substituição gradual, total ou parcial, da contribuição incidente na forma do inciso I, a, pela incidente sobre a receita ou o faturamento.
 
 #### Seção II: Da Saúde
 
@@ -3698,6 +3756,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 11.** Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.
 
+ **§ 12.** Lei disporá sobre sistema especial de inclusão previdenciária para trabalhadores de baixa renda, garantindo-lhes acesso a benefícios de valor igual a um salário-mínimo, exceto aposentadoria por tempo de contribuição.
+
 **Art. 202.** O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar.
 
  **§ 1º** A lei complementar de que trata este artigo assegurará ao participante de planos de benefícios de entidades de previdência privada o pleno acesso às informações relativas à gestão de seus respectivos planos.
@@ -3731,6 +3791,14 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   I - descentralização político-administrativa, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e a execução dos respectivos programas às esferas estadual e municipal, bem como a entidades beneficentes e de assistência social;
 
   II - participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis.
+
+ **Parágrafo único.** É facultado aos Estados e ao Distrito Federal vincular a programa de apoio à inclusão e promoção social até cinco décimos por cento de sua receita tributária líquida, vedada a aplicação desses recursos no pagamento de:
+
+  I - despesas com pessoal e encargos sociais;
+
+  II - serviço da dívida;
+
+  III - qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados.
 
 ### Capítulo III: Da Educação, da Cultura e do Desporto
 
@@ -3867,6 +3935,14 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 4º** Os danos e ameaças ao patrimônio cultural serão punidos, na forma da lei.
 
  **§ 5º** Ficam tombados todos os documentos e os sítios detentores de reminiscências históricas dos antigos quilombos.
+
+ **§ 6º** É facultado aos Estados e ao Distrito Federal vincular a fundo estadual de fomento à cultura até cinco décimos por cento de sua receita tributária líquida, para o financiamento de programas e projetos culturais, vedada a aplicação desses recursos no pagamento de:
+
+  I - despesas com pessoal e encargos sociais;
+
+  II - serviço da dívida;
+
+  III - qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados.
 
 #### Seção III: Do Desporto
 
@@ -4712,9 +4788,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999.
 
-**Art. 76.** É desvinculado de órgão, fundo ou despesa, no período de 2000 a 2003, vinte por cento da arrecadação de impostos e contribuições sociais da União, já instituídos ou que vierem a ser criados no referido período, seus adicionais e respectivos acréscimos legais.
+**Art. 76.** É desvinculado de órgão, fundo ou despesa, no período de 2003 a 2007, vinte por cento da arrecadação da União de impostos, contribuições sociais e de intervenção no domínio econômico, já instituídos ou que vierem a ser criados no referido período, seus adicionais e respectivos acréscimos legais.
 
- **§ 1º** O disposto no caput deste artigo não reduzirá a base de cálculo das transferências a Estados, Distrito Federal e Municípios na forma dos arts. 153, § 5º; 157,I; 158, I e II; e I, e 159, I, a e b, e II, da Constituição, bem como a base de cálculo das aplicações em programas de financiamento ao setor produtivo das regiões Norte, Nordeste e Centro Oeste a que se refere o art. 159, I, c, da Constituição.
+ **§ 1º** O disposto no caput deste artigo não reduzirá a base de cálculo das transferências a Estados, Distrito Federal e Municípios na forma dos arts. 153, § 5º; 157, I; 158, I e II; e 159, I, a e b; e II, da Constituição, bem como a base de cálculo das destinações a que se refere o art. 159, I, c, da Constituição.
 
  **§ 2º** Excetua-se da desvinculação de que trata o caput deste artigo a arrecadação da contribuição social do salário - educação a que se refere o art. 212, § 5º, da Constituição.
 
@@ -4780,11 +4856,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 82.** Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate à Pobreza, com os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos por entidades que contem com a participação da sociedade civil.
 
- **§ 1º** Para financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, ou do imposto que vier a substituí-lo, sobre os produtos e serviços supérfluos, não se aplicando, sobre este adicional, o disposto no art. 158, inciso IV, da Constituição.
+ **§ 1º** Para o financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, sobre os produtos e serviços supérfluos e nas condições definidas na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição.
 
  **§ 2º** Para o financiamento dos Fundos Municipais, poderá ser criado adicional de até meio ponto percentual na alíquota do Imposto sobre Serviços ou do imposto que vier a substituí-lo, sobre serviços supérfluos.
 
-**Art. 83.** Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, inciso II, e 82, §§ 1º e 2º.
+**Art. 83.** Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, II, e 82, § 2º.
 
 **Art. 84.** A contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira, prevista nos arts. 74, 75 e 80, I, deste Ato das Disposições Constitucionais Transitórias, será cobrada até 31 de dezembro de 2004.
 
@@ -4802,7 +4878,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - trinta e oito centésimos por cento, nos exercícios financeiros de 2002 e 2003;
 
-  II - oito centésimos por cento, no exercício financeiro de 2004, quando será integralmente destinada ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias.
+  II - (Revogado).
 
 **Art. 85.** A contribuição a que se refere o art. 84 deste Ato das Disposições Constitucionais Transitórias não incidirá, a partir do trigésimo dia da data de publicação desta Emenda Constitucional, nos lançamentos:
 
@@ -4859,6 +4935,28 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 **Art. 89.** Os integrantes da carreira policial militar do ex-Território Federal de Rondônia, que comprovadamente se encontravam no exercício regular de suas funções prestando serviços àquele ex-Território na data em que foi transformado em Estado, bem como os Policiais Militares admitidos por força de lei federal, custeados pela União, constituirão quadro em extinção da administração federal, assegurados os direitos e vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias, bem como ressarcimentos ou indenizações de qualquer espécie, anteriores à promulgação desta Emenda.
 
  **Parágrafo único.** Os servidores da carreira policial militar continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, submetidos às disposições legais e regulamentares a que estão sujeitas as corporações da respectiva Polícia Militar, observadas as atribuições de função compatíveis com seu grau hierárquico.
+
+**Art. 90.** O prazo previsto no caput do art. 84 deste Ato das Disposições Constitucionais Transitórias fica prorrogado até 31 de dezembro de 2007.
+
+ **§ 1º** Fica prorrogada, até a data referida no caput deste artigo, a vigência da Lei nº 9.311, de 24 de outubro de 1996, e suas alterações.
+
+ **§ 2º** Até a data referida no caput deste artigo, a alíquota da contribuição de que trata o art. 84 deste Ato das Disposições Constitucionais Transitórias será de trinta e oito centésimos por cento.
+
+**Art. 91.** A União entregará aos Estados e ao Distrito Federal o montante definido em lei complementar, de acordo com critérios, prazos e condições nela determinados, podendo considerar as exportações para o exterior de produtos primários e semi-elaborados, a relação entre as exportações e as importações, os créditos decorrentes de aquisições destinadas ao ativo permanente e a efetiva manutenção e aproveitamento do crédito do imposto a que se refere o art. 155, § 2º, X, a.
+
+ **§ 1º** Do montante de recursos que cabe a cada Estado, setenta e cinco por cento pertencem ao próprio Estado, e vinte e cinco por cento, aos seus Municípios, distribuídos segundo os critérios a que se refere o art. 158, parágrafo único, da Constituição.
+
+ **§ 2º** A entrega de recursos prevista neste artigo perdurará, conforme definido em lei complementar, até que o imposto a que se refere o art. 155, II, tenha o produto de sua arrecadação destinado predominantemente, em proporção não inferior a oitenta por cento, ao Estado onde ocorrer o consumo das mercadorias, bens ou serviços.
+
+ **§ 3º** Enquanto não for editada a lei complementar de que trata o caput, em substituição ao sistema de entrega de recursos nele previsto, permanecerá vigente o sistema de entrega de recursos previsto no art. 31 e Anexo da Lei Complementar nº 87, de 13 de setembro de 1996, com a redação dada pela Lei Complementar nº 115, de 26 de dezembro de 2002.
+
+ **§ 4º** Os Estados e o Distrito Federal deverão apresentar à União, nos termos das instruções baixadas pelo Ministério da Fazenda, as informações relativas ao imposto de que trata o art. 155, II, declaradas pelos contribuintes que realizarem operações ou prestações com destino ao exterior.
+
+**Art. 92.** São acrescidos dez anos ao prazo fixado no art. 40 deste Ato das Disposições Constitucionais Transitórias.
+
+**Art. 93.** A vigência do disposto no art. 159, III, e § 4º, iniciará somente após a edição da lei de que trata o referido inciso III.
+
+**Art. 94.** Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no art. 146, III, d, da Constituição.
 
 Brasília, 5 de outubro de 1988.
 
