@@ -3130,7 +3130,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
-  III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, vinte e cinco por cento para os Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação a que refere o inciso II, c, do referido parágrafo.
+  III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação a que se refere o inciso II, c, do referido parágrafo.
 
  **§ 1º** Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
 
