@@ -542,7 +542,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.
 
- **§ 4º** A criação, a incorporação, a fusão e o desmembramento de Municípios preservarão a continuidade e a unidade histórico-cultural do ambiente urbano, far-se-ão por lei estadual, obedecidos os requisitos previstos em lei complementar estadual, e dependerão de consulta prévia, mediante plebiscito, às populações diretamente interessadas.
+ **§ 4º** A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
 
 **Art. 19.** É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 
@@ -938,7 +938,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ autonomia municipal;
 
-    _d)_ prestação de contas da administração pública, direta e indireta.
+    _d)_ prestação de contas da administração pública, direta e indireta;
+
+    _e)_ aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
 
 **Art. 35.** O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando:
 
@@ -3448,9 +3450,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 208.** O dever do Estado com a educação será efetivado mediante a garantia de:
 
-  I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;
+  I - ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita para todos os que a ele não tiverem acesso na idade própria;
 
-  II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;
+  II - progressiva universalização do ensino médio gratuito;
 
   III - atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino;
 
@@ -3482,9 +3484,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 211.** A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino.
 
- **§ 1º** A União organizará e financiará o sistema federal de ensino e o dos Territórios, e prestará assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória.
+ **§ 1º** A União organizará o sistema federal de ensino e o dos Territórios, financiará as instituições de ensino públicas federais e exercerá, em matéria educacional, função redistributiva e supletiva, de forma a garantir equalização de oportunidades educacionais e padrão mínimo de qualidade do ensino mediante assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios.
 
- **§ 2º** Os Municípios atuarão prioritariamente no ensino fundamental e pré-escolar.
+ **§ 2º** Os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil.
+
+ **§ 3º** Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.
+
+ **§ 4º** Na organização de seus sistemas de ensino, os Estados e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.
 
 **Art. 212.** A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
 
@@ -3496,7 +3502,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** Os programas suplementares de alimentação e assistência à saúde previstos no art. 208, VII, serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários.
 
- **§ 5º** O ensino fundamental público terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida, na forma da lei, pelas empresas, que dela poderão deduzir a aplicação realizada no ensino fundamental de seus empregados e dependentes.
+ **§ 5º** O ensino fundamental público terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas, na forma da lei.
 
 **Art. 213.** Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:
 
@@ -4294,9 +4300,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** Aprovados pelo Congresso Nacional, os planos serão implantados progressivamente nos dezoito meses seguintes.
 
-**Art. 60.** Nos dez primeiros anos da promulgação da Constituição, o poder público desenvolverá esforços, com a mobilização de todos os setores organizados da sociedade e com a aplicação de, pelo menos, cinqüenta por cento dos recursos a que se refere o art. 212 da Constituição, para eliminar o analfabetismo e universalizar o ensino fundamental.
+**Art. 60.** Nos dez primeiros anos da promulgação desta Emenda, os Estados, o Distrito Federal e os Municípios destinarão não menos de sessenta por cento dos recursos a que se refere o caput do art. 212 da Constituição Federal, à manutenção e ao desenvolvimento do ensino fundamental, com o objetivo de assegurar a universalização de seu atendimento e a remuneração condigna do magistério.
 
- **Parágrafo único.** Em igual prazo, as universidades públicas descentralizarão suas atividades, de modo a estender suas unidades de ensino superior às cidades de maior densidade populacional.
+ **§ 1º** A distribuição de responsabilidades e recursos entre os Estados e seus Municípios a ser concretizada com parte dos recursos definidos neste artigo, na forma do disposto no art. 211 da Constituição Federal, é assegurada mediante a criação, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, de natureza contábil.
+
+ **§ 2º** O Fundo referido no parágrafo anterior será constituído por, pelo menos, quinze por cento dos recursos a que se referem os arts. 155, inciso II; 158, inciso IV; e 159, inciso I, alíneas a e b; e inciso II, da Constituição Federal, e será distribuído entre cada Estado e seus Municípios, proporcionalmente ao número de alunos nas respectivas redes de ensino fundamental.
+
+ **§ 3º** A União complementará os recursos dos Fundos a que se refere o § 1º, sempre que, em cada Estado e no Distrito Federal, seu valor por aluno não alcançar o mínimo definido nacionalmente.
+
+ **§ 4º** A União, os Estados, o Distrito Federal e os Municípios ajustarão progressivamente, em um prazo de cinco anos, suas contribuições ao Fundo, de forma a garantir um valor por aluno correspondente a um padrão mínimo de qualidade de ensino, definido nacionalmente.
+
+ **§ 5º** Uma proporção não inferior a sessenta por cento dos recursos de cada Fundo referido no § 1º será destinada ao pagamento dos professores do ensino fundamental em efetivo exercício no magistério.
+
+ **§ 6º** A União aplicará na erradicação do analfabetismo e na manutenção e no desenvolvimento do ensino fundamental, inclusive na complementação a que se refere o § 3º, nunca menos que o equivalente a trinta por cento dos recursos a que se refere o caput do art. 212 da Constituição Federal.
+
+ **§ 7º** A lei disporá sobre a organização dos Fundos, a distribuição proporcional de seus recursos, sua fiscalização e controle, bem como sobre a forma de cálculo do valor mínimo nacional por aluno.
 
 **Art. 61.** As entidades educacionais a que se refere o art. 213, bem como as fundações de ensino e pesquisa cuja criação tenha sido autorizada por lei, que preencham os requisitos dos incisos I e II do referido artigo e que, nos últimos três anos, tenham recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em contrário.
 
