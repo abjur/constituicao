@@ -3442,6 +3442,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 207.** As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.
 
+ **§ 1º** É facultado às universidades admitir professores, técnicos e cientistas estrangeiros, na forma da lei.
+
+ **§ 2º** O disposto neste artigo aplica-se às instituições de pesquisa científica e tecnológica.
+
 **Art. 208.** O dever do Estado com a educação será efetivado mediante a garantia de:
 
   I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;
