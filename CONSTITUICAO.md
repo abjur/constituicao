@@ -1050,7 +1050,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ a de um cargo de professor com outro, técnico ou científico;
 
-    _c)_ a de dois cargos privativos de médico;
+    _c)_ a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas;
 
   XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;
 
