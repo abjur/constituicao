@@ -478,7 +478,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** São inelegíveis os inalistáveis e os analfabetos.
 
- **§ 5º** São inelegíveis para os mesmos cargos, no período subseqüente, o Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido ou substituído nos seis meses anteriores ao pleito.
+ **§ 5º** O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente.
 
  **§ 6º** Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito.
 
@@ -814,7 +814,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** A lei disporá sobre a iniciativa popular no processo legislativo estadual.
 
-**Art. 28.** A eleição do Governador e do Vice-Governador de Estado, para mandato de quatro anos, realizar-se-á noventa dias antes do término do mandato de seus antecessores, e a posse ocorrerá no dia 1º de janeiro do ano subseqüente, observado, quanto ao mais, o disposto no art. 77.
+**Art. 28.** A eleição do Governador e do Vice-Governador de Estado, para mandato de quatro anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em primeiro de janeiro do ano subseqüente, observado, quanto ao mais, o disposto no art. 77.
 
  **Parágrafo único.** Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. 38, I, IV e V.
 
@@ -824,7 +824,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de quatro anos, mediante pleito direto e simultâneo realizado em todo o País;
 
-  II - eleição do Prefeito e do Vice-Prefeito até noventa dias antes do término do mandato dos que devam suceder, aplicadas as regras do art. 77 no caso de Municípios com mais de duzentos mil eleitores;
+  II - eleição do Prefeito e do Vice-Prefeito realizada no primeiro domingo de outubro do ano anterior ao término do mandato dos que devam suceder, aplicadas as regras do art. 77 no caso de Municípios com mais de duzentos mil eleitores;
 
   III - posse do Prefeito e do Vice-Prefeito no dia 1º de janeiro do ano subseqüente ao da eleição;
 
@@ -1644,7 +1644,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 76.** O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado.
 
-**Art. 77.** A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, noventa dias antes do término do mandato presidencial vigente.
+**Art. 77.** A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente.
 
  **§ 1º** A eleição do Presidente da República importará a do Vice-Presidente com ele registrado.
 
@@ -1672,7 +1672,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
 
-**Art. 82.** O mandato do Presidente da República é de quatro anos, vedada a reeleição para o período subseqüente, e terá início em 1º de janeiro do ano seguinte ao da sua eleição.
+**Art. 82.** O mandato do Presidente da República é de quatro anos e terá início em primeiro de janeiro do ano seguinte ao da sua eleição.
 
 **Art. 83.** O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo.
 
