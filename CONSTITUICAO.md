@@ -2006,6 +2006,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação.
 
+ **Parágrafo único.** Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal.
+
 **Art. 99.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira.
 
  **§ 1º** Os tribunais elaborarão suas propostas orçamentárias dentro dos limites estipulados conjuntamente com os demais Poderes na lei de diretrizes orçamentárias.
@@ -2050,7 +2052,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _h)_ a homologação das sentenças estrangeiras e a concessão do exequatur às cartas rogatórias, que podem ser conferidas pelo regimento interno a seu Presidente;
 
-    _i)_ o habeas corpus, quando o coator ou o paciente for tribunal, autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;
+    _i)_ o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;
 
     _j)_ a revisão criminal e a ação rescisória de seus julgados;
 
@@ -2130,7 +2132,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ os mandados de segurança e os habeas data contra ato de Ministro de Estado ou do próprio Tribunal;
 
-    _c)_ os habeas corpus, quando o coator ou o paciente for quaisquer das pessoas mencionadas na alínea a, ou quando o coator for Ministro de Estado, ressalvada a competência da Justiça Eleitoral;
+    _c)_ os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, quando coator for tribunal, sujeito à sua jurisdição, ou Ministro de Estado, ressalvada a competência da Justiça Eleitoral;
 
     _d)_ os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, o, bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;
 
@@ -4525,6 +4527,14 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 3º** O produto da arrecadação da contribuição de que trata este artigo será destinado integralmente ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde.
 
  **§ 4º** A contribuição de que trata este artigo terá sua exigibilidade subordinada ao disposto no art. 195, § 6º, da Constituição, e não poderá ser cobrada por prazo superior a dois anos.
+
+**Art. 75.** É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira de que trata o art. 74, instituída pela Lei nº 9.311, de 24 de outubro de 1996, modificada pela Lei nº 9.539, de 12 de dezembro de 1997, cuja vigência é também prorrogada por idêntico prazo.
+
+ **§ 1º** Observado o disposto no § 6º do art. 195 da Constituição Federal, a alíquota da contribuição será de trinta e oito centésimos por cento, nos primeiros doze meses, e de trinta centésimos, nos meses subseqüentes, facultado ao Poder Executivo reduzi-la total ou parcialmente, nos limites aqui definidos.
+
+ **§ 2º** O resultado do aumento da arrecadação, decorrente da alteração da alíquota, nos exercícios financeiros de 1999, 2000 e 2001, será destinado ao custeio da previdência social.
+
+ **§ 3º** É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999.
 
 Brasília, 5 de outubro de 1988.
 
