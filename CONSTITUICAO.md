@@ -3112,9 +3112,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados.
 
- **§ 1º** O monopólio previsto neste artigo inclui os riscos e resultados decorrentes das atividades nele mencionadas, sendo vedado à União ceder ou conceder qualquer tipo de participação, em espécie ou em valor, na exploração de jazidas de petróleo ou gás natural, ressalvado o disposto no art. 20, § 1º.
+ **§ 1º** A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo, observadas as condições estabelecidas em lei.
 
- **§ 2º** A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional.
+ **§ 2º** A lei a que se refere o § 1º disporá sobre:
+
+  I - a garantia do fornecimento dos derivados de petróleo em todo o território nacional;
+
+  II - as condições de contratação;
+
+  III - a estrutura e atribuições do órgão regulador do monopólio da União.
+
+ **§ 3º** A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional.
 
 **Art. 178.** A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade.
 
