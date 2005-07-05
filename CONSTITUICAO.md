@@ -1102,6 +1102,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 10.** É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.
 
+ **§ 11.** Não serão computadas, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as parcelas de caráter indenizatório previstas em lei.
+
+ **§ 12.** Para os fins do disposto no inciso XI do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores.
+
 **Art. 38.** Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições:
 
   I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função;
@@ -1158,7 +1162,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Para o cálculo dos proventos de aposentadoria, por ocasião da sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.
 
- **§ 4º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados os casos de atividades exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar.
+ **§ 4º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, nos termos definidos em leis complementares, os casos de servidores:
+
+  I - portadores de deficiência;
+
+  II - que exerçam atividades de risco;
+
+  III - cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
 
  **§ 5º** Os requisitos de idade e de tempo de contribuição serão reduzidos em cinco anos, em relação ao disposto no § 1º, III, a, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
 
@@ -1195,6 +1205,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 19.** O servidor de que trata este artigo que tenha completado as exigências para aposentadoria voluntária estabelecidas no § 1º, III, a, e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no § 1º, II.
 
  **§ 20.** Fica vedada a existência de mais de um regime próprio de previdência social para os servidores titulares de cargos efetivos, e de mais de uma unidade gestora do respectivo regime em cada ente estatal, ressalvado o disposto no art. 142, § 3º, X.
+
+ **§ 21.** A contribuição prevista no § 18 deste artigo incidirá apenas sobre as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201 desta Constituição, quando o beneficiário, na forma da lei, for portador de doença incapacitante.
 
 **Art. 41.** São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
 
@@ -3856,7 +3868,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 8º** O produtor, o parceiro, o meeiro e o arrendatário rurais e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei.
 
- **§ 9º** As contribuições sociais previstas no inciso I deste artigo poderão ter alíquotas ou bases de cálculo diferenciadas, em razão da atividade econômica ou da utilização intensiva de mão-de-obra.
+ **§ 9º** As contribuições sociais previstas no inciso I do caput deste artigo poderão ter alíquotas ou bases de cálculo diferenciadas, em razão da atividade econômica, da utilização intensiva de mão-de-obra, do porte da empresa ou da condição estrutural do mercado de trabalho.
 
  **§ 10.** A lei definirá os critérios de transferência de recursos para o sistema único de saúde e ações de assistência social da União para os Estados, o Distrito Federal e os Municípios, e dos Estados para os Municípios, observada a respectiva contrapartida de recursos.
 
@@ -3942,7 +3954,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º.
 
- **§ 1º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física, definidos em lei complementar.
+ **§ 1º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física e quando se tratar de segurados portadores de deficiência, nos termos definidos em lei complementar.
 
  **§ 2º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.
 
@@ -3968,7 +3980,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 11.** Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.
 
- **§ 12.** Lei disporá sobre sistema especial de inclusão previdenciária para trabalhadores de baixa renda, garantindo-lhes acesso a benefícios de valor igual a um salário-mínimo, exceto aposentadoria por tempo de contribuição.
+ **§ 12.** Lei disporá sobre sistema especial de inclusão previdenciária para atender a trabalhadores de baixa renda e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda, garantindo-lhes acesso a benefícios de valor igual a um salário-mínimo.
+
+ **§ 13.** O sistema especial de inclusão previdenciária de que trata o § 12 deste artigo terá alíquotas e carências inferiores às vigentes para os demais segurados do regime geral de previdência social.
 
 **Art. 202.** O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar.
 
