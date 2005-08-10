@@ -4140,6 +4140,18 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** A lei disporá sobre a fixação de datas comemorativas de alta significação para os diferentes segmentos étnicos nacionais.
 
+ **§ 3º** A lei estabelecerá o Plano Nacional de Cultura, de duração plurianual, visando ao desenvolvimento cultural do País e à integração das ações do poder público que conduzem à:
+
+  I - defesa e valorização do patrimônio cultural brasileiro;
+
+  II - produção, promoção e difusão de bens culturais;
+
+  III - formação de pessoal qualificado para a gestão da cultura em suas múltiplas dimensões;
+
+  IV - democratização do acesso aos bens de cultura;
+
+  V - valorização da diversidade étnica e regional.
+
 **Art. 216.** Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem:
 
   I - as formas de expressão;
