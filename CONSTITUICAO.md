@@ -652,9 +652,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _a)_ toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional;
 
-    _b)_ sob regime de concessão ou permissão, é autorizada a utilização de radioisótopos para a pesquisa e usos medicinais, agrícolas, industriais e atividades análogas;
+    _b)_ sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para a pesquisa e usos médicos, agrícolas e industriais;
 
-    _c)_ a responsabilidade civil por danos nucleares independe da existência de culpa;
+    _c)_ sob regime de permissão, são autorizadas a produção, comercialização e utilização de radioisótopos de meia-vida igual ou inferior a duas horas;
+
+    _d)_ a responsabilidade civil por danos nucleares independe da existência de culpa;
 
   XXIV - organizar, manter e executar a inspeção do trabalho;
 
@@ -3642,7 +3644,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo produzidos no País, bem assim o transporte, por meio de conduto, de petróleo bruto, seus derivados e gás natural de qualquer origem;
 
-  V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados.
+  V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção, comercialização e utilização poderão ser autorizadas sob regime de permissão, conforme as alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal.
 
  **§ 1º** A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo, observadas as condições estabelecidas em lei.
 
