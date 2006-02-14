@@ -1494,7 +1494,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção VI: Das Reuniões
 
-**Art. 57.** O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
+**Art. 57.** O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro.
 
  **§ 1º** As reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subseqüente, quando recaírem em sábados, domingos ou feriados.
 
@@ -1510,7 +1510,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - conhecer do veto e sobre ele deliberar.
 
- **§ 4º** Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição das respectivas Mesas, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subseqüente.
+ **§ 4º** Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição das respectivas Mesas, para mandato de 2 (dois) anos, vedada a recondução para o mesmo cargo na eleição imediatamente subseqüente.
 
  **§ 5º** A Mesa do Congresso Nacional será presidida pelo Presidente do Senado Federal, e os demais cargos serão exercidos, alternadamente, pelos ocupantes de cargos equivalentes na Câmara dos Deputados e no Senado Federal.
 
@@ -1518,9 +1518,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - pelo Presidente do Senado Federal, em caso de decretação de estado de defesa ou de intervenção federal, de pedido de autorização para a decretação de estado de sítio e para o compromisso e a posse do Presidente e do Vice-Presidente da República;
 
-  II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal, ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante.
+  II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante, em todas as hipóteses deste inciso com a aprovação da maioria absoluta de cada uma das Casas do Congresso Nacional.
 
- **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese do § 8º, vedado o pagamento de parcela indenizatória em valor superior ao subsídio mensal.
+ **§ 7º** Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese do § 8º deste artigo, vedado o pagamento de parcela indenizatória, em razão da convocação.
 
  **§ 8º** Havendo medidas provisórias em vigor na data de convocação extraordinária do Congresso Nacional, serão elas automaticamente incluídas na pauta da convocação.
 
@@ -3913,6 +3913,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   III - as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal;
 
   IV - as normas de cálculo do montante a ser aplicado pela União.
+
+ **§ 4º** Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.
+
+ **§ 5º** Lei federal disporá sobre o regime jurídico e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias.
+
+ **§ 6º** Além das hipóteses previstas no § 1º do art. 41 e no § 4º do art. 169 da Constituição Federal, o servidor que exerça funções equivalentes às de agente comunitário de saúde ou de agente de combate às endemias poderá perder o cargo em caso de descumprimento dos requisitos específicos, fixados em lei, para o seu exercício.
 
 **Art. 199.** A assistência à saúde é livre à iniciativa privada.
 
