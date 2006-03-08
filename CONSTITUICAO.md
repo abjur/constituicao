@@ -530,7 +530,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - funcionamento parlamentar de acordo com a lei.
 
- **§ 1º** É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento, devendo seus estatutos estabelecer normas de fidelidade e disciplina partidárias.
+ **§ 1º** É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações eleitorais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária.
 
  **§ 2º** Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.
 
