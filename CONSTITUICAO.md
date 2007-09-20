@@ -394,7 +394,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _b)_ os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;
 
-    _c)_ os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que venham a residir na República Federativa do Brasil e optem, em qualquer tempo, pela nacionalidade brasileira;
+    _c)_ os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira;
 
   II - naturalizados:
 
@@ -3346,13 +3346,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 159.** A União entregará:
 
-  I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, quarenta e sete por cento na seguinte forma:
+  I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados quarenta e oito por cento na seguinte forma:
 
     _a)_ vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
 
     _b)_ vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
 
     _c)_ três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à região, na forma que a lei estabelecer;
+
+    _d)_ um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano;
 
   II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
@@ -5269,6 +5271,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 **Art. 93.** A vigência do disposto no art. 159, III, e § 4º, iniciará somente após a edição da lei de que trata o referido inciso III.
 
 **Art. 94.** Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no art. 146, III, d, da Constituição.
+
+**Art. 95.** Os nascidos no estrangeiro entre 7 de junho de 1994 e a data da promulgação desta Emenda Constitucional, filhos de pai brasileiro ou mãe brasileira, poderão ser registrados em repartição diplomática ou consular brasileira competente ou em ofício de registro, se vierem a residir na República Federativa do Brasil.
 
 Brasília, 5 de outubro de 1988.
 
