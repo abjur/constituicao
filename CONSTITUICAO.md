@@ -840,13 +840,55 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   III - posse do Prefeito e do Vice-Prefeito no dia 1º de janeiro do ano subseqüente ao da eleição;
 
-  IV - número de Vereadores proporcional à população do Município, observados os seguintes limites:
+  IV - para a composição das Câmaras Municipais, será observado o limite máximo de:
 
-    _a)_ mínimo de nove e máximo de vinte e um nos Municípios de até um milhão de habitantes;
+    _a)_ 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes;
 
-    _b)_ mínimo de trinta e três e máximo de quarenta e um nos Municípios de mais de um milhão e menos de cinco milhões de habitantes;
+    _b)_ 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes e de até 30.000 (trinta mil) habitantes;
 
-    _c)_ mínimo de quarenta e dois e máximo de cinqüenta e cinco nos Municípios de mais de cinco milhões de habitantes;
+    _c)_ 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil) habitantes e de até 50.000 (cinquenta mil) habitantes;
+
+    _d)_ 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil) habitantes e de até 80.000 (oitenta mil) habitantes;
+
+    _e)_ 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil) habitantes e de até 120.000 (cento e vinte mil) habitantes;
+
+    _f)_ 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte mil) habitantes e de até 160.000 (cento sessenta mil) habitantes;
+
+    _g)_ 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes;
+
+    _h)_ 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil) habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes;
+
+    _i)_ 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes;
+
+    _j)_ 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil) habitantes e de até 750.000 (setecentos cinquenta mil) habitantes;
+
+    _k)_ 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes;
+
+    _l)_ 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes;
+
+    _m)_ 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil) habitantes;
+
+    _n)_ 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes;
+
+    _o)_ 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos mil) habitantes;
+
+    _p)_ 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil) habitantes;
+
+    _q)_ 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e quatrocentos mil) habitantes;
+
+    _r)_ 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de habitantes;
+
+    _s)_ 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes;
+
+    _t)_ 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes;
+
+    _u)_ 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes;
+
+    _v)_ 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes;
+
+    _w)_ 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes; e
+
+    _x)_ 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes;
 
   V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
 
@@ -882,13 +924,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 29-A.** O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:
 
-  I - oito por cento para Municípios com população de até cem mil habitantes;
+  I - 7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes;
 
-  II - sete por cento para Municípios com população entre cem mil e um e trezentos mil habitantes;
+  II - 6% (seis por cento) para Municípios com população entre 100.000 (cem mil) e 300.000 (trezentos mil) habitantes;
 
-  III - seis por cento para Municípios com população entre trezentos mil e um e quinhentos mil habitantes;
+  III - 5% (cinco por cento) para Municípios com população entre 300.001 (trezentos mil e um) e 500.000 (quinhentos mil) habitantes;
 
-  IV - cinco por cento para Municípios com população acima de quinhentos mil habitantes.
+  IV - 4,5% (quatro inteiros e cinco décimos por cento) para Municípios com população entre 500.001 (quinhentos mil e um) e 3.000.000 (três milhões) de habitantes;
+
+  V - 4% (quatro por cento) para Municípios com população entre 3.000.001 (três milhões e um) e 8.000.000 (oito milhões) de habitantes;
+
+  VI - 3,5% (três inteiros e cinco décimos por cento) para Municípios com população acima de 8.000.001 (oito milhões e um) habitantes.
 
  **§ 1º** A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.
 
