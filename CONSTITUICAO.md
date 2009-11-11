@@ -2330,9 +2330,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
 
-**Art. 103-B.** O Conselho Nacional de Justiça compõe-se de quinze membros com mais de trinta e cinco e menos de sessenta e seis anos de idade, com mandato de dois anos, admitida uma recondução, sendo:
+**Art. 103-B.** O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo:
 
-  I - um Ministro do Supremo Tribunal Federal, indicado pelo respectivo tribunal;
+  I - o Presidente do Supremo Tribunal Federal;
 
   II - um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal;
 
@@ -2358,9 +2358,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIII - dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
 
- **§ 1º** O Conselho será presidido pelo Ministro do Supremo Tribunal Federal, que votará em caso de empate, ficando excluído da distribuição de processos naquele tribunal.
+ **§ 1º** O Conselho será presidido pelo Presidente do Supremo Tribunal Federal e, nas suas ausências e impedimentos, pelo Vice-Presidente do Supremo Tribunal Federal.
 
- **§ 2º** Os membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
+ **§ 2º** Os demais membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
 
  **§ 3º** Não efetuadas, no prazo legal, as indicações previstas neste artigo, caberá a escolha ao Supremo Tribunal Federal.
 
@@ -4116,7 +4116,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 208.** O dever do Estado com a educação será efetivado mediante a garantia de:
 
-  I - ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita para todos os que a ele não tiverem acesso na idade própria;
+  I - educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria;
 
   II - progressiva universalização do ensino médio gratuito;
 
@@ -4128,7 +4128,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VI - oferta de ensino noturno regular, adequado às condições do educando;
 
-  VII - atendimento ao educando, no ensino fundamental, através de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.
+  VII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.
 
  **§ 1º** O acesso ao ensino obrigatório e gratuito é direito público subjetivo.
 
@@ -4156,7 +4156,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.
 
- **§ 4º** Na organização de seus sistemas de ensino, os Estados e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.
+ **§ 4º** Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.
 
  **§ 5º** A educação básica pública atenderá prioritariamente ao ensino regular.
 
@@ -4166,7 +4166,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Para efeito do cumprimento do disposto no caput deste artigo, serão considerados os sistemas de ensino federal, estadual e municipal e os recursos aplicados na forma do art. 213.
 
- **§ 3º** A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, nos termos do plano nacional de educação.
+ **§ 3º** A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrão de qualidade e equidade, nos termos do plano nacional de educação.
 
  **§ 4º** Os programas suplementares de alimentação e assistência à saúde previstos no art. 208, VII, serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários.
 
@@ -4184,7 +4184,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** As atividades universitárias de pesquisa e extensão poderão receber apoio financeiro do poder público.
 
-**Art. 214.** A lei estabelecerá o plano nacional de educação, de duração plurianual, visando à articulação e ao desenvolvimento do ensino em seus diversos níveis e à integração das ações do poder público que conduzam à:
+**Art. 214.** A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a:
 
   I - erradicação do analfabetismo;
 
@@ -4194,7 +4194,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - formação para o trabalho;
 
-  V - promoção humanística, científica e tecnológica do País.
+  V - promoção humanística, científica e tecnológica do País;
+
+  VI - estabelecimento de meta de aplicação de recursos públicos em educação como proporção do produto interno bruto.
 
 #### Seção II: Da Cultura
 
@@ -5154,6 +5156,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Excetua-se da desvinculação de que trata o caput deste artigo a arrecadação da contribuição social do salário - educação a que se refere o art. 212, § 5º, da Constituição.
 
+ **§ 3º** Para efeito do cálculo dos recursos para manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição, o percentual referido no caput deste artigo será de 12,5 % (doze inteiros e cinco décimos por cento) no exercício de 2009, 5% (cinco por cento) no exercício de 2010, e nulo no exercício de 2011.
+
 **Art. 77.** Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes:
 
   I - no caso da União:
@@ -5292,9 +5296,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.
 
-**Art. 89.** Os integrantes da carreira policial militar do ex-Território Federal de Rondônia, que comprovadamente se encontravam no exercício regular de suas funções prestando serviços àquele ex-Território na data em que foi transformado em Estado, bem como os Policiais Militares admitidos por força de lei federal, custeados pela União, constituirão quadro em extinção da administração federal, assegurados os direitos e vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias, bem como ressarcimentos ou indenizações de qualquer espécie, anteriores à promulgação desta Emenda.
+**Art. 89.** Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontravam no exercício regular de suas funções prestando serviço àquele ex-Território na data em que foi transformado em Estado, bem como os servidores e os policiais militares alcançados pelo disposto no art. 36 da Lei Complementar nº 41, de 22 de dezembro de 1981, e aqueles admitidos regularmente nos quadros do Estado de Rondônia até a data de posse do primeiro Governador eleito, em 15 de março de 1987, constituirão, mediante opção, quadro em extinção da administração federal, assegurados os direitos e as vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias.
 
- **Parágrafo único.** Os servidores da carreira policial militar continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, submetidos às disposições legais e regulamentares a que estão sujeitas as corporações da respectiva Polícia Militar, observadas as atribuições de função compatíveis com seu grau hierárquico.
+ **§ 1º** Os membros da Polícia Militar continuarão prestando serviços ao Estado de Rondônia, na condição de cedidos, submetidos às corporações da Polícia Militar, observadas as atribuições de função compatíveis com o grau hierárquico.
+
+ **§ 2º** Os servidores a que se refere o caput continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, até seu aproveitamento em órgão ou entidade da administração federal direta, autárquica ou fundacional.
 
 **Art. 90.** O prazo previsto no caput do art. 84 deste Ato das Disposições Constitucionais Transitórias fica prorrogado até 31 de dezembro de 2007.
 
