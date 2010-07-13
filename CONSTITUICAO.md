@@ -4386,7 +4386,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.
 
-### Capítulo VII: Da Família, da Criança, do Adolescente e do Idoso
+### Capítulo VII: Da Família, da Criança, do Adolescente, do Jovem e do Idoso
 
 **Art. 226.** A família, base da sociedade, tem especial proteção do Estado.
 
@@ -4400,19 +4400,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 5º** Os direitos e deveres referentes à sociedade conjugal são exercidos igualmente pelo homem e pela mulher.
 
- **§ 6º** O casamento civil pode ser dissolvido pelo divórcio, após prévia separação judicial por mais de um ano nos casos expressos em lei, ou comprovada separação de fato por mais de dois anos.
+ **§ 6º** O casamento civil pode ser dissolvido pelo divórcio.
 
  **§ 7º** Fundado nos princípios da dignidade da pessoa humana e da paternidade responsável, o planejamento familiar é livre decisão do casal, competindo ao Estado propiciar recursos educacionais e científicos para o exercício desse direito, vedada qualquer forma coercitiva por parte de instituições oficiais ou privadas.
 
  **§ 8º** O Estado assegurará a assistência à família na pessoa de cada um dos que a integram, criando mecanismos para coibir a violência no âmbito de suas relações.
 
-**Art. 227.** É dever da família, da sociedade e do Estado assegurar à criança e ao adolescente, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.
+**Art. 227** É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.
 
- **§ 1º** O Estado promoverá programas de assistência integral à saúde da criança e do adolescente, admitida a participação de entidades não governamentais e obedecendo aos seguintes preceitos:
+ **§ 1º** O Estado promoverá programas de assistência integral à saúde da criança, do adolescente e do jovem, admitida a participação de entidades não governamentais, mediante políticas específicas e obedecendo aos seguintes preceitos:
 
   I - aplicação de percentual dos recursos públicos destinados à saúde na assistência materno-infantil;
 
-  II - criação de programas de prevenção e atendimento especializado para os portadores de deficiência física, sensorial ou mental, bem como de integração social do adolescente portador de deficiência, mediante o treinamento para o trabalho e a convivência, e a facilitação do acesso aos bens e serviços coletivos, com a eliminação de preconceitos e obstáculos arquitetônicos.
+  II - criação de programas de prevenção e atendimento especializado para as pessoas portadoras de deficiência física, sensorial ou mental, bem como de integração social do adolescente e do jovem portador de deficiência, mediante o treinamento para o trabalho e a convivência, e a facilitação do acesso aos bens e serviços coletivos, com a eliminação de obstáculos arquitetônicos e de todas as formas de discriminação.
 
  **§ 2º** A lei disporá sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas portadoras de deficiência.
 
@@ -4422,7 +4422,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - garantia de direitos previdenciários e trabalhistas;
 
-  III - garantia de acesso do trabalhador adolescente à escola;
+  III - garantia de acesso do trabalhador adolescente e jovem à escola;
 
   IV - garantia de pleno e formal conhecimento da atribuição de ato infracional, igualdade na relação processual e defesa técnica por profissional habilitado, segundo dispuser a legislação tutelar específica;
 
@@ -4430,7 +4430,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VI - estímulo do poder público, através de assistência jurídica, incentivos fiscais e subsídios, nos termos da lei, ao acolhimento, sob a forma de guarda, de criança ou adolescente órfão ou abandonado;
 
-  VII - programas de prevenção e atendimento especializado à criança e ao adolescente dependente de entorpecentes e drogas afins.
+  VII - programas de prevenção e atendimento especializado à criança, ao adolescente e ao jovem dependente de entorpecentes e drogas afins.
 
  **§ 4º** A lei punirá severamente o abuso, a violência e a exploração sexual da criança e do adolescente.
 
@@ -4439,6 +4439,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 6º** Os filhos, havidos ou não da relação do casamento, ou por adoção, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação.
 
  **§ 7º** No atendimento dos direitos da criança e do adolescente levar-se-á em consideração o disposto no art. 204.
+
+ **§ 8º** A lei estabelecerá:
+
+  I - o estatuto da juventude, destinado a regular os direitos dos jovens;
+
+  II - o plano nacional de juventude, de duração decenal, visando à articulação das várias esferas do poder público para a execução de políticas públicas.
 
 **Art. 228.** São penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial.
 
