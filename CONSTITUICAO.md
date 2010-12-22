@@ -5212,7 +5212,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o seqüestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação.
 
-**Art. 79.** É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida.
+**Art. 79.** É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida. (Vide Emenda Constitucional nº 67 de 22 de dezembro de 2010)
 
  **Parágrafo único.** O Fundo previsto neste artigo terá Conselho Consultivo e de Acompanhamento que conte com a participação de representantes da sociedade civil, nos termos da lei.
 
