@@ -628,7 +628,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _f)_ os portos marítimos, fluviais e lacustres;
 
-  XIII - organizar e manter o Poder Judiciário, o Ministério Público e a Defensoria Pública do Distrito Federal e dos Territórios;
+  XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios;
 
   XIV - organizar e manter a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio;
 
@@ -696,7 +696,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XVI - organização do sistema nacional de emprego e condições para o exercício de profissões;
 
-  XVII - organização judiciária, do Ministério Público e da Defensoria Pública do Distrito Federal e dos Territórios, bem como organização administrativa destes;
+  XVII - organização judiciária, do Ministério Público do Distrito Federal e dos Territórios e da Defensoria Pública dos Territórios, bem como organização administrativa destes;
 
   XVIII - sistema estatístico, sistema cartográfico e de geologia nacionais;
 
@@ -1348,7 +1348,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - concessão de anistia;
 
-  IX - organização administrativa, judiciária, do Ministério Público e da Defensoria Pública da União e dos Territórios e organização judiciária, do Ministério Público e da Defensoria Pública do Distrito Federal;
+  IX - organização administrativa, judiciária, do Ministério Público e da Defensoria Pública da União e dos Territórios e organização judiciária e do Ministério Público do Distrito Federal;
 
   X - criação, transformação e extinção de cargos, empregos e funções públicas, observado o que estabelece o art. 84, VI, b;
 
