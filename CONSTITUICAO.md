@@ -352,7 +352,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.
 
- **Parágrafo único.** São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VIII, XV, XVII, XVIII, XIX, XXI e XXIV, bem como a sua integração à previdência social.
+ **Parágrafo único.** São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social.
 
 **Art. 8º** É livre a associação profissional ou sindical, observado o seguinte:
 
