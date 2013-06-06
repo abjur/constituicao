@@ -4830,6 +4830,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 10.** Compete à Justiça Federal julgar as ações nela propostas até a data da promulgação da Constituição, e aos Tribunais Regionais Federais, bem como ao Superior Tribunal de Justiça, julgar as ações rescisórias das decisões até então proferidas pela Justiça Federal, inclusive daquelas cuja matéria tenha passado à competência de outro ramo do Judiciário.
 
+ **§ 11.** São criados, ainda, os seguintes Tribunais Regionais Federais: o da 6ª Região, com sede em Curitiba, Estado do Paraná, e jurisdição nos Estados do Paraná, Santa Catarina e Mato Grosso do Sul; o da 7ª Região, com sede em Belo Horizonte, Estado de Minas Gerais, e jurisdição no Estado de Minas Gerais; o da 8ª Região, com sede em Salvador, Estado da Bahia, e jurisdição nos Estados da Bahia e Sergipe; e o da 9ª Região, com sede em Manaus, Estado do Amazonas, e jurisdição nos Estados do Amazonas, Acre, Rondônia e Roraima.
+
 **Art. 28.** Os juízes federais de que trata o art. 123, § 2º, da Constituição de 1967, com a redação dada pela Emenda Constitucional nº 7, de 1977, ficam investidos na titularidade de varas na seção judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á ao desdobramento das varas existentes.
 
  **Parágrafo único.** Para efeito de promoção por antiguidade, o tempo de serviço desses juízes será computado a partir do dia de sua posse.
