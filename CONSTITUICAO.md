@@ -2880,6 +2880,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa, e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º.
 
+ **§ 3º** Aplica-se o disposto no § 2º às Defensorias Públicas da União e do Distrito Federal.
+
 **Art. 135.** Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, § 4º.
 
 ## Título V: Da Defesa do Estado e das Instituições Democráticas
