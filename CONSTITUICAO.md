@@ -3154,6 +3154,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _d)_ livros, jornais, periódicos e o papel destinado a sua impressão.
 
+    _e)_ fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser.
+
  **§ 1º** A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.
 
  **§ 2º** A vedação do inciso VI, a, é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
