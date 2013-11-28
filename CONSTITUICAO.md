@@ -1520,7 +1520,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** É incompatível com o decoro parlamentar, além dos casos definidos no regimento interno, o abuso das prerrogativas asseguradas a membro do Congresso Nacional ou a percepção de vantagens indevidas.
 
- **§ 2º** Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Câmara dos Deputados ou pelo Senado Federal, por voto secreto e maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
+ **§ 2º** Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Câmara dos Deputados ou pelo Senado Federal, por maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
 
  **§ 3º** Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
 
@@ -1738,7 +1738,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Decorrido o prazo de quinze dias, o silêncio do Presidente da República importará sanção.
 
- **§ 4º** O veto será apreciado em sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados e Senadores, em escrutínio secreto.
+ **§ 4º** O veto será apreciado em sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados e Senadores.
 
  **§ 5º** Se o veto não for mantido, será o projeto enviado, para promulgação, ao Presidente da República.
 
