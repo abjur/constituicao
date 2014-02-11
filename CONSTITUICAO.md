@@ -2980,9 +2980,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - as patentes, com prerrogativas, direitos e deveres a elas inerentes, são conferidas pelo Presidente da República e asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados, sendo-lhes privativos os títulos e postos militares e, juntamente com os demais membros, o uso dos uniformes das Forças Armadas;
 
-  II - o militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei;
+  II - o militar em atividade que tomar posse em cargo ou emprego público civil permanente, ressalvada a hipótese prevista no art. 37, inciso XVI, alínea c, será transferido para a reserva, nos termos da lei;
 
-  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antigüidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não, transferidos para a reserva, nos termos da lei;
+  III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ressalvada a hipótese prevista no art. 37, inciso XVI, alínea c, ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antiguidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não, transferido para a reserva, nos termos da lei;
 
   IV - ao militar são proibidas a sindicalização e a greve;
 
@@ -2992,7 +2992,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VII - o oficial condenado na justiça comum ou militar à pena privativa de liberdade superior a dois anos, por sentença transitada em julgado, será submetido ao julgamento previsto no inciso anterior;
 
-  VIII - aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV;
+  VIII - aplica-se aos militares o disposto no art. 7º, incisos VIII, XII, XVII, XVIII, XIX e XXV, e no art. 37, incisos XI, XIII, XIV e XV, bem como, na forma da lei e com prevalência da atividade militar, no art. 37, inciso XVI, alínea c;
 
   IX - (Revogado).
 
