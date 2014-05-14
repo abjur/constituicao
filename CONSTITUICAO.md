@@ -5062,6 +5062,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** A concessão do benefício far-se-á conforme lei a ser proposta pelo Poder Executivo dentro de cento e cinqüenta dias da promulgação da Constituição.
 
+**Art. 54-A.** Os seringueiros de que trata o art. 54 deste Ato das Disposições Constitucionais Transitórias receberão indenização, em parcela única, no valor de R$ 25.000,00 (vinte e cinco mil reais).
+
 **Art. 55.** Até que seja aprovada a lei de diretrizes orçamentárias, trinta por cento, no mínimo, do orçamento da seguridade social, excluído o seguro-desemprego, serão destinados ao setor de saúde.
 
 **Art. 56.** Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o Decreto-Lei nº 1.940, de 25 de maio de 1982, alterada pelo Decreto-Lei nº 2.049, de 1º de agosto de 1983, pelo Decreto nº 91.236, de 8 de maio de 1985, e pela Lei nº 7.611, de 8 de julho de 1987, passa a integrar a receita da seguridade social, ressalvados, exclusivamente no exercício de 1988, os compromissos assumidos com programas e projetos em andamento.
