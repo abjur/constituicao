@@ -2870,17 +2870,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias.
 
-#### Seção III: Da Advocacia e da Defensoria Pública
+#### Seção III: Da Advocacia
 
 **Art. 133.** O advogado é indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
 
-**Art. 134.** A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV.
+#### Seção IV: Da Defensoria Pública
+
+**Art. 134.** A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do art. 5º desta Constituição Federal.
 
  **§ 1º** Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais.
 
  **§ 2º** Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa, e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º.
 
  **§ 3º** Aplica-se o disposto no § 2º às Defensorias Públicas da União e do Distrito Federal.
+
+ **§ 4º** São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. 93 e no inciso II do art. 96 desta Constituição Federal.
 
 **Art. 135.** Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, § 4º.
 
@@ -5511,6 +5515,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 17.** O valor que exceder o limite previsto no § 2º do art. 100 da Constituição Federal será pago, durante a vigência do regime especial, na forma prevista nos §§ 6º e 7º ou nos incisos I, II e III do § 8° deste artigo, devendo os valores dispendidos para o atendimento do disposto no § 2º do art. 100 da Constituição Federal serem computados para efeito do § 6º deste artigo.
 
  **§ 18.** Durante a vigência do regime especial a que se refere este artigo, gozarão também da preferência a que se refere o § 6º os titulares originais de precatórios que tenham completado 60 (sessenta) anos de idade até a data da promulgação desta Emenda Constitucional.
+
+**Art. 98.** O número de defensores públicos na unidade jurisdicional será proporcional à efetiva demanda pelo serviço da Defensoria Pública e à respectiva população.
+
+ **§ 1º** No prazo de 8 (oito) anos, a União, os Estados e o Distrito Federal deverão contar com defensores públicos em todas as unidades jurisdicionais, observado o disposto no caput deste artigo.
+
+ **§ 2º** Durante o decurso do prazo previsto no § 1º deste artigo, a lotação dos defensores públicos ocorrerá, prioritariamente, atendendo as regiões com maiores índices de exclusão social e adensamento populacional.
 
 Brasília, 5 de outubro de 1988.
 
