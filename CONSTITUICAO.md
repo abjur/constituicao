@@ -4606,9 +4606,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** O Colégio Pedro II, localizado na cidade do Rio de Janeiro, será mantido na órbita federal.
 
-**Art. 243.** As glebas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas serão imediatamente expropriadas e especificamente destinadas ao assentamento de colonos, para o cultivo de produtos alimentícios e medicamentosos, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei.
+**Art. 243.** As propriedades rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. 5º.
 
- **Parágrafo único.** Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins será confiscado e reverterá em benefício de instituições e pessoal especializados no tratamento e recuperação de viciados e no aparelhamento e custeio de atividades de fiscalização, controle, prevenção e repressão do crime de tráfico dessas substâncias.
+ **Parágrafo único.** Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins e da exploração de trabalho escravo será confiscado e reverterá a fundo especial com destinação específica, na forma da lei.
 
 **Art. 244.** A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas portadoras de deficiência, conforme o disposto no art. 227, § 2º.
 
