@@ -5414,6 +5414,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 92.** São acrescidos dez anos ao prazo fixado no art. 40 deste Ato das Disposições Constitucionais Transitórias.
 
+**Art. 92-A.** São acrescidos 50 (cinquenta) anos ao prazo fixado pelo art. 92 deste Ato das Disposições Constitucionais Transitórias.
+
 **Art. 93.** A vigência do disposto no art. 159, III, e § 4º, iniciará somente após a edição da lei de que trata o referido inciso III.
 
 **Art. 94.** Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no art. 146, III, d, da Constituição.
