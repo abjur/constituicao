@@ -3424,7 +3424,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 159.** A União entregará:
 
-  I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados quarenta e oito por cento na seguinte forma:
+  I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, 49% (quarenta e nove por cento), na seguinte forma:
 
     _a)_ vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
 
@@ -3433,6 +3433,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
     _c)_ três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à região, na forma que a lei estabelecer;
 
     _d)_ um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano;
+
+    _e)_ 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de julho de cada ano;
 
   II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
