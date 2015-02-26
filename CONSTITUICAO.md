@@ -734,7 +734,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;
 
-  V - proporcionar os meios de acesso à cultura, à educação e à ciência;
+  V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação;
 
   VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;
 
@@ -770,7 +770,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - responsabilidade por dano ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;
 
-  IX - educação, cultura, ensino e desporto;
+  IX - educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação;
 
   X - criação, funcionamento e processo do juizado de pequenas causas;
 
@@ -3606,6 +3606,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 4º** É permitida a vinculação de receitas próprias geradas pelos impostos a que se referem os arts. 155 e 156, e dos recursos de que tratam os arts. 157, 158 e 159, I, a e b, e II, para a prestação de garantia ou contragarantia à União e para pagamento de débitos para com esta.
 
+ **§ 5º** A transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra poderão ser admitidos, no âmbito das atividades de ciência, tecnologia e inovação, com o objetivo de viabilizar os resultados de projetos restritos a essas funções, mediante ato do Poder Executivo, sem necessidade da prévia autorização legislativa prevista no inciso VI deste artigo.
+
 **Art. 168.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9º.
 
 **Art. 169.** A despesa com pessoal ativo e inativo da União, dos Estados, do Distrito Federal e dos Municípios não poderá exceder os limites estabelecidos em lei complementar.
@@ -4022,7 +4024,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - participar da formulação da política e da execução das ações de saneamento básico;
 
-  V - incrementar em sua área de atuação o desenvolvimento científico e tecnológico;
+  V - incrementar, em sua área de atuação, o desenvolvimento científico e tecnológico e a inovação;
 
   VI - fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano;
 
@@ -4216,7 +4218,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para o ensino fundamental e médio, na forma da lei, para os que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública na localidade da residência do educando, ficando o poder público obrigado a investir prioritariamente na expansão de sua rede na localidade.
 
- **§ 2º** As atividades universitárias de pesquisa e extensão poderão receber apoio financeiro do poder público.
+ **§ 2º** As atividades de pesquisa, de extensão e de estímulo e fomento à inovação realizadas por universidades e/ou por instituições de educação profissional e tecnológica poderão receber apoio financeiro do Poder Público.
 
 **Art. 214.** A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a:
 
@@ -4352,21 +4354,35 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** O poder público incentivará o lazer, como forma de promoção social.
 
-### Capítulo IV: Da Ciência e Tecnologia
+ CAPÍTULO IV: DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO
 
-**Art. 218.** O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa e a capacitação tecnológicas.
+**Art. 218.** O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação.
 
- **§ 1º** A pesquisa científica básica receberá tratamento prioritário do Estado, tendo em vista o bem público e o progresso das ciências.
+ **§ 1º** A pesquisa científica básica e tecnológica receberá tratamento prioritário do Estado, tendo em vista o bem público e o progresso da ciência, tecnologia e inovação.
 
  **§ 2º** A pesquisa tecnológica voltar-se-á preponderantemente para a solução dos problemas brasileiros e para o desenvolvimento do sistema produtivo nacional e regional.
 
- **§ 3º** O Estado apoiará a formação de recursos humanos nas áreas de ciência, pesquisa e tecnologia, e concederá aos que delas se ocupem meios e condições especiais de trabalho.
+ **§ 3º** O Estado apoiará a formação de recursos humanos nas áreas de ciência, pesquisa, tecnologia e inovação, inclusive por meio do apoio às atividades de extensão tecnológica, e concederá aos que delas se ocupem meios e condições especiais de trabalho.
 
  **§ 4º** A lei apoiará e estimulará as empresas que invistam em pesquisa, criação de tecnologia adequada ao País, formação e aperfeiçoamento de seus recursos humanos e que pratiquem sistemas de remuneração que assegurem ao empregado, desvinculada do salário, participação nos ganhos econômicos resultantes da produtividade de seu trabalho.
 
  **§ 5º** É facultado aos Estados e ao Distrito Federal vincular parcela de sua receita orçamentária a entidades públicas de fomento ao ensino e à pesquisa científica e tecnológica.
 
+ **§ 6º** O Estado, na execução das atividades previstas no caput, estimulará a articulação entre entes, tanto públicos quanto privados, nas diversas esferas de governo.
+
+ **§ 7º** O Estado promoverá e incentivará a atuação no exterior das instituições públicas de ciência, tecnologia e inovação, com vistas à execução das atividades previstas no caput.
+
 **Art. 219.** O mercado interno integra o patrimônio nacional e será incentivado de modo a viabilizar o desenvolvimento cultural e sócio-econômico, o bem-estar da população e a autonomia tecnológica do País, nos termos de lei federal.
+
+ **Parágrafo único.** O Estado estimulará a formação e o fortalecimento da inovação nas empresas, bem como nos demais entes, públicos ou privados, a constituição e a manutenção de parques e polos tecnológicos e de demais ambientes promotores da inovação, a atuação dos inventores independentes e a criação, absorção, difusão e transferência de tecnologia.
+
+**Art. 219-A.** A União, os Estados, o Distrito Federal e os Municípios poderão firmar instrumentos de cooperação com órgãos e entidades públicos e com entidades privadas, inclusive para o compartilhamento de recursos humanos especializados e capacidade instalada, para a execução de projetos de pesquisa, de desenvolvimento científico e tecnológico e de inovação, mediante contrapartida financeira ou não financeira assumida pelo ente beneficiário, na forma da lei.
+
+**Art. 219-B.** O Sistema Nacional de Ciência, Tecnologia e Inovação será organizado em regime de colaboração entre entes, tanto públicos quanto privados, com vistas a promover o desenvolvimento científico e tecnológico e a inovação.
+
+ **§ 1º** Lei federal disporá sobre as normas gerais do Sistema Nacional de Ciência, Tecnologia e Inovação.
+
+ **§ 2º** Os Estados, o Distrito Federal e os Municípios legislarão concorrentemente sobre suas peculiaridades.
 
 ### Capítulo V: Da Comunicação Social
 
