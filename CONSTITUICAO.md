@@ -3536,6 +3536,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - estabelecer normas de gestão financeira e patrimonial da administração direta e indireta, bem como condições para a instituição e funcionamento de fundos.
 
+  III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto no § 11 do art. 166.
+
 **Art. 166.** Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.
 
  **§ 1º** Caberá a uma comissão mista permanente de Senadores e Deputados:
@@ -3573,6 +3575,34 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 7º** Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta Seção, as demais normas relativas ao processo legislativo.
 
  **§ 8º** Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.
+
+ **§ 9º** As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo, sendo que a metade deste percentual será destinada a ações e serviços públicos de saúde.
+
+ **§ 10.** A execução do montante destinado a ações e serviços públicos de saúde previsto no § 9º, inclusive custeio, será computada para fins do cumprimento do inciso I do § 2º do art. 198, vedada a destinação para pagamento de pessoal ou encargos sociais.
+
+ **§ 11.** É obrigatória a execução orçamentária e financeira das programações a que se refere o § 9º deste artigo, em montante correspondente a 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida realizada no exercício anterior, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § 9º do art. 165.
+
+ **§ 12.** As programações orçamentárias previstas no § 9º deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.
+
+ **§ 13.** Quando a transferência obrigatória da União, para a execução da programação prevista no § 11 deste artigo, for destinada a Estados, ao Distrito Federal e a Municípios, independerá da adimplência do ente federativo destinatário e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169.
+
+ **§ 14.** No caso de impedimento de ordem técnica, no empenho de despesa que integre a programação, na forma do § 11 deste artigo, serão adotadas as seguintes medidas:
+
+  I - até 120 (cento e vinte) dias após a publicação da lei orçamentária, o Poder Executivo, o Poder Legislativo, o Poder Judiciário, o Ministério Público e a Defensoria Pública enviarão ao Poder Legislativo as justificativas do impedimento;
+
+  II - até 30 (trinta) dias após o término do prazo previsto no inciso I, o Poder Legislativo indicará ao Poder Executivo o remanejamento da programação cujo impedimento seja insuperável;
+
+  III - até 30 de setembro ou até 30 (trinta) dias após o prazo previsto no inciso II, o Poder Executivo encaminhará projeto de lei sobre o remanejamento da programação cujo impedimento seja insuperável;
+
+  IV - se, até 20 de novembro ou até 30 (trinta) dias após o término do prazo previsto no inciso III, o Congresso Nacional não deliberar sobre o projeto, o remanejamento será implementado por ato do Poder Executivo, nos termos previstos na lei orçamentária.
+
+ **§ 15.** Após o prazo previsto no inciso IV do § 14, as programações orçamentárias previstas no § 11 não serão de execução obrigatória nos casos dos impedimentos justificados na notificação prevista no inciso I do § 14.
+
+ **§ 16.** Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 11 deste artigo, até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior.
+
+ **§ 17.** Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, o montante previsto no § 11 deste artigo poderá ser reduzido em até a mesma proporção da limitação incidente sobre o conjunto das despesas discricionárias.
+
+ **§ 18.** Considera-se equitativa a execução das programações de caráter obrigatório que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria.
 
 **Art. 167.** São vedados:
 
@@ -3982,7 +4012,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** A União, os Estados, o Distrito Federal e os Municípios aplicarão, anualmente, em ações e serviços públicos de saúde recursos mínimos derivados da aplicação de percentuais calculados sobre:
 
-  I - no caso da União, na forma definida nos termos da lei complementar prevista no § 3º;
+  I - no caso da União, a receita corrente líquida do respectivo exercício financeiro, não podendo ser inferior a 15% (quinze por cento);
 
   II - no caso dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 157 e 159, inciso I, alínea a, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios;
 
@@ -3990,13 +4020,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá:
 
-  I - os percentuais de que trata o § 2º;
+  I - os percentuais de que tratam os incisos II e III do § 2º;
 
   II - os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados a seus respectivos Municípios, objetivando a progressiva redução das disparidades regionais;
 
   III - as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal;
 
-  IV - as normas de cálculo do montante a ser aplicado pela União.
+  IV - (revogado);
 
  **§ 4º** Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação.
 
