@@ -3292,13 +3292,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VI - salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso XII, g, as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais;
 
-  VII - em relação às operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, adotar-se-á:
+  VII - nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado, adotar-se-á a alíquota interestadual e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a alíquota interna do Estado destinatário e a alíquota interestadual;
 
-    _a)_ a alíquota interestadual, quando o destinatário for contribuinte do imposto;
+    _a)_ (revogado).
 
-    _b)_ a alíquota interna, quando o destinatário não for contribuinte dele;
+    _b)_ (revogado).
 
-  VIII - na hipótese da alínea a do inciso anterior, caberá ao Estado da localização do destinatário o imposto correspondente à diferença entre a alíquota interna e a interestadual;
+  VIII - a responsabilidade pelo recolhimento do imposto correspondente à diferença entre a alíquota interna e a interestadual de que trata o inciso VII será atribuída:
+
+    _a)_ ao destinatário, quando este for contribuinte do imposto;
+
+    _b)_ ao remetente, quando o destinatário não for contribuinte do imposto;
 
   IX - incidirá também:
 
@@ -5577,6 +5581,18 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 1º** No prazo de 8 (oito) anos, a União, os Estados e o Distrito Federal deverão contar com defensores públicos em todas as unidades jurisdicionais, observado o disposto no caput deste artigo.
 
  **§ 2º** Durante o decurso do prazo previsto no § 1º deste artigo, a lotação dos defensores públicos ocorrerá, prioritariamente, atendendo as regiões com maiores índices de exclusão social e adensamento populacional.
+
+**Art. 99.** Para efeito do disposto no inciso VII do § 2º do art. 155, no caso de operações e prestações que destinem bens e serviços a consumidor final não contribuinte localizado em outro Estado, o imposto correspondente à diferença entre a alíquota interna e a interestadual será partilhado entre os Estados de origem e de destino, na seguinte proporção:
+
+  I - para o ano de 2015: 20% (vinte por cento) para o Estado de destino e 80% (oitenta por cento) para o Estado de origem;
+
+  II - para o ano de 2016: 40% (quarenta por cento) para o Estado de destino e 60% (sessenta por cento) para o Estado de origem;
+
+  III - para o ano de 2017: 60% (sessenta por cento) para o Estado de destino e 40% (quarenta por cento) para o Estado de origem;
+
+  IV - para o ano de 2018: 80% (oitenta por cento) para o Estado de destino e 20% (vinte por cento) para o Estado de origem;
+
+  V - a partir do ano de 2019: 100% (cem por cento) para o Estado de destino.
 
 Brasília, 5 de outubro de 1988.
 
