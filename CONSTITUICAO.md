@@ -1198,7 +1198,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;
 
-  II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição;
+  II - compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar;
 
   III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
 
@@ -5593,6 +5593,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   IV - para o ano de 2018: 80% (oitenta por cento) para o Estado de destino e 20% (vinte por cento) para o Estado de origem;
 
   V - a partir do ano de 2019: 100% (cem por cento) para o Estado de destino.
+
+**Art. 100.** Até que entre em vigor a lei complementar de que trata o inciso II do § 1º do art. 40 da Constituição Federal, os Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aposentar-se-ão, compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas condições do art. 52 da Constituição Federal.
 
 Brasília, 5 de outubro de 1988.
 
