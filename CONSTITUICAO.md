@@ -276,7 +276,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 ### Capítulo II: Dos Direitos Sociais
 
-**Art. 6º** São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+**Art. 6º** São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
 
 **Art. 7º** São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
 
@@ -5008,11 +5008,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Os incentivos concedidos por convênio entre Estados, celebrados nos termos do art. 23, § 6º, da Constituição de 1967, com a redação da Emenda nº 1, de 17 de outubro de 1969, também deverão ser reavaliados e reconfirmados nos prazos deste artigo.
 
-**Art. 42.** Durante 25 (vinte e cinco) anos, a União aplicará, dos recursos destinados à irrigação:
+**Art. 42.** Durante 40 (quarenta) anos, a União aplicará dos recursos destinados à irrigação:
 
-  I - vinte por cento na Região Centro-Oeste;
+  I - 20% (vinte por cento) na Região Centro-Oeste;
 
-  II - cinqüenta por cento na Região Nordeste, preferencialmente no Semi-Árido.
+  II - 50% (cinquenta por cento) na Região Nordeste, preferencialmente no Semiárido.
+
+ **Parágrafo único.** Dos percentuais previstos nos incisos I e II do caput, no mínimo 50% (cinquenta por cento) serão destinados a projetos de irrigação que beneficiem agricultores familiares que atendam aos requisitos previstos em legislação específica.
 
 **Art. 43.** Na data da promulgação da lei que disciplinar a pesquisa e a lavra de recursos e jazidas minerais, ou no prazo de um ano, a contar da promulgação da Constituição, tornar-se-ão sem efeito as autorizações, concessões e demais títulos atributivos de direitos minerários, caso os trabalhos de pesquisa ou de lavra não hajam sido comprovadamente iniciados nos prazos legais ou estejam inativos.
 
