@@ -2074,6 +2074,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - o Superior Tribunal de Justiça;
 
+  II-A - o Tribunal Superior do Trabalho;
+
   III - os Tribunais Regionais Federais e Juízes Federais;
 
   IV - os Tribunais e Juízes do Trabalho;
@@ -2540,7 +2542,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** Nos Territórios Federais, a jurisdição e as atribuições cometidas aos juízes federais caberão aos juízes da Justiça local, na forma da lei.
 
-#### Seção V: Dos Tribunais e Juízes do Trabalho
+#### Seção V: Do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e dos Juízes do Trabalho
 
 **Art. 111.** São órgãos da Justiça do Trabalho:
 
@@ -2556,7 +2558,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** (Revogado).
 
-**Art. 111-A.** O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo:
+**Art. 111-A.** O Tribunal Superior do Trabalho compor-se-á de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco anos e menos de sessenta e cinco anos, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo:
 
   I - um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o disposto no art. 94;
 
@@ -2569,6 +2571,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho, cabendo-lhe, dentre outras funções, regulamentar os cursos oficiais para o ingresso e promoção na carreira;
 
   II - o Conselho Superior da Justiça do Trabalho, cabendo-lhe exercer, na forma da lei, a supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus, como órgão central do sistema, cujas decisões terão efeito vinculante.
+
+ **§ 3º** Compete ao Tribunal Superior do Trabalho processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
 
 **Art. 112.** A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do Trabalho.
 
