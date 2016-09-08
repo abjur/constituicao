@@ -5302,13 +5302,39 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999.
 
-**Art. 76.** São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2015, 20% (vinte por cento) da arrecadação da União de impostos, contribuições sociais e de intervenção no domínio econômico, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais.
+**Art. 76.** São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral da Previdência Social, às contribuições de intervenção no domínio econômico e às taxas, já instituídas ou que vierem a ser criadas até a referida data.
 
- **§ 1**° O disposto no caput não reduzirá a base de cálculo das transferências a Estados, Distrito Federal e Municípios, na forma do § 5º do art. 153, do inciso I do art. 157, dos incisos I e II do art. 158 e das alíneas a, b e d do inciso I e do inciso II do art. 159 da Constituição Federal, nem a base de cálculo das destinações a que se refere a alínea c do inciso I do art. 159 da Constituição Federal.
+ **§ 1º** (Revogado).
 
  **§ 2**° Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5º do art. 212 da Constituição Federal.
 
- **§ 3**° Para efeito do cálculo dos recursos para manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, o percentual referido no caput será nulo.
+ **§ 3º** (Revogado).
+
+**Art. 76-A.** São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes.
+
+ **Parágrafo único.** Excetuam-se da desvinculação de que trata o caput:
+
+  I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos II e III do § 2º do art. 198 e o art. 212 da Constituição Federal;
+
+  II - receitas que pertencem aos Municípios decorrentes de transferências previstas na Constituição Federal;
+
+  III - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;
+
+  IV - demais transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;
+
+  V - fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal.
+
+**Art. 76-B.** São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023, 30% (trinta por cento) das receitas dos Municípios relativas a impostos, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes.
+
+ **Parágrafo único.** Excetuam-se da desvinculação de que trata o caput:
+
+  I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos II e III do § 2º do art. 198 e o art. 212 da Constituição Federal;
+
+  II - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;
+
+  III - transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;
+
+  IV - fundos instituídos pelo Tribunal de Contas do Município.
 
 **Art. 77.** Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes:
 
