@@ -2218,7 +2218,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 1º** Os débitos de natureza alimentícia compreendem aqueles decorrentes de salários, vencimentos, proventos, pensões e suas complementações, benefícios previdenciários e indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo.
 
- **§ 2º** Os débitos de natureza alimentícia cujos titulares tenham 60 (sessenta) anos de idade ou mais na data de expedição do precatório, ou sejam portadores de doença grave, definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo do fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório.
+ **§ 2º** Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório.
 
  **§ 3º** O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado.
 
@@ -2247,6 +2247,20 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 15.** Sem prejuízo do disposto neste artigo, lei complementar a esta Constituição Federal poderá estabelecer regime especial para pagamento de crédito de precatórios de Estados, Distrito Federal e Municípios, dispondo sobre vinculações à receita corrente líquida e forma e prazo de liquidação.
 
  **§ 16.** A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente.
+
+ **§ 17.** A União, os Estados, o Distrito Federal e os Municípios aferirão mensalmente, em base anual, o comprometimento de suas respectivas receitas correntes líquidas com o pagamento de precatórios e obrigações de pequeno valor.
+
+ **§ 18.** Entende-se como receita corrente líquida, para os fins de que trata o § 17, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1º do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas:
+
+  I - na União, as parcelas entregues aos Estados, ao Distrito Federal e aos Municípios por determinação constitucional;
+
+  II - nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
+
+  III - na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal.
+
+ **§ 19.** Caso o montante total de débitos decorrentes de condenações judiciais em precatórios e obrigações de pequeno valor, em período de 12 (doze) meses, ultrapasse a média do comprometimento percentual da receita corrente líquida nos 5 (cinco) anos imediatamente anteriores, a parcela que exceder esse percentual poderá ser financiada, excetuada dos limites de endividamento de que tratam os incisos VI e VII do art. 52 da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse financiamento a vedação de vinculação de receita prevista no inciso IV do art. 167 da Constituição Federal.
+
+ **§ 20.** Caso haja precatório com valor superior a 15% (quinze por cento) do montante dos precatórios apresentados nos termos do § 5º deste artigo, 15% (quinze por cento) do valor deste precatório serão pagos até o final do exercício seguinte e o restante em parcelas iguais nos cinco exercícios subsequentes, acrescidas de juros de mora e correção monetária, ou mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado.
 
 #### Seção II: Do Supremo Tribunal Federal
 
@@ -5627,6 +5641,148 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   V - a partir do ano de 2019: 100% (cem por cento) para o Estado de destino.
 
 **Art. 100.** Até que entre em vigor a lei complementar de que trata o inciso II do § 1º do art. 40 da Constituição Federal, os Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aposentar-se-ão, compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas condições do art. 52 da Constituição Federal.
+
+**Art. 101.** Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, estiverem em mora com o pagamento de seus precatórios quitarão até 31 de dezembro de 2020 seus débitos vencidos e os que vencerão dentro desse período, depositando, mensalmente, em conta especial do Tribunal de Justiça local, sob única e exclusiva administração desse, 1/12 (um doze avos) do valor calculado percentualmente sobre as respectivas receitas correntes líquidas, apuradas no segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada exercício, à média do comprometimento percentual da receita corrente líquida no período de 2012 a 2014, em conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de Justiça local.
+
+ **§ 1º** Entende-se como receita corrente líquida, para os fins de que trata este artigo, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1º do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas:
+
+  I - nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
+
+  II - nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal.
+
+ **§ 2º** O débito de precatórios poderá ser pago mediante a utilização de recursos orçamentários próprios e dos seguintes instrumentos:
+
+  I - até 75% (setenta e cinco por cento) do montante dos depósitos judiciais e dos depósitos administrativos em dinheiro referentes a processos judiciais ou administrativos, tributários ou não tributários, nos quais o Estado, o Distrito Federal ou os Municípios, ou suas autarquias, fundações e empresas estatais dependentes, sejam parte;
+
+  II - até 20% (vinte por cento) dos demais depósitos judiciais da localidade, sob jurisdição do respectivo Tribunal de Justiça, excetuados os destinados à quitação de créditos de natureza alimentícia, mediante instituição de fundo garantidor composto pela parcela restante dos depósitos judiciais, destinando-se:
+
+    _a)_ no caso do Distrito Federal, 100% (cem por cento) desses recursos ao próprio Distrito Federal;
+
+    _b)_ no caso dos Estados, 50% (cinquenta por cento) desses recursos ao próprio Estado e 50% (cinquenta por cento) a seus Municípios;
+
+  III - contratação de empréstimo, excetuado dos limites de endividamento de que tratam os incisos VI e VII do art. 52 da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse empréstimo a vedação de vinculação de receita prevista no inciso IV do art. 167 da Constituição Federal.
+
+**Art. 102.** Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art. 101 deste Ato das Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao estado de saúde e à deficiência, nos termos do § 2º do art. 100 da Constituição Federal, sobre todos os demais créditos de todos os anos.
+
+ **Parágrafo único.** A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito Federal e Municípios, por ato do respectivo Poder Executivo, observada a ordem de preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado.
+
+**Art. 103.** Enquanto os Estados, o Distrito Federal e os Municípios estiverem efetuando o pagamento da parcela mensal devida como previsto no caput do art. 101 deste Ato das Disposições Constitucionais Transitórias, nem eles, nem as respectivas autarquias, fundações e empresas estatais dependentes poderão sofrer sequestro de valores, exceto no caso de não liberação tempestiva dos recursos.
+
+**Art. 104.** Se os recursos referidos no art. 101 deste Ato das Disposições Constitucionais Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no todo ou em parte:
+
+  I - o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor não liberado, das contas do ente federado inadimplente;
+
+  II - o chefe do Poder Executivo do ente federado inadimplente responderá, na forma da legislação de responsabilidade fiscal e de improbidade administrativa;
+
+  III - a União reterá os recursos referentes aos repasses ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios e os depositará na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto;
+
+  IV - os Estados reterão os repasses previstos no parágrafo único do art. 158 da Constituição Federal e os depositarão na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto.
+
+ **Parágrafo único.** Enquanto perdurar a omissão, o ente federado não poderá contrair empréstimo externo ou interno, exceto para os fins previstos no § 2º do art. 101 deste Ato das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências voluntárias.
+
+**Art. 105.** Enquanto viger o regime de pagamento de precatórios previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, é facultada aos credores de precatórios, próprios ou de terceiros, a compensação com débitos de natureza tributária ou de outra natureza que até 25 de março de 2015 tenham sido inscritos na dívida ativa dos Estados, do Distrito Federal ou dos Municípios, observados os requisitos definidos em lei própria do ente federado.
+
+ **Parágrafo único.** Não se aplica às compensações referidas no caput deste artigo qualquer tipo de vinculação, como as transferências a outros entes e as destinadas à educação, à saúde e a outras finalidades.
+
+**Art. 106.** Fica instituído o Novo Regime Fiscal no âmbito dos Orçamentos Fiscal e da Seguridade Social da União, que vigorará por vinte exercícios financeiros, nos termos dos arts. 107 a 114 deste Ato das Disposições Constitucionais Transitórias.
+
+**Art. 107.** Ficam estabelecidos, para cada exercício, limites individualizados para as despesas primárias:
+
+  I - do Poder Executivo;
+
+  II - do Supremo Tribunal Federal, do Superior Tribunal de Justiça, do Conselho Nacional de Justiça, da Justiça do Trabalho, da Justiça Federal, da Justiça Militar da União, da Justiça Eleitoral e da Justiça do Distrito Federal e Territórios, no âmbito do Poder Judiciário;
+
+  III - do Senado Federal, da Câmara dos Deputados e do Tribunal de Contas da União, no âmbito do Poder Legislativo;
+
+  IV - do Ministério Público da União e do Conselho Nacional do Ministério Público; e
+
+  V - da Defensoria Pública da União.
+
+ **§ 1º** Cada um dos limites a que se refere o caput deste artigo equivalerá:
+
+  I - para o exercício de 2017, à despesa primária paga no exercício de 2016, incluídos os restos a pagar pagos e demais operações que afetam o resultado primário, corrigida em 7,2% (sete inteiros e dois décimos por cento); e
+
+  II - para os exercícios posteriores, ao valor do limite referente ao exercício imediatamente anterior, corrigido pela variação do Índice Nacional de Preços ao Consumidor Amplo - IPCA, publicado pelo Instituto Brasileiro de Geografia e Estatística, ou de outro índice que vier a substituí-lo, para o período de doze meses encerrado em junho do exercício anterior a que se refere a lei orçamentária.
+
+ **§ 2º** Os limites estabelecidos na forma do inciso IV do caput do art. 51, do inciso XIII do caput do art. 52, do § 1º do art. 99, do § 3º do art. 127 e do § 3º do art. 134 da Constituição Federal não poderão ser superiores aos estabelecidos nos termos deste artigo.
+
+ **§ 3º** A mensagem que encaminhar o projeto de lei orçamentária demonstrará os valores máximos de programação compatíveis com os limites individualizados calculados na forma do § 1º deste artigo, observados os §§ 7º a 9º deste artigo.
+
+ **§ 4º** As despesas primárias autorizadas na lei orçamentária anual sujeitas aos limites de que trata este artigo não poderão exceder os valores máximos demonstrados nos termos do § 3º deste artigo.
+
+ **§ 5º** É vedada a abertura de crédito suplementar ou especial que amplie o montante total autorizado de despesa primária sujeita aos limites de que trata este artigo.
+
+ **§ 6º** Não se incluem na base de cálculo e nos limites estabelecidos neste artigo:
+
+  I - transferências constitucionais estabelecidas no § 1º do art. 20, no inciso III do parágrafo único do art. 146, no § 5º do art. 153, no art. 157, nos incisos I e II do art. 158, no art. 159 e no § 6º do art. 212, as despesas referentes ao inciso XIV do caput do art. 21, todos da Constituição Federal, e as complementações de que tratam os incisos V e VII do caput do art. 60, deste Ato das Disposições Constitucionais Transitórias;
+
+  II - créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal;
+
+  III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições; e
+
+  IV - despesas com aumento de capital de empresas estatais não dependentes.
+
+ **§ 7º** Nos três primeiros exercícios financeiros da vigência do Novo Regime Fiscal, o Poder Executivo poderá compensar com redução equivalente na sua despesa primária, consoante os valores estabelecidos no projeto de lei orçamentária encaminhado pelo Poder Executivo no respectivo exercício, o excesso de despesas primárias em relação aos limites de que tratam os incisos II a V do caput deste artigo.
+
+ **§ 8º** A compensação de que trata o § 7º deste artigo não excederá a 0,25% (vinte e cinco centésimos por cento) do limite do Poder Executivo.
+
+ **§ 9º** Respeitado o somatório em cada um dos incisos de II a IV do caput deste artigo, a lei de diretrizes orçamentárias poderá dispor sobre a compensação entre os limites individualizados dos órgãos elencados em cada inciso.
+
+ **§ 10.** Para fins de verificação do cumprimento dos limites de que trata este artigo, serão consideradas as despesas primárias pagas, incluídos os restos a pagar pagos e demais operações que afetam o resultado primário no exercício.
+
+ **§ 11.** O pagamento de restos a pagar inscritos até 31 de dezembro de 2015 poderá ser excluído da verificação do cumprimento dos limites de que trata este artigo, até o excesso de resultado primário dos Orçamentos Fiscal e da Seguridade Social do exercício em relação à meta fixada na lei de diretrizes orçamentárias.
+
+**Art. 108.** O Presidente da República poderá propor, a partir do décimo exercício da vigência do Novo Regime Fiscal, projeto de lei complementar para alteração do método de correção dos limites a que se refere o inciso II do § 1º do art. 107 deste Ato das Disposições Constitucionais Transitórias.
+
+ **Parágrafo único.** Será admitida apenas uma alteração do método de correção dos limites por mandato presidencial.
+
+**Art. 109.** No caso de descumprimento de limite individualizado, aplicam-se, até o final do exercício de retorno das despesas aos respectivos limites, ao Poder Executivo ou a órgão elencado nos incisos II a V do caput do art. 107 deste Ato das Disposições Constitucionais Transitórias que o descumpriu, sem prejuízo de outras medidas, as seguintes vedações:
+
+  I - concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de remuneração de membros de Poder ou de órgão, de servidores e empregados públicos e militares, exceto dos derivados de sentença judicial transitada em julgado ou de determinação legal decorrente de atos anteriores à entrada em vigor desta Emenda Constitucional;
+
+  II - criação de cargo, emprego ou função que implique aumento de despesa;
+
+  III - alteração de estrutura de carreira que implique aumento de despesa;
+
+  IV - admissão ou contratação de pessoal, a qualquer título, ressalvadas as reposições de cargos de chefia e de direção que não acarretem aumento de despesa e aquelas decorrentes de vacâncias de cargos efetivos ou vitalícios;
+
+  V - realização de concurso público, exceto para as reposições de vacâncias previstas no inciso IV;
+
+  VI - criação ou majoração de auxílios, vantagens, bônus, abonos, verbas de representação ou benefícios de qualquer natureza em favor de membros de Poder, do Ministério Público ou da Defensoria Pública e de servidores e empregados públicos e militares;
+
+  VII - criação de despesa obrigatória; e
+
+  VIII - adoção de medida que implique reajuste de despesa obrigatória acima da variação da inflação, observada a preservação do poder aquisitivo referida no inciso IV do caput do art. 7º da Constituição Federal.
+
+ **§ 1º** As vedações previstas nos incisos I, III e VI do caput, quando descumprido qualquer dos limites individualizados dos órgãos elencados nos incisos II, III e IV do caput do art. 107 deste Ato das Disposições Constitucionais Transitórias, aplicam-se ao conjunto dos órgãos referidos em cada inciso.
+
+ **§ 2º** Adicionalmente ao disposto no caput, no caso de descumprimento do limite de que trata o inciso I do caput do art. 107 deste Ato das Disposições Constitucionais Transitórias, ficam vedadas:
+
+  I - a criação ou expansão de programas e linhas de financiamento, bem como a remissão, renegociação ou refinanciamento de dívidas que impliquem ampliação das despesas com subsídios e subvenções; e
+
+  II - a concessão ou a ampliação de incentivo ou benefício de natureza tributária.
+
+ **§ 3º** No caso de descumprimento de qualquer dos limites individualizados de que trata o caput do art. 107 deste Ato das Disposições Constitucionais Transitórias, fica vedada a concessão da revisão geral prevista no inciso X do caput do art. 37 da Constituição Federal.
+
+ **§ 4º** As vedações previstas neste artigo aplicam-se também a proposições legislativas.
+
+**Art. 110.** Na vigência do Novo Regime Fiscal, as aplicações mínimas em ações e serviços públicos de saúde e em manutenção e desenvolvimento do ensino equivalerão:
+
+  I - no exercício de 2017, às aplicações mínimas calculadas nos termos do inciso I do § 2º do art. 198 e do caput do art. 212, da Constituição Federal; e
+
+  II - nos exercícios posteriores, aos valores calculados para as aplicações mínimas do exercício imediatamente anterior, corrigidos na forma estabelecida pelo inciso II do § 1º do art. 107 deste Ato das Disposições Constitucionais Transitórias.
+
+**Art. 111.** A partir do exercício financeiro de 2018, até o último exercício de vigência do Novo Regime Fiscal, a aprovação e a execução previstas nos §§ 9º e 11 do art. 166 da Constituição Federal corresponderão ao montante de execução obrigatória para o exercício de 2017, corrigido na forma estabelecida pelo inciso II do § 1º do art. 107 deste Ato das Disposições Constitucionais Transitórias.
+
+**Art. 112.** As disposições introduzidas pelo Novo Regime Fiscal:
+
+  I - não constituirão obrigação de pagamento futuro pela União ou direitos de outrem sobre o erário; e
+
+  II - não revogam, dispensam ou suspendem o cumprimento de dispositivos constitucionais e legais que disponham sobre metas fiscais ou limites máximos de despesas.
+
+**Art. 113.** A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro.
+
+**Art. 114.** A tramitação de proposição elencada no caput do art. 59 da Constituição Federal, ressalvada a referida no seu inciso V, quando acarretar aumento de despesa ou renúncia de receita, será suspensa por até vinte dias, a requerimento de um quinto dos membros da Casa, nos termos regimentais, para análise de sua compatibilidade com o Novo Regime Fiscal.
 
 Brasília, 5 de outubro de 1988.
 
