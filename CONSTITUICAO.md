@@ -4522,6 +4522,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.
 
+ **§ 7º** Para fins do disposto na parte final do inciso VII do § 1º deste artigo, não se consideram cruéis as práticas desportivas que utilizem animais, desde que sejam manifestações culturais, conforme o § 1º do art. 215 desta Constituição Federal, registradas como bem de natureza imaterial integrante do patrimônio cultural brasileiro, devendo ser regulamentadas por lei específica que assegure o bem-estar dos animais envolvidos.
+
 ### Capítulo VII: Da Família, da Criança, do Adolescente, do Jovem e do Idoso
 
 **Art. 226.** A família, base da sociedade, tem especial proteção do Estado.
