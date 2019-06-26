@@ -3534,7 +3534,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - as diretrizes orçamentárias;
 
-  III - os orçamentos anuais.
+  III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto nos §§ 11 e 12 do art. 166.
 
  **§ 1º** A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.
 
@@ -3565,6 +3565,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   II - estabelecer normas de gestão financeira e patrimonial da administração direta e indireta, bem como condições para a instituição e funcionamento de fundos.
 
   III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto no § 11 do art. 166.
+
+ **§ 10.** A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade.
 
 **Art. 166.** Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.
 
@@ -3610,27 +3612,31 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 11.** É obrigatória a execução orçamentária e financeira das programações a que se refere o § 9º deste artigo, em montante correspondente a 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida realizada no exercício anterior, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § 9º do art. 165.
 
- **§ 12.** As programações orçamentárias previstas no § 9º deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.
+ **§ 12.** A garantia de execução de que trata o § 11 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente líquida realizada no exercício anterior.
 
- **§ 13.** Quando a transferência obrigatória da União, para a execução da programação prevista no § 11 deste artigo, for destinada a Estados, ao Distrito Federal e a Municípios, independerá da adimplência do ente federativo destinatário e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169.
+ **§ 13.** As programações orçamentárias previstas nos §§ 11 e 12 deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.
 
- **§ 14.** No caso de impedimento de ordem técnica, no empenho de despesa que integre a programação, na forma do § 11 deste artigo, serão adotadas as seguintes medidas:
+ **§ 14.** Para fins de cumprimento do disposto nos §§ 11 e 12 deste artigo, os órgãos de execução deverão observar, nos termos da lei de diretrizes orçamentárias, cronograma para análise e verificação de eventuais impedimentos das programações e demais procedimentos necessários à viabilização da execução dos respectivos montantes.
 
-  I - até 120 (cento e vinte) dias após a publicação da lei orçamentária, o Poder Executivo, o Poder Legislativo, o Poder Judiciário, o Ministério Público e a Defensoria Pública enviarão ao Poder Legislativo as justificativas do impedimento;
+  I - (revogado);
 
-  II - até 30 (trinta) dias após o término do prazo previsto no inciso I, o Poder Legislativo indicará ao Poder Executivo o remanejamento da programação cujo impedimento seja insuperável;
+  II - (revogado);
 
-  III - até 30 de setembro ou até 30 (trinta) dias após o prazo previsto no inciso II, o Poder Executivo encaminhará projeto de lei sobre o remanejamento da programação cujo impedimento seja insuperável;
+  III - (revogado);
 
-  IV - se, até 20 de novembro ou até 30 (trinta) dias após o término do prazo previsto no inciso III, o Congresso Nacional não deliberar sobre o projeto, o remanejamento será implementado por ato do Poder Executivo, nos termos previstos na lei orçamentária.
+  IV - (revogado).
 
- **§ 15.** Após o prazo previsto no inciso IV do § 14, as programações orçamentárias previstas no § 11 não serão de execução obrigatória nos casos dos impedimentos justificados na notificação prevista no inciso I do § 14.
+ **§ 15.** (Revogado).
 
- **§ 16.** Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 11 deste artigo, até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior.
+ **§ 16.** Quando a transferência obrigatória da União para a execução da programação prevista nos §§ 11 e 12 deste artigo for destinada a Estados, ao Distrito Federal e a Municípios, independerá da adimplência do ente federativo destinatário e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169.
 
- **§ 17.** Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, o montante previsto no § 11 deste artigo poderá ser reduzido em até a mesma proporção da limitação incidente sobre o conjunto das despesas discricionárias.
+ **§ 17.** Os restos a pagar provenientes das programações orçamentárias previstas nos §§ 11 e 12 poderão ser considerados para fins de cumprimento da execução financeira até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior, para as programações das emendas individuais, e até o limite de 0,5% (cinco décimos por cento), para as programações das emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal.
 
- **§ 18.** Considera-se equitativa a execução das programações de caráter obrigatório que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria.
+ **§ 18.** Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, os montantes previstos nos §§ 11 e 12 deste artigo poderão ser reduzidos em até a mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias.
+
+ **§ 19.** Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria.
+
+ **§ 20.** As programações de que trata o § 12 deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento.
 
 **Art. 167.** São vedados:
 
