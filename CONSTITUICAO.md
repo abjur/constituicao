@@ -592,7 +592,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XI - as terras tradicionalmente ocupadas pelos índios.
 
- **§ 1º** É assegurada, nos termos da lei, aos Estados, ao Distrito Federal e aos Municípios, bem como a órgãos da administração direta da União, participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração.
+ **§ 1º** É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos Municípios a participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração.
 
  **§ 2º** A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei.
 
@@ -3570,6 +3570,22 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 10.** A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade.
 
+ **§ 11.** O disposto no § 10 deste artigo, nos termos da lei de diretrizes orçamentárias:
+
+  I - subordina-se ao cumprimento de dispositivos constitucionais e legais que estabeleçam metas fiscais ou limites de despesas e não impede o cancelamento necessário à abertura de créditos adicionais;
+
+  II - não se aplica nos casos de impedimentos de ordem técnica devidamente justificados;
+
+  III - aplica-se exclusivamente às despesas primárias discricionárias.
+
+ **§ 12.** Integrará a lei de diretrizes orçamentárias, para o exercício a que se refere e, pelo menos, para os 2 (dois) exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na lei orçamentária anual para a continuidade daqueles em andamento.
+
+ **§ 13.** O disposto no inciso III do § 9º e nos §§ 10, 11 e 12 deste artigo aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União.
+
+ **§ 14.** A lei orçamentária anual poderá conter previsões de despesas para exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento.
+
+ **§ 15.** A União organizará e manterá registro centralizado de projetos de investimento contendo, por Estado ou Distrito Federal, pelo menos, análises de viabilidade, estimativas de custos e informações sobre a execução física e financeira.
+
 **Art. 166.** Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.
 
  **§ 1º** Caberá a uma comissão mista permanente de Senadores e Deputados:
@@ -5756,9 +5772,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal;
 
-  III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições; e
+  III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições;
 
-  IV - despesas com aumento de capital de empresas estatais não dependentes.
+  IV - despesas com aumento de capital de empresas estatais não dependentes; e
+
+  V - transferências a Estados, Distrito Federal e Municípios de parte dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276, de 30 de junho de 2010, e a despesa decorrente da revisão do contrato de cessão onerosa de que trata a mesma Lei.
 
  **§ 7º** Nos três primeiros exercícios financeiros da vigência do Novo Regime Fiscal, o Poder Executivo poderá compensar com redução equivalente na sua despesa primária, consoante os valores estabelecidos no projeto de lei orçamentária encaminhado pelo Poder Executivo no respectivo exercício, o excesso de despesas primárias em relação aos limites de que tratam os incisos II a V do caput deste artigo.
 
