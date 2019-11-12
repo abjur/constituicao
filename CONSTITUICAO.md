@@ -710,7 +710,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XX - sistemas de consórcios e sorteios;
 
-  XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação e mobilização das polícias militares e corpos de bombeiros militares;
+  XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros militares;
 
   XXII - competência da polícia federal e das polícias rodoviária e ferroviária federais;
 
@@ -1160,6 +1160,12 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 12.** Para os fins do disposto no inciso XI do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores.
 
+ **§ 13.** O servidor público titular de cargo efetivo poderá ser readaptado para exercício de cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, enquanto permanecer nesta condição, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem.
+
+ **§ 14.** A aposentadoria concedida com a utilização de tempo de contribuição decorrente de cargo, emprego ou função pública, inclusive do Regime Geral de Previdência Social, acarretará o rompimento do vínculo que gerou o referido tempo de contribuição.
+
+ **§ 15.** É vedada a complementação de aposentadorias de servidores públicos e de pensões por morte a seus dependentes que não seja decorrente do disposto nos §§ 14 a 16 do art. 40 ou que não seja prevista em lei que extinga regime próprio de previdência social.
+
 **Art. 38.** Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições:
 
   I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função;
@@ -1170,7 +1176,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento;
 
-  V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.
+  V - na hipótese de ser segurado de regime próprio de previdência social, permanecerá filiado a esse regime, no ente federativo de origem.
 
 #### Seção II: Dos Servidores Públicos
 
@@ -1198,57 +1204,51 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 8º** A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § 4º.
 
-**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+ **§ 9º** É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo.
 
- **§ 1º** Os servidores abrangidos pelo regime de previdência de que trata este artigo serão aposentados, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3º e 17:
+**Art. 40.** O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial.
 
-  I - por invalidez permanente, sendo os proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei;
+ **§ 1º** O servidor abrangido por regime próprio de previdência social será aposentado:
+
+  I - por incapacidade permanente para o trabalho, no cargo em que estiver investido, quando insuscetível de readaptação, hipótese em que será obrigatória a realização de avaliações periódicas para verificação da continuidade das condições que ensejaram a concessão da aposentadoria, na forma de lei do respectivo ente federativo;
 
   II - compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar;
 
-  III - voluntariamente, desde que cumprido tempo mínimo de dez anos de efetivo exercício no serviço público e cinco anos no cargo efetivo em que se dará a aposentadoria, observadas as seguintes condições:
+  III - no âmbito da União, aos 62 (sessenta e dois) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem, e, no âmbito dos Estados, do Distrito Federal e dos Municípios, na idade mínima estabelecida mediante emenda às respectivas Constituições e Leis Orgânicas, observados o tempo de contribuição e os demais requisitos estabelecidos em lei complementar do respectivo ente federativo.
 
-    _a)_ sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinqüenta e cinco anos de idade e trinta de contribuição, se mulher;
+ **§ 2º** Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16.
 
-    _b)_ sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, com proventos proporcionais ao tempo de contribuição.
+ **§ 3º** As regras para cálculo de proventos de aposentadoria serão disciplinadas em lei do respectivo ente federativo.
 
- **§ 2º** Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
+ **§ 4º** É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C e 5º.
 
- **§ 3º** Para o cálculo dos proventos de aposentadoria, por ocasião da sua concessão, serão consideradas as remunerações utilizadas como base para as contribuições do servidor aos regimes de previdência de que tratam este artigo e o art. 201, na forma da lei.
+ **§ 4º-A.** Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar.
 
- **§ 4º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, nos termos definidos em leis complementares, os casos de servidores:
+ **§ 4º-B.** Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de ocupantes do cargo de agente penitenciário, de agente socioeducativo ou de policial dos órgãos de que tratam o inciso IV do caput do art. 51, o inciso XIII do caput do art. 52 e os incisos I a IV do caput do art. 144.
 
-  I - portadores de deficiência;
+ **§ 4º-C.** Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação.
 
-  II - que exerçam atividades de risco;
+ **§ 5º** Os ocupantes do cargo de professor terão idade mínima reduzida em 5 (cinco) anos em relação às idades decorrentes da aplicação do disposto no inciso III do § 1º, desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar do respectivo ente federativo.
 
-  III - cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
+ **§ 6º** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta de regime próprio de previdência social, aplicando-se outras vedações, regras e condições para a acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social.
 
- **§ 5º** Os requisitos de idade e de tempo de contribuição serão reduzidos em cinco anos, em relação ao disposto no § 1º, III, a, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
-
- **§ 6º** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta do regime de previdência previsto neste artigo.
-
- **§ 7º** Lei disporá sobre a concessão do benefício de pensão por morte, que será igual:
-
-  I - ao valor da totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso aposentado à data do óbito; ou
-
-  II - ao valor da totalidade da remuneração do servidor no cargo efetivo em que se deu o falecimento, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso em atividade na data do óbito.
+ **§ 7º** Observado o disposto no § 2º do art. 201, quando se tratar da única fonte de renda formal auferida pelo dependente, o benefício de pensão por morte será concedido nos termos de lei do respectivo ente federativo, a qual tratará de forma diferenciada a hipótese de morte dos servidores de que trata o § 4º-B decorrente de agressão sofrida no exercício ou em razão da função.
 
  **§ 8º** É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei.
 
- **§ 9º** O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente para efeito de disponibilidade.
+ **§ 9º** O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, observado o disposto nos §§ 9º e 9º-A do art. 201, e o tempo de serviço correspondente será contado para fins de disponibilidade.
 
  **§ 10.** A lei não poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício.
 
  **§ 11.** Aplica-se o limite fixado no art. 37, XI, à soma total dos proventos de inatividade, inclusive quando decorrentes da acumulação de cargos ou empregos públicos, bem como de outras atividades sujeitas a contribuição para o regime geral de previdência social, e ao montante resultante da adição de proventos de inatividade com remuneração de cargo acumulável na forma desta Constituição, cargo em comissão declarado em lei de livre nomeação e exoneração, e de cargo eletivo.
 
- **§ 12.** Além do disposto neste artigo, o regime de previdência dos servidores públicos titulares de cargo efetivo observará, no que couber, os requisitos e critérios fixados para o regime geral de previdência social.
+ **§ 12.** Além do disposto neste artigo, serão observados, em regime próprio de previdência social, no que couber, os requisitos e critérios fixados para o Regime Geral de Previdência Social.
 
- **§ 13.** Ao servidor ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração bem como de outro cargo temporário ou de emprego público, aplica-se o regime geral de previdência social.
+ **§ 13.** Aplica-se ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário, inclusive mandato eletivo, ou de emprego público, o Regime Geral de Previdência Social.
 
- **§ 14.** A União, os Estados, o Distrito Federal e os Municípios, desde que instituam regime de previdência complementar para os seus respectivos servidores titulares de cargo efetivo, poderão fixar, para o valor das aposentadorias e pensões a serem concedidas pelo regime de que trata este artigo, o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201.
+ **§ 14.** A União, os Estados, o Distrito Federal e os Municípios instituirão, por lei de iniciativa do respectivo Poder Executivo, regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § 16.
 
- **§ 15.** O regime de previdência complementar de que trata o § 14 será instituído por lei de iniciativa do respectivo Poder Executivo, observado o disposto no art. 202 e seus parágrafos, no que couber, por intermédio de entidades fechadas de previdência complementar, de natureza pública, que oferecerão aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida.
+ **§ 15.** O regime de previdência complementar de que trata o § 14 oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no art. 202 e será efetivado por intermédio de entidade fechada de previdência complementar ou de entidade aberta de previdência complementar.
 
  **§ 16.** Somente mediante sua prévia e expressa opção, o disposto nos §§ 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição do correspondente regime de previdência complementar.
 
@@ -1256,11 +1256,33 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 18.** Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo regime de que trata este artigo que superem o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
 
- **§ 19.** O servidor de que trata este artigo que tenha completado as exigências para aposentadoria voluntária estabelecidas no § 1º, III, a, e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no § 1º, II.
+ **§ 19.** Observados critérios a serem estabelecidos em lei do respectivo ente federativo, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória.
 
- **§ 20.** Fica vedada a existência de mais de um regime próprio de previdência social para os servidores titulares de cargos efetivos, e de mais de uma unidade gestora do respectivo regime em cada ente estatal, ressalvado o disposto no art. 142, § 3º, X.
+ **§ 20.** É vedada a existência de mais de um regime próprio de previdência social e de mais de um órgão ou entidade gestora desse regime em cada ente federativo, abrangidos todos os poderes, órgãos e entidades autárquicas e fundacionais, que serão responsáveis pelo seu financiamento, observados os critérios, os parâmetros e a natureza jurídica definidos na lei complementar de que trata o § 22.
 
- **§ 21.** A contribuição prevista no § 18 deste artigo incidirá apenas sobre as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201 desta Constituição, quando o beneficiário, na forma da lei, for portador de doença incapacitante.
+ **§ 21.** (Revogado).
+
+ **§ 22.** Vedada a instituição de novos regimes próprios de previdência social, lei complementar federal estabelecerá, para os que já existam, normas gerais de organização, de funcionamento e de responsabilidade em sua gestão, dispondo, entre outros aspectos, sobre:
+
+  I - requisitos para sua extinção e consequente migração para o Regime Geral de Previdência Social;
+
+  II - modelo de arrecadação, de aplicação e de utilização dos recursos;
+
+  III - fiscalização pela União e controle externo e social;
+
+  IV - definição de equilíbrio financeiro e atuarial;
+
+  V - condições para instituição do fundo com finalidade previdenciária de que trata o art. 249 e para vinculação a ele dos recursos provenientes de contribuições e dos bens, direitos e ativos de qualquer natureza;
+
+  VI - mecanismos de equacionamento do deficit atuarial;
+
+  VII - estruturação do órgão ou entidade gestora do regime, observados os princípios relacionados com governança, controle interno e transparência;
+
+  VIII - condições e hipóteses para responsabilização daqueles que desempenhem atribuições relacionadas, direta ou indiretamente, com a gestão do regime;
+
+  IX - condições para adesão a consórcio público;
+
+  X - parâmetros para apuração da base de cálculo e definição de alíquota de contribuições ordinárias e extraordinárias.
 
 **Art. 41.** São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
 
@@ -2124,7 +2146,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VII - o juiz titular residirá na respectiva comarca, salvo autorização do tribunal;
 
-  VIII - o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse público, fundar-se-á em decisão por voto da maioria absoluta do respectivo tribunal ou do Conselho Nacional de Justiça, assegurada ampla defesa;
+  VIII - o ato de remoção ou de disponibilidade do magistrado, por interesse público, fundar-se-á em decisão por voto da maioria absoluta do respectivo tribunal ou do Conselho Nacional de Justiça, assegurada ampla defesa;
 
   VIII-A - a remoção a pedido ou a permuta de magistrados de comarca de igual entrância atenderá, no que couber, ao disposto nas alíneas a, b, c e e do inciso II;
 
@@ -2412,7 +2434,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Poder Judiciário, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência do Tribunal de Contas da União;
 
-  III - receber e conhecer das reclamações contra membros ou órgãos do Poder Judiciário, inclusive contra seus serviços auxiliares, serventias e órgãos prestadores de serviços notariais e de registro que atuem por delegação do poder público ou oficializados, sem prejuízo da competência disciplinar e correicional dos tribunais, podendo avocar processos disciplinares em curso e determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa;
+  III - receber e conhecer das reclamações contra membros ou órgãos do Poder Judiciário, inclusive contra seus serviços auxiliares, serventias e órgãos prestadores de serviços notariais e de registro que atuem por delegação do poder público ou oficializados, sem prejuízo da competência disciplinar e correicional dos tribunais, podendo avocar processos disciplinares em curso, determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada ampla defesa;
 
   IV - representar ao Ministério Público, no caso de crime contra a administração pública ou de abuso de autoridade;
 
@@ -2554,7 +2576,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 2º** As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
 
- **§ 3º** Serão processadas e julgadas na Justiça estadual, no foro do domicílio dos segurados ou beneficiários, as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal, e, se verificada essa condição, a lei poderá permitir que outras causas sejam também processadas e julgadas pela Justiça estadual.
+ **§ 3º** Lei poderá autorizar que as causas de competência da Justiça Federal em que forem parte instituição de previdência social e segurado possam ser processadas e julgadas na justiça estadual quando a comarca do domicílio do segurado não for sede de vara federal.
 
  **§ 4º** Na hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau.
 
@@ -2864,7 +2886,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   II - zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas;
 
-  III - receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa;
+  III - receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada ampla defesa;
 
   IV - rever, de ofício ou mediante provocação, os processos disciplinares de membros do Ministério Público da União ou dos Estados julgados há menos de um ano;
 
@@ -3138,7 +3160,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 149.** Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
 
- **§ 1º** Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
+ **§ 1º** A União, os Estados, o Distrito Federal e os Municípios instituirão, por meio de lei, contribuições para custeio de regime próprio de previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas, que poderão ter alíquotas progressivas de acordo com o valor da base de contribuição ou dos proventos de aposentadoria e de pensões.
+
+ **§ 1º-A.** Quando houver deficit atuarial, a contribuição ordinária dos aposentados e pensionistas poderá incidir sobre o valor dos proventos de aposentadoria e de pensões que supere o salário-mínimo.
+
+ **§ 1º-B.** Demonstrada a insuficiência da medida prevista no § 1º-A para equacionar o deficit atuarial, é facultada a instituição de contribuição extraordinária, no âmbito da União, dos servidores públicos ativos, dos aposentados e dos pensionistas.
+
+ **§ 1º-C.** A contribuição extraordinária de que trata o § 1º-B deverá ser instituída simultaneamente com outras medidas para equacionamento do deficit e vigorará por período determinado, contado da data de sua instituição.
 
  **§ 2º** As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
 
@@ -3678,7 +3706,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos Municípios;
 
-  XI - a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201.
+  XI - a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201;
+
+  XII - na forma estabelecida na lei complementar de que trata o § 22 do art. 40, a utilização de recursos de regime próprio de previdência social, incluídos os valores integrantes dos fundos previstos no art. 249, para a realização de despesas distintas do pagamento dos benefícios previdenciários do respectivo fundo vinculado àquele regime e das despesas necessárias à sua organização e ao seu funcionamento;
+
+  XIII - a transferência voluntária de recursos, a concessão de avais, as garantias e as subvenções pela União e a concessão de empréstimos e de financiamentos por instituições financeiras federais aos Estados, ao Distrito Federal e aos Municípios na hipótese de descumprimento das regras gerais de organização e de funcionamento de regime próprio de previdência social.
 
  **§ 1º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade.
 
@@ -4000,7 +4032,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - eqüidade na forma de participação no custeio;
 
-  VI - diversidade da base de financiamento;
+  VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis específicas para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência social, preservado o caráter contributivo da previdência social;
 
   VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados.
 
@@ -4014,7 +4046,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
     _c)_ o lucro;
 
-  II - do trabalhador e dos demais segurados da previdência social, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201;
+  II - do trabalhador e dos demais segurados da previdência social, podendo ser adotadas alíquotas progressivas de acordo com o valor do salário de contribuição, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social;
 
   III - sobre a receita de concursos de prognósticos.
 
@@ -4036,15 +4068,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 8º** O produtor, o parceiro, o meeiro e o arrendatário rurais e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei.
 
- **§ 9º** As contribuições sociais previstas no inciso I do caput deste artigo poderão ter alíquotas ou bases de cálculo diferenciadas, em razão da atividade econômica, da utilização intensiva de mão-de-obra, do porte da empresa ou da condição estrutural do mercado de trabalho.
+ **§ 9º** As contribuições sociais previstas no inciso I do caput deste artigo poderão ter alíquotas diferenciadas em razão da atividade econômica, da utilização intensiva de mão de obra, do porte da empresa ou da condição estrutural do mercado de trabalho, sendo também autorizada a adoção de bases de cálculo diferenciadas apenas no caso das alíneas "b" e "c" do inciso I do caput.
 
  **§ 10.** A lei definirá os critérios de transferência de recursos para o sistema único de saúde e ações de assistência social da União para os Estados, o Distrito Federal e os Municípios, e dos Estados para os Municípios, observada a respectiva contrapartida de recursos.
 
- **§ 11.** É vedada a concessão de remissão ou anistia das contribuições sociais de que tratam os incisos I, a, e II deste artigo, para débitos em montante superior ao fixado em lei complementar.
+ **§ 11.** São vedados a moratória e o parcelamento em prazo superior a 60 (sessenta) meses e, na forma de lei complementar, a remissão e a anistia das contribuições sociais de que tratam a alínea "a" do inciso I e o inciso II do caput.
 
  **§ 12.** A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do caput, serão não-cumulativas.
 
- **§ 13.** Aplica-se o disposto no § 12 inclusive na hipótese de substituição gradual, total ou parcial, da contribuição incidente na forma do inciso I, a, pela incidente sobre a receita ou o faturamento.
+ **§ 13.** (Revogado).
+
+ **§ 14.** O segurado somente terá reconhecida como tempo de contribuição ao Regime Geral de Previdência Social a competência cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria, assegurado o agrupamento de contribuições.
 
 #### Seção II: Da Saúde
 
@@ -4116,9 +4150,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 #### Seção III: Da Previdência Social
 
-**Art. 201.** A previdência social será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+**Art. 201.** A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, na forma da lei, a:
 
-  I - cobertura dos eventos de doença, invalidez, morte e idade avançada;
+  I - cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade avançada;
 
   II - proteção à maternidade, especialmente à gestante;
 
@@ -4128,7 +4162,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   V - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º.
 
- **§ 1º** É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física e quando se tratar de segurados portadores de deficiência, nos termos definidos em lei complementar.
+ **§ 1º** É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios, ressalvada, nos termos de lei complementar, a possibilidade de previsão de idade e tempo de contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos segurados:
+
+  I - com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar;
+
+  II - cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação.
 
  **§ 2º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.
 
@@ -4142,21 +4180,29 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 7º** É assegurada aposentadoria no regime geral de previdência social, nos termos da lei, obedecidas as seguintes condições:
 
-  I - trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
+  I - 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois) anos de idade, se mulher, observado tempo mínimo de contribuição;
 
-  II - sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.
+  II - 60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher, para os trabalhadores rurais e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.
 
- **§ 8º** Os requisitos a que se refere o inciso I do parágrafo anterior serão reduzidos em cinco anos, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
+ **§ 8º** O requisito de idade a que se refere o inciso I do § 7º será reduzido em 5 (cinco) anos, para o professor que comprove tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar.
 
- **§ 9º** Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
+ **§ 9º** Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei.
 
- **§ 10.** Lei disciplinará a cobertura do risco de acidente do trabalho, a ser atendida concorrentemente pelo regime geral de previdência social e pelo setor privado.
+ **§ 9º-A.** O tempo de serviço militar exercido nas atividades de que tratam os arts. 42, 142 e 143 e o tempo de contribuição ao Regime Geral de Previdência Social ou a regime próprio de previdência social terão contagem recíproca para fins de inativação militar ou aposentadoria, e a compensação financeira será devida entre as receitas de contribuição referentes aos militares e as receitas de contribuição aos demais regimes.
+
+ **§ 10.** Lei complementar poderá disciplinar a cobertura de benefícios não programados, inclusive os decorrentes de acidente do trabalho, a ser atendida concorrentemente pelo Regime Geral de Previdência Social e pelo setor privado.
 
  **§ 11.** Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei.
 
- **§ 12.** Lei disporá sobre sistema especial de inclusão previdenciária para atender a trabalhadores de baixa renda e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda, garantindo-lhes acesso a benefícios de valor igual a um salário-mínimo.
+ **§ 12.** Lei instituirá sistema especial de inclusão previdenciária, com alíquotas diferenciadas, para atender aos trabalhadores de baixa renda, inclusive os que se encontram em situação de informalidade, e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda.
 
- **§ 13.** O sistema especial de inclusão previdenciária de que trata o § 12 deste artigo terá alíquotas e carências inferiores às vigentes para os demais segurados do regime geral de previdência social.
+ **§ 13.** A aposentadoria concedida ao segurado de que trata o § 12 terá valor de 1 (um) salário-mínimo.
+
+ **§ 14.** É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca.
+
+ **§ 15.** Lei complementar estabelecerá vedações, regras e condições para a acumulação de benefícios previdenciários.
+
+ **§ 16.** Os empregados dos consórcios públicos, das empresas públicas, das sociedades de economia mista e das suas subsidiárias serão aposentados compulsoriamente, observado o cumprimento do tempo mínimo de contribuição, ao atingir a idade máxima de que trata o inciso II do § 1º do art. 40, na forma estabelecida em lei.
 
 **Art. 202.** O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar.
 
@@ -4166,11 +4212,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** É vedado o aporte de recursos a entidade de previdência privada pela União, Estados, Distrito Federal e Municípios, suas autarquias, fundações, empresas públicas, sociedades de economia mista e outras entidades públicas, salvo na qualidade de patrocinador, situação na qual, em hipótese alguma, sua contribuição normal poderá exceder a do segurado.
 
- **§ 4º** Lei complementar disciplinará a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadoras de entidades fechadas de previdência privada, e suas respectivas entidades fechadas de previdência privada.
+ **§ 4º** Lei complementar disciplinará a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadores de planos de benefícios previdenciários, e as entidades de previdência complementar.
 
- **§ 5º** A lei complementar de que trata o parágrafo anterior aplicar-se-á, no que couber, às empresas privadas permissionárias ou concessionárias de prestação de serviços públicos, quando patrocinadoras de entidades fechadas de previdência privada.
+ **§ 5º** A lei complementar de que trata o § 4º aplicar-se-á, no que couber, às empresas privadas permissionárias ou concessionárias de prestação de serviços públicos, quando patrocinadoras de planos de benefícios em entidades de previdência complementar.
 
- **§ 6º** A lei complementar a que se refere o § 4º deste artigo estabelecerá os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência privada e disciplinará a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação.
+ **§ 6º** Lei complementar estabelecerá os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência complementar instituídas pelos patrocinadores de que trata o § 4º e disciplinará a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação.
 
 #### Seção IV: Da Assistência Social
 
@@ -4694,15 +4740,17 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 238.** A lei ordenará a venda e revenda de combustíveis de petróleo, álcool carburante e outros combustíveis derivados de matérias-primas renováveis, respeitados os princípios desta Constituição.
 
-**Art. 239.** A arrecadação decorrente das contribuições para o Programa de Integração Social, criado pela Lei Complementar nº 7, de 7 de setembro de 1970, e para o Programa de Formação do Patrimônio do Servidor Público, criado pela Lei Complementar nº 8, de 3 de dezembro de 1970, passa, a partir da promulgação desta Constituição, a financiar, nos termos que a lei dispuser, o programa do seguro-desemprego e o abono de que trata o § 3º deste artigo.
+**Art. 239.** A arrecadação decorrente das contribuições para o Programa de Integração Social, criado pela Lei Complementar nº 7, de 7 de setembro de 1970, e para o Programa de Formação do Patrimônio do Servidor Público, criado pela Lei Complementar nº 8, de 3 de dezembro de 1970, passa, a partir da promulgação desta Constituição, a financiar, nos termos que a lei dispuser, o programa do seguro-desemprego, outras ações da previdência social e o abono de que trata o § 3º deste artigo.
 
- **§ 1º** Dos recursos mencionados no caput deste artigo, pelo menos quarenta por cento serão destinados a financiar programas de desenvolvimento econômico, através do Banco Nacional de Desenvolvimento Econômico e Social, com critérios de remuneração que lhes preservem o valor.
+ **§ 1º** Dos recursos mencionados no caput, no mínimo 28% (vinte e oito por cento) serão destinados para o financiamento de programas de desenvolvimento econômico, por meio do Banco Nacional de Desenvolvimento Econômico e Social, com critérios de remuneração que preservem o seu valor.
 
  **§ 2º** Os patrimônios acumulados do Programa de Integração Social e do Programa de Formação do Patrimônio do Servidor Público são preservados, mantendo-se os critérios de saque nas situações previstas nas leis específicas, com exceção da retirada por motivo de casamento, ficando vedada a distribuição da arrecadação de que trata o caput deste artigo, para depósito nas contas individuais dos participantes.
 
  **§ 3º** Aos empregados que percebam de empregadores que contribuem para o Programa de Integração Social ou para o Programa de Formação do Patrimônio do Servidor Público, até dois salários mínimos de remuneração mensal, é assegurado o pagamento de um salário mínimo anual, computado neste valor o rendimento das contas individuais, no caso daqueles que já participavam dos referidos programas, até a data da promulgação desta Constituição.
 
  **§ 4º** O financiamento do seguro-desemprego receberá uma contribuição adicional da empresa cujo índice de rotatividade da força de trabalho superar o índice médio da rotatividade do setor, na forma estabelecida por lei.
+
+ **§ 5º** Os programas de desenvolvimento econômico financiados na forma do § 1º e seus resultados serão anualmente avaliados e divulgados em meio de comunicação social eletrônico e apresentados em reunião da comissão mista permanente de que trata o § 1º do art. 166.
 
 **Art. 240.** Ficam ressalvadas do disposto no art. 195 as atuais contribuições compulsórias dos empregadores sobre a folha de salários, destinadas às entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical.
 
@@ -5355,6 +5403,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 2**° Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5º do art. 212 da Constituição Federal.
 
  **§ 3º** (Revogado).
+
+ **§ 4º** A desvinculação de que trata o caput não se aplica às receitas das contribuições sociais destinadas ao custeio da seguridade social.
 
 **Art. 76-A.** São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2023, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes.
 
