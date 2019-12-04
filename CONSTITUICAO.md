@@ -636,7 +636,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios;
 
-  XIV - organizar e manter a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio;
+  XIV - organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio;
 
   XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;
 
@@ -996,7 +996,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Aos Deputados Distritais e à Câmara Legislativa aplica-se o disposto no art. 27.
 
- **§ 4º** Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, das polícias civil e militar e do corpo de bombeiros militar.
+ **§ 4º** Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, da polícia civil, da polícia penal, da polícia militar e do corpo de bombeiros militar.
 
 #### Seção II: Dos Territórios
 
@@ -3068,7 +3068,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   IV - polícias civis;
 
-  V - polícias militares e corpos de bombeiros militares.
+  V - polícias militares e corpos de bombeiros militares;
+
+  VI - polícias penais federal, estaduais e distrital.
 
  **§ 1º** A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a:
 
@@ -3087,6 +3089,10 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 4º** Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.
 
  **§ 5º** Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.
+
+ **§ 5º-A.** Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais.
+
+ **§ 6º** As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
 
  **§ 6º** As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
 
