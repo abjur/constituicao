@@ -3482,9 +3482,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** As parcelas de receita pertencentes aos Municípios, mencionadas no inciso IV, serão creditadas conforme os seguintes critérios:
 
-  I - três quartos, no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+  I - 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
 
-  II - até um quarto, de acordo com o que dispuser lei estadual ou, no caso dos Territórios, lei federal.
+  II - até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos.
 
 **Art. 159.** A União entregará:
 
@@ -3553,6 +3553,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
   VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios;
 
   VII - compatibilização das funções das instituições oficiais de crédito da União, resguardadas as características e condições operacionais plenas das voltadas ao desenvolvimento regional.
+
+**Art. 163-A.** A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais, conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, de forma a garantir a rastreabilidade, a comparabilidade e a publicidade dos dados coletados, os quais deverão ser divulgados em meio eletrônico de amplo acesso público.
 
 **Art. 164.** A competência da União para emitir moeda será exercida exclusivamente pelo Banco Central.
 
@@ -4050,6 +4052,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 **Art. 193.** A ordem social tem como base o primado do trabalho, e como objetivo o bem-estar e a justiça sociais.
 
+ **Parágrafo único.** O Estado exercerá a função de planejamento das políticas sociais, assegurada, na forma da lei, a participação da sociedade nos processos de formulação, de monitoramento, de controle e de avaliação dessas políticas.
+
 ### Capítulo II: Da Seguridade Social
 
 #### Seção I: Disposições Gerais
@@ -4306,6 +4310,8 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
   VIII - piso salarial profissional nacional para os profissionais da educação escolar pública, nos termos de lei federal.
 
+  IX - garantia do direito à educação e à aprendizagem ao longo da vida.
+
  **Parágrafo único.** A lei disporá sobre as categorias de trabalhadores considerados profissionais da educação básica e sobre a fixação de prazo para a elaboração ou adequação de seus planos de carreira, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
 
 **Art. 207.** As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.
@@ -4356,9 +4362,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 3º** Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.
 
- **§ 4º** Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.
+ **§ 4º** Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de forma a assegurar a universalização, a qualidade e a equidade do ensino obrigatório.
 
  **§ 5º** A educação básica pública atenderá prioritariamente ao ensino regular.
+
+ **§ 6º** A União, os Estados, o Distrito Federal e os Municípios exercerão ação redistributiva em relação a suas escolas.
+
+ **§ 7º** O padrão mínimo de qualidade de que trata o § 1º deste artigo considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na forma disposta em lei complementar, conforme o parágrafo único do art. 23 desta Constituição.
 
 **Art. 212.** A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
 
@@ -4373,6 +4383,68 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
  **§ 5º** A educação básica pública terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas na forma da lei.
 
  **§ 6º** As cotas estaduais e municipais da arrecadação da contribuição social do salário-educação serão distribuídas proporcionalmente ao número de alunos matriculados na educação básica nas respectivas redes públicas de ensino.
+
+ **§ 7º** É vedado o uso dos recursos referidos no caput e nos §§ 5º e 6º deste artigo para pagamento de aposentadorias e de pensões.
+
+ **§ 8º** Na hipótese de extinção ou de substituição de impostos, serão redefinidos os percentuais referidos no caput deste artigo e no inciso II do caput do art. 212-A, de modo que resultem recursos vinculados à manutenção e ao desenvolvimento do ensino, bem como os recursos subvinculados aos fundos de que trata o art. 212-A desta Constituição, em aplicações equivalentes às anteriormente praticadas.
+
+ **§ 9º** A lei disporá sobre normas de fiscalização, de avaliação e de controle das despesas com educação nas esferas estadual, distrital e municipal.
+
+**Art. 212-A.** Os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. 212 desta Constituição à manutenção e ao desenvolvimento do ensino na educação básica e à remuneração condigna de seus profissionais, respeitadas as seguintes disposições:
+
+  I - a distribuição dos recursos e de responsabilidades entre o Distrito Federal, os Estados e seus Municípios é assegurada mediante a instituição, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de natureza contábil;
+
+  II - os fundos referidos no inciso I do caput deste artigo serão constituídos por 20% (vinte por cento) dos recursos a que se referem os incisos I, II e III do caput do art. 155, o inciso II do caput do art. 157, os incisos II, III e IV do caput do art. 158 e as alíneas "a" e "b" do inciso I e o inciso II do caput do art. 159 desta Constituição;
+
+  III - os recursos referidos no inciso II do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição, observadas as ponderações referidas na alínea "a" do inciso X do caput e no § 2º deste artigo;
+
+  IV - a União complementará os recursos dos fundos a que se refere o inciso II do caput deste artigo;
+
+  V - a complementação da União será equivalente a, no mínimo, 23% (vinte e três por cento) do total de recursos a que se refere o inciso II do caput deste artigo, distribuída da seguinte forma:
+
+    _a)_ 10 (dez) pontos percentuais no âmbito de cada Estado e do Distrito Federal, sempre que o valor anual por aluno (VAAF), nos termos do inciso III do caput deste artigo, não alcançar o mínimo definido nacionalmente;
+
+    _b)_ no mínimo, 10,5 (dez inteiros e cinco décimos) pontos percentuais em cada rede pública de ensino municipal, estadual ou distrital, sempre que o valor anual total por aluno (VAAT), referido no inciso VI do caput deste artigo, não alcançar o mínimo definido nacionalmente;
+
+    _c)_ 2,5 (dois inteiros e cinco décimos) pontos percentuais nas redes públicas que, cumpridas condicionalidades de melhoria de gestão previstas em lei, alcançarem evolução de indicadores a serem definidos, de atendimento e melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica;
+
+  VI - o VAAT será calculado, na forma da lei de que trata o inciso X do caput deste artigo, com base nos recursos a que se refere o inciso II do caput deste artigo, acrescidos de outras receitas e de transferências vinculadas à educação, observado o disposto no § 1º e consideradas as matrículas nos termos do inciso III do caput deste artigo;
+
+  VII - os recursos de que tratam os incisos II e IV do caput deste artigo serão aplicados pelos Estados e pelos Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição;
+
+  VIII - a vinculação de recursos à manutenção e ao desenvolvimento do ensino estabelecida no art. 212 desta Constituição suportará, no máximo, 30% (trinta por cento) da complementação da União, considerados para os fins deste inciso os valores previstos no inciso V do caput deste artigo;
+
+  IX - o disposto no caput do art. 160 desta Constituição aplica-se aos recursos referidos nos incisos II e IV do caput deste artigo, e seu descumprimento pela autoridade competente importará em crime de responsabilidade;
+
+  X - a lei disporá, observadas as garantias estabelecidas nos incisos I, II, III e IV do caput e no § 1º do art. 208 e as metas pertinentes do plano nacional de educação, nos termos previstos no art. 214 desta Constituição, sobre:
+
+    _a)_ a organização dos fundos referidos no inciso I do caput deste artigo e a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, observados as respectivas especificidades e os insumos necessários para a garantia de sua qualidade;
+
+    _b)_ a forma de cálculo do VAAF decorrente do inciso III do caput deste artigo e do VAAT referido no inciso VI do caput deste artigo;
+
+    _c)_ a forma de cálculo para distribuição prevista na alínea "c" do inciso V do caput deste artigo;
+
+    _d)_ a transparência, o monitoramento, a fiscalização e o controle interno, externo e social dos fundos referidos no inciso I do caput deste artigo, assegurada a criação, a autonomia, a manutenção e a consolidação de conselhos de acompanhamento e controle social, admitida sua integração aos conselhos de educação;
+
+    _e)_ o conteúdo e a periodicidade da avaliação, por parte do órgão responsável, dos efeitos redistributivos, da melhoria dos indicadores educacionais e da ampliação do atendimento;
+
+  XI - proporção não inferior a 70% (setenta por cento) de cada fundo referido no inciso I do caput deste artigo, excluídos os recursos de que trata a alínea "c" do inciso V do caput deste artigo, será destinada ao pagamento dos profissionais da educação básica em efetivo exercício, observado, em relação aos recursos previstos na alínea "b" do inciso V do caput deste artigo, o percentual mínimo de 15% (quinze por cento) para despesas de capital;
+
+  XII - lei específica disporá sobre o piso salarial profissional nacional para os profissionais do magistério da educação básica pública;
+
+  XIII - a utilização dos recursos a que se refere o § 5º do art. 212 desta Constituição para a complementação da União ao Fundeb, referida no inciso V do caput deste artigo, é vedada.
+
+ **§ 1º** O cálculo do VAAT, referido no inciso VI do caput deste artigo, deverá considerar, além dos recursos previstos no inciso II do caput deste artigo, pelo menos, as seguintes disponibilidades:
+
+  I - receitas de Estados, do Distrito Federal e de Municípios vinculadas à manutenção e ao desenvolvimento do ensino não integrantes dos fundos referidos no inciso I do caput deste artigo;
+
+  II - cotas estaduais e municipais da arrecadação do salário-educação de que trata o § 6º do art. 212 desta Constituição;
+
+  III - complementação da União transferida a Estados, ao Distrito Federal e a Municípios nos termos da alínea "a" do inciso V do caput deste artigo.
+
+ **§ 2º** Além das ponderações previstas na alínea "a" do inciso X do caput deste artigo, a lei definirá outras relativas ao nível socioeconômico dos educandos e aos indicadores de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, bem como seus prazos de implementação.
+
+ **§ 3º** Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea "b" do inciso V do caput deste artigo, nos termos da lei.
 
 **Art. 213.** Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:
 
@@ -5284,79 +5356,67 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **Parágrafo único.** Aprovados pelo Congresso Nacional, os planos serão implantados progressivamente nos dezoito meses seguintes.
 
-**Art. 60.** Até o 14º (décimo quarto) ano a partir da promulgação desta Emenda Constitucional, os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. 212 da Constituição Federal à manutenção e desenvolvimento da educação básica e à remuneração condigna dos trabalhadores da educação, respeitadas as seguintes disposições:
+**Art. 60.** A complementação da União referida no inciso IV do caput do art. 212-A da Constituição Federal será implementada progressivamente até alcançar a proporção estabelecida no inciso V do caput do mesmo artigo, a partir de 1º de janeiro de 2021, nos seguintes valores mínimos:
 
-  I - a distribuição dos recursos e de responsabilidades entre o Distrito Federal, os Estados e seus Municípios é assegurada mediante a criação, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, de natureza contábil;
+  I - 12% (doze por cento), no primeiro ano;
 
-  II - os Fundos referidos no inciso I do caput deste artigo serão constituídos por 20% (vinte por cento) dos recursos a que se referem os incisos I, II e III do art. 155; o inciso II do caput do art. 157; os incisos II, III e IV do caput do art. 158; e as alíneas a e b do inciso I e o inciso II do caput do art. 159, todos da Constituição Federal, e distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial, matriculados nas respectivas redes, nos respectivos âmbitos de atuação prioritária estabelecidos nos §§ 2º e 3º do art. 211 da Constituição Federal;
+  II - 15% (quinze por cento), no segundo ano;
 
-  III - observadas as garantias estabelecidas nos incisos I, II, III e IV do caput do art. 208 da Constituição Federal e as metas de universalização da educação básica estabelecidas no Plano Nacional de Educação, a lei disporá sobre:
+  III - 17% (dezessete por cento), no terceiro ano;
 
-    _a)_ a organização dos Fundos, a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas e modalidades da educação básica e tipos de estabelecimento de ensino;
+  IV - 19% (dezenove por cento), no quarto ano;
 
-    _b)_ a forma de cálculo do valor anual mínimo por aluno;
+  V - 21% (vinte e um por cento), no quinto ano;
 
-    _c)_ os percentuais máximos de apropriação dos recursos dos Fundos pelas diversas etapas e modalidades da educação básica, observados os arts. 208 e 214 da Constituição Federal, bem como as metas do Plano Nacional de Educação;
+  VI - 23% (vinte e três por cento), no sexto ano.
 
-    _d)_ a fiscalização e o controle dos Fundos;
+  VII - (Suprimido)
 
-    _e)_ prazo para fixar, em lei específica, piso salarial profissional nacional para os profissionais do magistério público da educação básica;
+  VIII - (Suprimido)
 
-  IV - os recursos recebidos à conta dos Fundos instituídos nos termos do inciso I do caput deste artigo serão aplicados pelos Estados e Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 da Constituição Federal;
+  VIX - (Suprimido)
 
-  V - a União complementará os recursos dos Fundos a que se refere o inciso II do caput deste artigo sempre que, no Distrito Federal e em cada Estado, o valor por aluno não alcançar o mínimo definido nacionalmente, fixado em observância ao disposto no inciso VII do caput deste artigo, vedada a utilização dos recursos a que se refere o § 5º do art. 212 da Constituição Federal;
+  X - (Suprimido)
 
-  VI - até 10% (dez por cento) da complementação da União prevista no inciso V do caput deste artigo poderá ser distribuída para os Fundos por meio de programas direcionados para a melhoria da qualidade da educação, na forma da lei a que se refere o inciso III do caput deste artigo;
+  XI - (Suprimido)
 
-  VII - a complementação da União de que trata o inciso V do caput deste artigo será de, no mínimo:
+  XII - (Suprimido)
 
-    _a)_ R$ 2.000.000.000,00 (dois bilhões de reais), no primeiro ano de vigência dos Fundos;
+ **§ 1º** A parcela da complementação de que trata a alínea "b" do inciso V do caput do art. 212-A da Constituição Federal observará, no mínimo, os seguintes valores:
 
-    _b)_ R$ 3.000.000.000,00 (três bilhões de reais), no segundo ano de vigência dos Fundos;
+  I - 2 (dois) pontos percentuais, no primeiro ano;
 
-    _c)_ R$ 4.500.000.000,00 (quatro bilhões e quinhentos milhões de reais), no terceiro ano de vigência dos Fundos;
+  II - 5 (cinco) pontos percentuais, no segundo ano;
 
-    _d)_ 10% (dez por cento) do total dos recursos a que se refere o inciso II do caput deste artigo, a partir do quarto ano de vigência dos Fundos;
+  III - 6,25 (seis inteiros e vinte e cinco centésimos) pontos percentuais, no terceiro ano;
 
-  VIII - a vinculação de recursos à manutenção e desenvolvimento do ensino estabelecida no art. 212 da Constituição Federal suportará, no máximo, 30% (trinta por cento) da complementação da União, considerando-se para os fins deste inciso os valores previstos no inciso VII do caput deste artigo;
+  IV - 7,5 (sete inteiros e cinco décimos) pontos percentuais, no quarto ano;
 
-  IX - os valores a que se referem as alíneas a, b, e c do inciso VII do caput deste artigo serão atualizados, anualmente, a partir da promulgação desta Emenda Constitucional, de forma a preservar, em caráter permanente, o valor real da complementação da União;
+  V - 9 (nove) pontos percentuais, no quinto ano;
 
-  X - aplica-se à complementação da União o disposto no art. 160 da Constituição Federal;
+  VI - 10,5 (dez inteiros e cinco décimos) pontos percentuais, no sexto ano.
 
-  XI - o não-cumprimento do disposto nos incisos V e VII do caput deste artigo importará crime de responsabilidade da autoridade competente;
+ **§ 2º** A parcela da complementação de que trata a alínea "c" do inciso V do caput do art. 212-A da Constituição Federal observará os seguintes valores:
 
-  XII - proporção não inferior a 60% (sessenta por cento) de cada Fundo referido no inciso I do caput deste artigo será destinada ao pagamento dos profissionais do magistério da educação básica em efetivo exercício.
+  I - 0,75 (setenta e cinco centésimos) ponto percentual, no terceiro ano;;
 
- **§ 1º** A União, os Estados, o Distrito Federal e os Municípios deverão assegurar, no financiamento da educação básica, a melhoria da qualidade de ensino, de forma a garantir padrão mínimo definido nacionalmente.
+  II - 1,5 (um inteiro e cinco décimos) ponto percentual, no quarto ano;
 
- **§ 2º** O valor por aluno do ensino fundamental, no Fundo de cada Estado e do Distrito Federal, não poderá ser inferior ao praticado no âmbito do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, no ano anterior à vigência desta Emenda Constitucional.
+  III - 2 (dois) pontos percentuais, no quinto ano;
 
- **§ 3º** O valor anual mínimo por aluno do ensino fundamental, no âmbito do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, não poderá ser inferior ao valor mínimo fixado nacionalmente no ano anterior ao da vigência desta Emenda Constitucional.
+  IV - 2,5 (dois inteiros e cinco décimos) pontos percentuais, no sexto ano.
 
- **§ 4º** Para efeito de distribuição de recursos dos Fundos a que se refere o inciso I do caput deste artigo, levar-se-á em conta a totalidade das matrículas no ensino fundamental e considerar-se-á para a educação infantil, para o ensino médio e para a educação de jovens e adultos 1/3 (um terço) das matrículas no primeiro ano, 2/3 (dois terços) no segundo ano e sua totalidade a partir do terceiro ano.
+ **§ 3º** (Suprimido)
 
- **§ 5º** A porcentagem dos recursos de constituição dos Fundos, conforme o inciso II do caput deste artigo, será alcançada gradativamente nos primeiros 3 (três) anos de vigência dos Fundos, da seguinte forma:
+ **§ 4º** (Suprimido)
 
-  I - no caso dos impostos e transferências constantes do inciso II do caput do art. 155; do inciso IV do caput do art. 158; e das alíneas a e b do inciso I e do inciso II do caput do art. 159 da Constituição Federal:
-
-    _a)_ 16,66% (dezesseis inteiros e sessenta e seis centésimos por cento), no primeiro ano;
-
-    _b)_ 18,33% (dezoito inteiros e trinta e três centésimos por cento), no segundo ano;
-
-    _c)_ 20% (vinte por cento), a partir do terceiro ano;
-
-  II - no caso dos impostos e transferências constantes dos incisos I e III do caput do art. 155; do inciso II do caput do art. 157; e dos incisos II e III do caput do art. 158 da Constituição Federal:
-
-    _a)_ 6,66% (seis inteiros e sessenta e seis centésimos por cento), no primeiro ano;
-
-    _b)_ 13,33% (treze inteiros e trinta e três centésimos por cento), no segundo ano;
-
-    _c)_ 20% (vinte por cento), a partir do terceiro ano.
+ **§ 5º** (Suprimido)
 
  **§ 6º** (Revogado).
 
  **§ 7º** (Revogado).
+
+**Art. 60-A.** Os critérios de distribuição da complementação da União e dos fundos a que se refere o inciso I do caput do art. 212-A da Constituição Federal serão revistos em seu sexto ano de vigência e, a partir dessa primeira revisão, periodicamente, a cada 10 (dez) anos.
 
 **Art. 61.** As entidades educacionais a que se refere o art. 213, bem como as fundações de ensino e pesquisa cuja criação tenha sido autorizada por lei, que preencham os requisitos dos incisos I e II do referido artigo e que, nos últimos três anos, tenham recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em contrário.
 
@@ -5854,7 +5914,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
  **§ 6º** Não se incluem na base de cálculo e nos limites estabelecidos neste artigo:
 
-  I - transferências constitucionais estabelecidas no § 1º do art. 20, no inciso III do parágrafo único do art. 146, no § 5º do art. 153, no art. 157, nos incisos I e II do art. 158, no art. 159 e no § 6º do art. 212, as despesas referentes ao inciso XIV do caput do art. 21, todos da Constituição Federal, e as complementações de que tratam os incisos V e VII do caput do art. 60, deste Ato das Disposições Constitucionais Transitórias;
+  I - transferências constitucionais estabelecidas no § 1º do art. 20, no inciso III do parágrafo único do art. 146, no § 5º do art. 153, no art. 157, nos incisos I e II do caput do art. 158, no art. 159 e no § 6º do art. 212, as despesas referentes ao inciso XIV do caput do art. 21 e as complementações de que tratam os incisos IV e V do caput do art. 212-A, todos da Constituição Federal;
 
   II - créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal;
 
