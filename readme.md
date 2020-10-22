@@ -164,7 +164,7 @@ Maior pela EMC, enquanto os verdes destacam trechos adicionados pela mesma.
 A última ferramenta para a análise manual da Constituição pode ser encontrada na
 [página do blame](https://github.com/abjur/constituicao/blame/main/CONSTITUICAO.md):
 a _history_ (também disponível diretamente através de
-[um link](https://github.com/abjur/constituicao/blame/main/CONSTITUICAO.md)).
+[um link](https://github.com/abjur/constituicao/commits/main/CONSTITUICAO.md)).
 
 ![](readme_files/history.png)
 
