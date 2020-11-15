@@ -174,7 +174,7 @@ ilustrada abaixo.
 Destacada em verde está a data de aprovação da EMC. Clicando nas reticências
 circunscritas pelo retângulo azul, a ementa da Emenda é exibida novamente. Por
 fim, o botão destacado em vermelho leva o Explorador de volta no tempo, para a
-data daquela EMC, one é possível utilizar todas as ferramentas destacadas no
+data daquela EMC, onde é possível utilizar todas as ferramentas destacadas no
 tutorial, mas em uma versão antiga da Constituição.
 
 ![](readme_files/commit.png)
