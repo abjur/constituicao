@@ -6,7 +6,7 @@ palavras. Não apenas extensa, a Constituição também é um texto que muda
 constantemente: desde a sua promulgação em 1988, ela já sofreu mais de 100
 revisões na forma de Emendas Constitucionais e Emendas de Revisão.
 
-Desde o leitor curioso até o programador mais inveterado, o objetivo do
+O objetivo do
 **Explorador da Constituição** é ajudar qualquer um a analisar a nossa Carta
 Magna! Abaixo você vai encontrar instruções sobre como funciona este repositório
 e informações úteis para explorar as bases de dados aqui disponibilizadas:
@@ -57,26 +57,24 @@ permitidos a partir da EMC 45, que previa que "tratados e convenções
 internacionais sobre direitos humanos que forem aprovados [como EMCs] serão
 equivalentes às emendas constitucionais". As Emendas Constitucionais de Revisão
 (EMRs) só puderam ser ratificadas durante a Revisão Constitucional prevista de
-1993, não sendo, portanto, mais permitidas.
+1993 e, portanto, não são mais permitidas.
 
 ### Estrutura
 
 O texto compilado atual conta com quase 3.000 itens que versam sobre os mais
-diversos aspectos da Federação. Como seria impossível organizar todas essas
-ideias e normas linearmente, a Lei Maior segue a hierarquia de qualquer outra
+diversos aspectos da Federação, organizados segundo a hierarquia de qualquer outra
 lei: títulos, capítulos, seções, subseções, artigos, parágrafos, incisos e
 alíneas.
 
-Para quem não estudou Direito, essa hierarquia pode parecer confusa, mas na
-verdade ela não é tão complicada assim. Os primeiros quatro níveis (títulos,
+Os primeiros quatro níveis (títulos,
 capítulos, seções, subseções) são apenas separações no texto, delimitando temas
-distintos. Nem todos esses níveis são necessários; podem haver títulos sem
+distintos. Nem todos esses níveis são necessários; pode haver títulos sem
 capítulos, capítulos sem seções e assim por diante, mas um capítulo sempre faz
 parte de um título, uma seção sempre faz parte de um capítulo, etc.
 
 Os outros quatro níveis (artigos, parágrafos, incisos e alíneas) são
-genericamente chamados de dispositivos, pois são eles que de fato contém o texto
-da Constituição. Aqui o padrão anterior se repete, por exemplo, um artigo pode
+genericamente chamados de dispositivos, pois são eles que de fato contêm o texto
+da Constituição. Aqui o padrão anterior se repete: por exemplo, um artigo pode
 não ter parágrafos, mas um parágrafo sempre faz parte de um artigo. Entretanto
 há uma exceção importante: artigos podem ter parágrafos **ou** incisos, mas um
 parágrafo também pode ter incisos. Isso pode parecer arbitrário e sem sentido,
@@ -97,11 +95,11 @@ numerais romanos para incisos e letras seguidas de um parêntese para alíneas):
 
 ### ADCT
 
-Os leitores mais atentos perceberão que o último título da Carta Magna é
+Último título da Carta Magna, o Ato das Disposições Constitucionais Transitórias (ADCT) é
 diferente dos outros. Primeiro que ele tem um nome particular, sem numeração, e
 segundo que ele reinicia a contagem dos artigos.
 
-O Ato das Disposições Constitucionais Transitórias (ADCT) é uma parte separada
+O ADCT é uma parte separada
 da Constituição que contém normas específicas referentes à transição da ditadura
 militar para o novo regime democrático e outros dispositivos com escopo temporal
 limitado. Mas não é por ser diferente que o ADCT tem menos valor; os seus
@@ -109,14 +107,14 @@ artigos têm o mesmo peso legal que os artigos do resto da Constituição.
 
 ## 🔍 Análise manual
 
-Caso você queira entender como a Constituição mudou com o tempo ou mesmo
+Caso você queira entender como a Constituição mudou com o tempo ou
 explorar a sua estrutura atual, este repositório é um ótimo recurso. Para os
 iniciantes, a recomendação é começar pela seção acima, pois a estrutura da nossa
 Lei Maior não é tão simples.
 
 O primeiro passo para utilizar o Explorador da Constituição é clicar no arquivo
 [`CONSTITUICAO.md`](CONSTITUICAO.md) acima e ser levado ao texto completo
-atualizado da Carta Magna. Lá é possível ler a Constituição, utilizar CTRL+F no
+atualizado. Lá, é possível ler a Constituição, utilizar CTRL+F no
 seu navegador para procurar excertos e copiar links para trechos do arquivo
 clicando nos elos ao lado de cada cabeçalho.
 
@@ -124,12 +122,12 @@ clicando nos elos ao lado de cada cabeçalho.
 
 ### Blame, diff e history
 
-No topo da página, entretanto, está o acesso a uma das ferramentas mais úteis
+No topo da página, está o acesso a uma das ferramentas mais úteis
 para entender a Constituição ao longo do tempo: o _blame_ (também disponível
 diretamente através de
 [um link](https://github.com/abjur/constituicao/blame/main/CONSTITUICAO.md)).
 Esse é um termo computacional que não importa no momento, basta apenas saber que
-ele trás a última versão na qual cada linha do arquivo foi alterada.
+ele traz a última versão na qual cada linha do arquivo foi alterada.
 
 Na imagem abaixo está o blame do inciso LXXVIII do Art. 5º. Como é possível ver,
 a coluna da esquerda indica que ele foi modificado pela última vez 16 anos
@@ -140,9 +138,9 @@ link direto para esse dispositivo.
 
 Ainda nesta visão, ao passar o mouse pelo número da EMC (retângulo vermelho na
 imagem abaixo), é exibida a ementa daquela Emenda. Um clique no ícone destacado
-pelo quadrado verde faz uma viagem no tempo e nos leva para o blame do texto
+pelo quadrado verde nos leva para o blame do texto
 compilado da Constituição em 8 de dezembro de 2004. A próxima ferramenta
-relevante do Explorador, entretanto, pode é acessada clicando-se no próprio
+relevante do Explorador, por sua vez, pode ser acessada clicando no próprio
 número da EMC.
 
 ![](readme_files/ementa.png)
@@ -156,8 +154,8 @@ inciso LXXVIII foi incluído na constituição pela EMC 45.
 ![](readme_files/diff.png)
 
 Ainda neste mesmo exemplo, um pouco mais abaixo na página está o trecho
-ilustrado a seguir. Grifos em vermelho representam trechos suprimidos da Lei
-Maior pela EMC, enquanto os verdes destacam trechos adicionados pela mesma.
+ilustrado a seguir. Grifos em vermelho representam trechos suprimidos da
+Constituição pela EMC, enquanto os verdes destacam trechos adicionados pela mesma.
 
 ![](readme_files/diff2.png)
 
@@ -169,14 +167,14 @@ a _history_ (também disponível diretamente através de
 ![](readme_files/history.png)
 
 Essa página contém o histórico com todas as Emendas Constitucionais aprovadas
-pelo Legislativo ao longo dos anos. Se voltarmos o suficiente para o passado,
+pelo Legislativo ao longo dos anos. Se voltarmos o suficiente no passado,
 é possível encontrar mais uma vez a nossa EMC de interesse para este tutorial,
 ilustrada abaixo.
 
 Destacada em verde está a data de aprovação da EMC. Clicando nas reticências
-circunscritas pelo retângulo azul é exibida novamente a ementa da Emenda. Por
+circunscritas pelo retângulo azul, a ementa da Emenda é exibida novamente. Por
 fim, o botão destacado em vermelho leva o Explorador de volta no tempo, para a
-data daquela EMC! Lá é possível utilizar todas as ferramentas destacadas no
+data daquela EMC, onde é possível utilizar todas as ferramentas destacadas no
 tutorial, mas em uma versão antiga da Constituição.
 
 ![](readme_files/commit.png)
@@ -188,12 +186,12 @@ programadores que querem utilizar os recursos mais avançados deste repositório
 Se você entende das funcionalidades principais do git/GitHub, como o blame, o
 diff e o histórico de commits, então não é necessário ler a seção anterior.
 
-Todas as pastas em caixa-alta contém dados que podem ser úteis para análises da
+Todas as pastas em caixa-alta contêm dados que podem ser úteis para análises da
 constituição. Cada arquivo desses diretórios é nomeado em referência a uma EMC e
-e à data na qual ela foi aprovada e contém, logicamente, os dados do texto
+e à data na qual ela foi aprovada e contém os dados do texto
 compilado da Constituição após a alterações daquela Emenda.
 
-A pasta `HTML/` tem os arquivos HTML crús
+A pasta `HTML/` tem os arquivos HTML crus
 [disponibilizados](https://www.senado.leg.br/atividade/const/constituicao-federal.asp)
 pelo Senado Federal em seu site que foram utilizados para gerar os outros dados
 e o arquivo markdown [`CONSTITUICAO.md`](CONSTITUICAO.md). A pasta `CSV/`
